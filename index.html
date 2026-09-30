@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Infra 资讯日报 · 内存池 / 存储 / AI Infra</title>
+<style>
+  :root{
+    --bg:#0f1115; --card:#171a21; --card2:#1d212b; --line:#262b37;
+    --text:#e8eaf0; --muted:#9aa3b5; --accent:#6ea8fe;
+    --c-mp:#c084fc; --c-st:#22d3ee; --c-ai:#34d399;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{
+    background:var(--bg); color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    line-height:1.6;
+  }
+  .wrap{max-width:860px; margin:0 auto; padding:24px 16px 80px;}
+  header.top{
+    position:sticky; top:0; z-index:10; background:rgba(15,17,21,.88);
+    backdrop-filter:blur(10px); border-bottom:1px solid var(--line);
+  }
+  .head-inner{max-width:860px; margin:0 auto; padding:16px;}
+  h1{font-size:22px; letter-spacing:.5px;}
+  .sub{color:var(--muted); font-size:13px; margin-top:2px;}
+  .meta{color:var(--muted); font-size:12px; margin-top:6px;}
+  .meta b{color:var(--accent); font-weight:600;}
+  .chips{display:flex; flex-wrap:wrap; gap:8px; margin:16px 0 6px;}
+  .chip{
+    border:1px solid var(--line); background:var(--card); color:var(--muted);
+    padding:6px 14px; border-radius:999px; cursor:pointer; font-size:13px;
+    transition:all .15s; user-select:none;
+  }
+  .chip:hover{border-color:#3a4356; color:var(--text);}
+  .chip.on{background:#2b3cycle; background:var(--card2); border-color:var(--accent); color:var(--accent);}
+  .chip .n{opacity:.7; font-size:12px; margin-left:4px;}
+  .count-line{color:var(--muted); font-size:12px; margin:4px 0 8px;}
+  .day{font-size:15px; font-weight:700; margin:22px 0 10px; color:#c6cede;
+    display:flex; align-items:center; gap:10px;}
+  .day::after{content:""; flex:1; height:1px; background:var(--line);}
+  .item{
+    background:var(--card); border:1px solid var(--line); border-radius:12px;
+    padding:14px 16px; margin-bottom:10px; transition:border-color .15s, transform .1s;
+  }
+  .item:hover{border-color:#3a4356;}
+  .item .row1{display:flex; align-items:flex-start; gap:10px;}
+  .badge{
+    flex:none; font-size:11px; padding:2px 9px; border-radius:6px; margin-top:3px;
+    font-weight:600; letter-spacing:.5px;
+  }
+  .b-memory-pool{background:rgba(192,132,252,.14); color:var(--c-mp);}
+  .b-storage{background:rgba(34,211,238,.12); color:var(--c-st);}
+  .b-ai-infra{background:rgba(52,211,153,.12); color:var(--c-ai);}
+  .item h3{font-size:15.5px; font-weight:600;}
+  .item h3 a{color:var(--text); text-decoration:none;}
+  .item h3 a:hover{color:var(--accent); text-decoration:underline;}
+  .item .sum{color:var(--muted); font-size:13px; margin-top:5px;}
+  .item .src{color:#6b7688; font-size:12px; margin-top:7px;}
+  .empty{color:var(--muted); text-align:center; padding:60px 0; font-size:14px;}
+  footer{color:#5c6675; font-size:12px; text-align:center; margin-top:40px;}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="head-inner">
+    <h1>AI Infra 资讯日报</h1>
+    <div class="sub">内存池(CXL) · 存储 · AI Infra — 每日 08:37 自动更新</div>
+    <div class="meta" id="meta">加载中…</div>
+    <div class="chips" id="chips"></div>
+  </div>
+</header>
+<main class="wrap">
+  <div class="count-line" id="countLine"></div>
+  <div id="list"><div class="empty">加载中…</div></div>
+  <footer>由 OpenClaw 定时抓取 · 数据仅供个人研究参考 · 版权归原作者所有</footer>
+</main>
+<script>
+const CATS = {
+  'memory-pool': {label:'内存池',  cls:'b-memory-pool'},
+  'storage':     {label:'存储',    cls:'b-storage'},
+  'ai-infra':    {label:'AI Infra',cls:'b-ai-infra'}
+};
+let DATA = {updatedAt:null, items:[]};
+let cur = 'all';
+
+function esc(s){
+  return String(s||'').replace(/[&<>"']/g, c => (
+    {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]
+  ));
+}
+function fmtTime(iso){
+  if(!iso) return '';
+  const d = new Date(iso);
+  const p = n => String(n).padStart(2,'0');
+  return `${d.getFullYear()}-${p(d.getMonth()+1)}-${p(d.getDate())} ${p(d.getHours())}:${p(d.getMinutes())}`;
+}
+function renderChips(){
+  const counts = {all:DATA.items.length};
+  Object.keys(CATS).forEach(k => counts[k] = DATA.items.filter(i => i.category===k).length);
+  const el = document.getElementById('chips');
+  el.innerHTML = [['all','全部']].concat(Object.keys(CATS).map(k => [k, CATS[k].label]))
+    .map(([k,label]) =>
+      `<div class="chip ${cur===k?'on':''}" data-k="${k}">${label}<span class="n">${counts[k]||0}</span></div>`
+    ).join('');
+}
+function render(){
+  document.getElementById('meta').innerHTML =
+    `共 <b>${DATA.items.length}</b> 条 · 最近更新 <b>${fmtTime(DATA.updatedAt)}</b>`;
+  renderChips();
+  const items = DATA.items.filter(i => cur==='all' || i.category===cur);
+  document.getElementById('countLine').textContent =
+    cur==='all' ? `全部资讯 ${items.length} 条` : `${CATS[cur].label}资讯 ${items.length} 条`;
+  const list = document.getElementById('list');
+  if(!items.length){ list.innerHTML = '<div class="empty">暂无内容</div>'; return; }
+  let html = '', lastDay = '';
+  items.forEach(i => {
+    const d = i.date || '';
+    if(d !== lastDay){ lastDay = d; html += `<div class="day">${esc(d)}</div>`; }
+    const c = CATS[i.category] || CATS['ai-infra'];
+    html += `<div class="item">
+      <div class="row1">
+        <span class="badge ${c.cls}">${c.label}</span>
+        <h3><a href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">${esc(i.title)}</a></h3>
+      </div>
+      ${i.summary ? `<div class="sum">${esc(i.summary)}</div>` : ''}
+      <div class="src">${esc(i.source||'')}${d?' · '+esc(d):''}</div>
+    </div>`;
+  });
+  list.innerHTML = html;
+}
+document.getElementById('chips').addEventListener('click', e => {
+  const chip = e.target.closest('.chip'); if(!chip) return;
+  cur = chip.dataset.k; renderChips(); render();
+});
+fetch('./data.json?v=' + Date.now())
+  .then(r => { if(!r.ok) throw new Error(r.status); return r.json(); })
+  .then(d => { DATA = d || DATA; render(); })
+  .catch(() => {
+    document.getElementById('meta').textContent = '数据加载失败';
+    document.getElementById('list').innerHTML =
+      '<div class="empty">数据加载失败，请稍后刷新重试</div>';
+  });
+</script>
+</body>
+</html>
