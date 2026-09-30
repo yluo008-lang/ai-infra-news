@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-09-29T08:38:16+08:00",
+  "updatedAt": "2026-09-30T08:38:10+08:00",
   "items": [
+    {
+      "date": "2026-09-30",
+      "category": "memory-pool",
+      "title": "Everspin 在 SNIA 开发者大会演示全球首个 CXL 连接的 MRAM 平台",
+      "url": "https://www.everspin.com/news/everspin-demonstrates-worlds-first-cxl-connected-mram-snia-developer-conference-2026",
+      "source": "Everspin",
+      "summary": "Everspin 演示全球首个 CXL 连接 MRAM 平台，1GB 模块断电不丢数据，已开放客户负载测试。"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "memory-pool",
+      "title": "HPCwire：数据中心的 AI 触及功率极限，数据搬运决定性能",
+      "url": "https://www.hpcwire.com/2026/09/28/data-center-ai-at-the-power-limit-when-data-movement-defines-performance/",
+      "source": "HPCwire",
+      "summary": "报道指 AI 扩展焦点转向片外带宽，CXL 与 PCIe 内存池化成为降功耗、提性能的关键。"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "memory-pool",
+      "title": "报告：CXL 内存市场 2025 年达 12.7 亿美元，2035 年将达 164.6 亿美元",
+      "url": "https://www.datamintelligence.com/research-report/cxl-memory-market",
+      "source": "DataM Intelligence",
+      "summary": "报告称 2025 年 CXL 内存市场规模约 12.7 亿美元，2026-2035 年复合增速约 29.2%。"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "storage",
+      "title": "伯恩斯坦：三季度 DRAM、NAND 均价或涨近 20%，四季度继续上行",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-09-29/doc-initphzx2715242.shtml",
+      "source": "新浪财经",
+      "summary": "伯恩斯坦指三季度传统 DRAM 与 NAND 均价环比涨约 15-20%，四季度有望继续上涨。"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "storage",
+      "title": "AI 算力狂飙，存储将站上 C 位？全球产业共议「内存墙」破局",
+      "url": "https://k.sina.com.cn/article_5787187353_158f178990200298v0.html",
+      "source": "新浪科技",
+      "summary": "业界探讨以 HBF 高带宽 NAND 与多介质异构架构协同破解 AI 推理的「内存墙」难题。"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "storage",
+      "title": "中美 AI 共振：下半年企业级 SSD 需求将激增，QLC 重塑 AI 基建",
+      "url": "https://news.cnyes.com/news/id/6615952",
+      "source": "钜亨网",
+      "summary": "北美 Agent AI 与中国 KV 缓存卸载双引擎推升 eSSD 需求，QLC 加速重塑 AI 存储架构。"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "storage",
+      "title": "美光财报前夕，超级多头重申 2000 美元目标价",
+      "url": "https://www.chinastarmarket.cn/detail/2494795",
+      "source": "财联社",
+      "summary": "美光财报前多头重申 2000 美元目标价，高端 AI 内存基本售罄，短缺推动存储价格大涨。"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "storage",
+      "title": "供需缺口持续扩大，HBM 涨价预期大幅上调",
+      "url": "https://finance.ifeng.com/c/8wpb21QlCzw",
+      "source": "凤凰网财经",
+      "summary": "供需缺口扩大令 HBM 涨价预期被上调，三星预计明年 HBM 将占其 DRAM 晶圆产能近 30%。"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "ai-infra",
+      "title": "从 GPU 到 AI 工厂：NVIDIA 正重新定义下一轮算力生意",
+      "url": "https://news.qq.com/rain/a/20260928A09THV00",
+      "source": "腾讯新闻",
+      "summary": "NVIDIA AI Infra Summit 2026 关键词从单卡性能转向 AI 工厂系统级工程与算力交付。"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "ai-infra",
+      "title": "SUSE 押注企业私有 AI 基础设施",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-29/doc-initnfqc7873842.shtml",
+      "source": "新浪财经",
+      "summary": "SUSE 公布企业私有 AI 战略，推出面向 AI 工作负载的 SUSE AI Factory 与运维助手 Liz。"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "ai-infra",
+      "title": "贝恩：AI 面临 6 万亿美元考验，需证明数据中心投入合理",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-faces-6-trillion-test-010100290.html",
+      "source": "Yahoo Finance",
+      "summary": "贝恩预计 2030 年数据中心支出达 5-6.5 万亿美元、新增至少 150GW，电网压力加剧。"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "ai-infra",
+      "title": "NVIDIA DSX Ready 认证特斯拉、LG、日立电池及 Vertiv、LG 液冷 CDU",
+      "url": "https://www.storagereview.com/news/nvidia-dsx-ready-qualifies-tesla-lg-and-hitachi-batteries-and-vertiv-liquidstack-and-lg-cdus-for-ai-factories",
+      "source": "StorageReview",
+      "summary": "NVIDIA DSX Ready 首批认证特斯拉、LG、日立储能及 Vertiv、LG 液冷 CDU 用于 AI 工厂。"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "ai-infra",
+      "title": "仁宝在 OCP 全球峰会展示 NVIDIA AI 工厂基础设施",
+      "url": "https://www.prnewswire.com/news-releases/compal-brings-nvidia-ai-factory-infrastructure-to-ocp-global-summit-2026-302892744.html",
+      "source": "PR Newswire",
+      "summary": "仁宝在 OCP 全球峰会展示 800VDC 供电与兆瓦级电力基础设施，面向下一代 AI 数据中心。"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "ai-infra",
+      "title": "谁在为超节点买单？",
+      "url": "https://c.m.163.com/news/a/L80O6N8U05118O92.html",
+      "source": "网易",
+      "summary": "报道指国产算力从几百卡到几千卡超节点正进入大规模应用，华为昇腾 950 超节点成代表。"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "ai-infra",
+      "title": "昇腾 960 超节点，一束光",
+      "url": "https://www.163.com/dy/article/L7U608RA0511B8LM.html",
+      "source": "网易",
+      "summary": "报道称 Agentic AI 倒逼算力重构，华为昇腾 960 超节点把光互联引入系统，超节点成必答题。"
+    },
     {
       "date": "2026-09-29",
       "category": "memory-pool",
@@ -1480,126 +1600,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/sndk-capitalizes-ai-storage-growth-141400344.html",
       "source": "Yahoo Finance",
       "summary": "闪迪受益于 AI 驱动的边缘存储需求增长，但美光与希捷构成强劲竞争威胁。"
-    },
-    {
-      "date": "2026-09-22",
-      "category": "storage",
-      "title": "闪迪 AI 存储故事升级：HBF 与 Stargate QLC 打开空间",
-      "url": "https://seekingalpha.com/article/4948391-sandisk-ai-storage-story-just-got-much-bigger",
-      "source": "Seeking Alpha",
-      "summary": "高带宽闪存 HBF 带来 2027 年 AI 增量，Stargate QLC 直接卡位企业级推理存储需求。"
-    },
-    {
-      "date": "2026-09-22",
-      "category": "storage",
-      "title": "TrendForce：北美需求推动企业级 SSD 四季度继续涨价",
-      "url": "https://iconnect007.com/article/151663/north-american-demand-to-drive-enterprise-ssd-price-gains-in-4q26/151660/ein",
-      "source": "I-Connect007",
-      "summary": "TrendForce 指北美云与数据中心对 QLC 企业级 SSD 需求走强，四季度价格料延续上行趋势。"
-    },
-    {
-      "date": "2026-09-22",
-      "category": "storage",
-      "title": "大普微 J5060 双模 SSD：SLC 与 QLC 混用的新尝试",
-      "url": "https://www.blocksandfiles.com/flash/2026/09/21/a-look-at-dapustors-combined-slc-and-qlc-ssd/5297708",
-      "source": "Blocks & Files",
-      "summary": "大普微 J5060 双模 SSD 在 QLC 容量中混合 SLC 性能，AI 训练负载可跑满其 PCIe 链路。"
-    },
-    {
-      "date": "2026-09-22",
-      "category": "storage",
-      "title": "长江存储二季度出货量跻身全球前三，技术落后三星约一年",
-      "url": "https://caifuhao.eastmoney.com/news/20260917200346072232770",
-      "source": "东方财富",
-      "summary": "长江存储已量产 267 层 3D NAND 并推进 300 层以上研发，二季度出货量跻身全球前三。"
-    },
-    {
-      "date": "2026-09-22",
-      "category": "ai-infra",
-      "title": "一文看懂昇腾超节点：AI Infra 已进入系统工程阶段",
-      "url": "https://www.163.com/dy/article/L7COA9FI051180F7.html",
-      "source": "网易",
-      "summary": "从 4096 卡单超节点到 51.2 万卡乃至百万卡集群，算力基础设施边界外扩，AI 基础设施进入系统工程时代。"
-    },
-    {
-      "date": "2026-09-22",
-      "category": "ai-infra",
-      "title": "沐曦高管：超节点时代来临，产业落地闭环成国产关键",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-21/doc-inisqetz2206903.shtml",
-      "source": "新浪财经",
-      "summary": "沐曦孙国梁称单卡单芯片算力模式逐步落幕，多卡集群超节点成主流方向，落地闭环是关键。"
-    },
-    {
-      "date": "2026-09-22",
-      "category": "ai-infra",
-      "title": "AMD 高管：AI 基础设施设计不应围绕单一芯片或互连",
-      "url": "https://news.qq.com/rain/a/20260919A08AE900",
-      "source": "腾讯新闻",
-      "summary": "AMD 数据中心解决方案负责人称 AI 基础设施设计应回到系统层面，而非押注某颗芯片或某种互连。"
-    },
-    {
-      "date": "2026-09-22",
-      "category": "ai-infra",
-      "title": "AI 基础设施峰会落幕，台厂参展阵容扩大",
-      "url": "https://www.cna.com.tw/news/aopl/202609180220.aspx",
-      "source": "中央社",
-      "summary": "AI 基础设施峰会落幕，台厂参展规模较去年扩大，与美国科技巨头的合作进一步深化。"
-    },
-    {
-      "date": "2026-09-22",
-      "category": "ai-infra",
-      "title": "华尔街对数据中心热潮渐生疑虑",
-      "url": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
-      "source": "The New York Times",
-      "summary": "部分公司推迟数十亿美元融资计划，市场对 AI 基础设施建设热潮的热情开始出现动摇。"
-    },
-    {
-      "date": "2026-09-22",
-      "category": "ai-infra",
-      "title": "AI 数据中心热潮背后的成本：土地、水与电力",
-      "url": "https://www.scmr.com/article/ai-data-centers-water-power-environmental-cost",
-      "source": "Supply Chain Management Review",
-      "summary": "AI 基础设施对土地、水与电力的需求持续攀升，相关消耗到 2030 年或翻倍以上。"
-    },
-    {
-      "date": "2026-09-22",
-      "category": "ai-infra",
-      "title": "云尖信息发布 iMDC 液冷集装箱数据中心方案",
-      "url": "https://tech.ifeng.com/c/8wbXppIa9rL",
-      "source": "凤凰网科技",
-      "summary": "云尖信息推出 iMDC 液冷集装箱数据中心，6-8 周极速交付、智能管理，PUE 低至近 1.1。"
-    },
-    {
-      "date": "2026-09-22",
-      "category": "ai-infra",
-      "title": "AI 液冷服务器急交付，卡点或在中国制造的一条焊缝里",
-      "url": "https://www.moomoo.com/hans/news/post/75619399",
-      "source": "Moomoo",
-      "summary": "AI 算力功耗攀升推动液冷服务器需求，交付瓶颈部分卡在制造工艺与焊缝质量等细节上。"
-    },
-    {
-      "date": "2026-09-22",
-      "category": "ai-infra",
-      "title": "液冷技术观察：高密度算力时代的液冷机柜深度解析",
-      "url": "https://finance.sina.com.cn/roll/2026-09-17/doc-iniscksh9224093.shtml",
-      "source": "新浪财经",
-      "summary": "单柜功率攀升推动液冷机柜、CDU 与二次侧管路需求，厂商布局覆盖研发、测试到交付全链路。"
-    },
-    {
-      "date": "2026-09-22",
-      "category": "ai-infra",
-      "title": "AI 驱动全球用电加速上行，电力成算力时代竞争核心",
-      "url": "https://hk.investing.com/news/stock-market-news/article-1667107",
-      "source": "Investing.com",
-      "summary": "集邦咨询预估 2026 年全球数据中心电力需求达 161GW、同比增约 31%，其中 AI 服务器占 33.4%。"
-    },
-    {
-      "date": "2026-09-22",
-      "category": "ai-infra",
-      "title": "安联：全球电力系统每年需 4.8 万亿资金投入",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqzxv7583788.shtml",
-      "source": "新浪财经",
-      "summary": "安联投资报告指数据中心是电力需求增长最大推手，全球电力系统每年需约 4.8 万亿资金投入。"
     }
   ]
 }
