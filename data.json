@@ -1,6 +1,182 @@
 {
-  "updatedAt": "2026-10-08T08:38:05+08:00",
+  "updatedAt": "2026-10-09T08:38:43+08:00",
   "items": [
+    {
+      "date": "2026-10-09",
+      "category": "memory-pool",
+      "title": "华为发布 XMFS 文件系统：CXL 3.0 跨节点内存可当文件访问",
+      "url": "https://www.163.com/dy/article/L8O6D6R70511A1HU.html",
+      "source": "网易",
+      "summary": "华为发布 XMFS 文件系统，让 CXL 3.0 跨节点共享内存以传统文件形式直接提供给上层软件访问。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "memory-pool",
+      "title": "报告：CXL 内存市场 2036 年将达 167 亿美元，年复合增速 27%",
+      "url": "https://www.meticulousresearch.com/product/cxl-memory-market-6942",
+      "source": "Meticulous Research",
+      "summary": "报告称 AI 内存需求与内存池化推动 CXL 内存市场 2036 年达 167 亿美元、年复合增速约 27%。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "memory-pool",
+      "title": "SK 海力士：以 CXL 重构基础设施，实现灵活内存扩展、共享与池化",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep3/",
+      "source": "SK hynix 新闻室",
+      "summary": "SK 海力士撰文指 CXL 打通处理器、加速器与内存连接，为灵活的内存扩展、共享与池化奠定基础。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "storage",
+      "title": "铠侠展示面向 AI 数据中心的可扩展闪存存储方案",
+      "url": "https://americas.kioxia.com/en-us/business/news/2026/ssd-20261008-1.html",
+      "source": "KIOXIA",
+      "summary": "铠侠发布面向 AI 数据中心的高性能闪存存储方案，强调服务 AI 基础设施的可扩展性创新。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "storage",
+      "title": "三星电子 Q3 营业利润首破 100 万亿韩元，同比暴增近 8 倍",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniunezm7682992.shtml",
+      "source": "新浪财经",
+      "summary": "三星三季度营业利润达 107.4 万亿韩元、同比增 782.5%，AI 存储需求推动其连续第四季创历史新高。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "storage",
+      "title": "掌握「内存霸权」的三星：HBM4 销售顺利，第六代 HBM 有望登顶",
+      "url": "https://www.mk.co.kr/cn/business/12171797",
+      "source": "每日经济新闻（韩国）",
+      "summary": "报道称 DRAM 价格预期续涨、HBM4 销售顺利，三星凭长期合约有望在第六代 HBM 市场登顶。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "storage",
+      "title": "从定制基底到 16 层堆叠：HBM4 贵在哪里",
+      "url": "https://hao.cnyes.com/post/271537",
+      "source": "钜亨网",
+      "summary": "分析指 HBM4 高价源于定制基底裸片、16 层堆叠与 DRAM 产能重分配，12 层单价向约 2 美元/Gb 攀升。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "storage",
+      "title": "NAND 超级周期重塑格局：铠侠跌出全球前五",
+      "url": "https://finance.biggo.com/news/3cb5d571-3943-4b29-9fb1-936c3a033e44",
+      "source": "BigGo Finance",
+      "summary": "报道称 AI 驱动的 NAND 超级周期重画全球存储竞争版图，2026 年 Q2 铠侠销售额被超越、跌出前列。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "storage",
+      "title": "别再用消费级周期看美光：AI 正改写 NAND 逻辑",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-08/doc-iniupaez7572254.shtml",
+      "source": "新浪财经",
+      "summary": "报道称企业级 SSD 需求年增超 80%，AI 改写 NAND 逻辑，非数据中心 NAND 收入下滑对美光影响有限。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "storage",
+      "title": "南亚科 4Q26 DRAM 均价看涨 10%，华邦电可望续涨",
+      "url": "https://www.trendforce.com/news/2026/10/06/news-nanya-dram-asp-seen-rising-10-in-4q26-winbond-also-sees-further-price-gains-as-memory-supply-stays-tight/",
+      "source": "TrendForce",
+      "summary": "TrendForce 指内存供应持续吃紧，南亚科 4Q26 DRAM 均价看涨约 10%，华邦电亦可望进一步涨价。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "storage",
+      "title": "存储涨价放缓引发「周期见顶」疑问",
+      "url": "https://en.sedaily.com/finance/2026/10/03/memory-price-gains-slow-sharply-raising-peak-cycle-questions",
+      "source": "Seoul Economic Daily",
+      "summary": "报道称存储价格涨幅明显收窄，引发市场对本轮超级周期是否接近顶部的讨论。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "storage",
+      "title": "SK 海力士赴台释出千亿台币大单",
+      "url": "https://www.worldjournal.com/wj/amp/story/121347/9802820",
+      "source": "世界日报",
+      "summary": "报道称 SK 海力士赴台释出千亿台币采购大单，企业级 SSD 位元需求今年预计年增逾八成。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "ai-infra",
+      "title": "博通在 2026 OCP 全球峰会展示 AI 网络与共封装光学创新",
+      "url": "https://www.hpcwire.com/aiwire/2026/10/08/broadcom-to-showcase-ai-networking-and-co-packaged-optics-at-ocp-summit/",
+      "source": "HPCwire",
+      "summary": "博通将在 OCP 全球峰会展示面向 AI 集群的机架级网络创新与共封装光学，覆盖 scale-up/out/across。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "ai-infra",
+      "title": "英特尔在 OCP 2026 展示面向 AI 时代的开放基础设施",
+      "url": "https://www.intel.com/content/www/us/en/newsroom/news/artificial-intelligence/intel-ocp-2026-open-ai-infrastructure-for-ai-era.html",
+      "source": "Intel 新闻室",
+      "summary": "英特尔在 OCP 2026 展示以开放生态驱动的 AI 基础设施方案，面向从边缘到数据中心的各类 AI 工作负载。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "ai-infra",
+      "title": "台达将在 OCP 全球峰会 2026 展示「电网到芯片」AI 节能基础设施",
+      "url": "https://www.prnewswire.com/news-releases/delta-to-showcase-energy-saving-grid-to-chip-infrastructure-solutions-for-sustainable-ai-at-ocp-global-summit-2026-302902203.html",
+      "source": "PR Newswire",
+      "summary": "台达将在 OCP 全球峰会展示从电网到芯片的 AI 节能方案，含 800VDC 3.6MW 液冷 CDU 与供电模块。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "ai-infra",
+      "title": "美的发布面向 AI 数据中心的供电-散热超融合架构",
+      "url": "https://thedatacenterengineer.com/news/midea-debuts-power-cooling-hyperconverged-architecture-for-ai-data-centers/",
+      "source": "The Data Center Engineer",
+      "summary": "美的发布面向 AI 数据中心的供电-散热超融合架构，整合液冷部署与 800VDC 供电方案。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "ai-infra",
+      "title": "巴斯夫推出数据中心液冷冷却液 GLYTHERMIN",
+      "url": "https://www.basf.com/global/en/media/news-releases/2026/10/p-26-162",
+      "source": "BASF",
+      "summary": "巴斯夫推出面向数据中心液冷的 GLYTHERMIN 冷却液，应对 AI 数据中心直触式液冷（DLC）需求增长。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "ai-infra",
+      "title": "艺康详解 AI 数据中心的水资源与液冷管理",
+      "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ecolab-details-water-and-liquid-cooling-for-ai-data-centers/134754684",
+      "source": "ET Datacenters",
+      "summary": "艺康阐述 AI 数据中心水资源利用与液冷系统管理方案，帮助运营商平衡散热需求与用水效率。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "ai-infra",
+      "title": "DeepSeek 开源昇腾基础组件，补齐国产算力生态短板",
+      "url": "https://www.163.com/dy/article/L8NLDPDH0530UH99.html",
+      "source": "网易",
+      "summary": "DeepSeek 开源昇腾基础组件，有望补齐国产算力训练侧短板，助推昇腾 950 超节点与生态加速放量。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "ai-infra",
+      "title": "华为的芯片与 AI 牌局：以超节点与灵衢光互联补齐短板",
+      "url": "https://36kr.com/p/4016699289915270",
+      "source": "36氪",
+      "summary": "报道称华为放弃单卡硬刚，依托昇腾超节点、灵衢协议与全光互联提升集群算力与能效。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "ai-infra",
+      "title": "算力自立的一周：DeepSeek 与国产 AI 底座的「整体换装」",
+      "url": "https://timeline.sohu.com/news/q7EMqpnG0j",
+      "source": "搜狐时间线",
+      "summary": "报道称梁文锋评价昇腾 950 超节点在性能与价格上可平替英伟达 GB200/GB300，国产算力底座加速换装。"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "ai-infra",
+      "title": "STULZ 白皮书：面向韧性 AI 数据中心的端到端液冷",
+      "url": "https://www.stulz.com/newsroom/detail/end-to-end-cooling-the-key-to-resilient-ai-data-centers/",
+      "source": "STULZ",
+      "summary": "STULZ 发布白皮书，从系统视角阐述高密度 AI 基础设施液冷的规划、集成与控制。"
+    },
     {
       "date": "2026-10-08",
       "category": "memory-pool",
@@ -1424,182 +1600,6 @@
       "url": "https://news.cnyes.com/news/id/6617763",
       "source": "钜亨网",
       "summary": "台达电针对 NVIDIA DSX AI Factory 平台开发整合式中压配电、固态变压器、储能、800V 直流与液冷基础设施。"
-    },
-    {
-      "date": "2026-10-01",
-      "category": "ai-infra",
-      "title": "Eaton 连续并购串起 AI 数据中心配电",
-      "url": "https://news.cnyes.com/news/id/6617094",
-      "source": "钜亨网",
-      "summary": "电力管理大厂 Eaton 以约 9.23 亿美元并购补齐数据中心电力与冷却产品线，押注 800V 直流与液冷。"
-    },
-    {
-      "date": "2026-10-01",
-      "category": "ai-infra",
-      "title": "AI 爆发催生「冷」革命：美芝&威灵构建液冷系统隐形底座",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-09-30/doc-initqvcf5770857.shtml",
-      "source": "新浪财经",
-      "summary": "赛迪顾问指 2025 年国内液冷数据中心市场规模增速超 45%，液冷正从可选项跃升为智算中心必选项。"
-    },
-    {
-      "date": "2026-10-01",
-      "category": "ai-infra",
-      "title": "特朗普推动 AI 数据中心扩张，引发部分共和党人对电价担忧",
-      "url": "https://www.nytimes.com/2026/09/29/us/republicans-trump-data-center-ai.html",
-      "source": "纽约时报",
-      "summary": "特朗普推动加快 AI 数据中心建设，但电价上涨引发部分共和党人对成本与民意的担忧。"
-    },
-    {
-      "date": "2026-10-01",
-      "category": "ai-infra",
-      "title": "报告：数据中心正在改变美国的自然地貌",
-      "url": "https://www.cbsnews.com/news/ai-data-centers-changing-us-farmland-backlash/",
-      "source": "CBS News",
-      "summary": "报告称大科技公司为 AI 建设数据中心正改变美国自然地貌，并引发地方层面的反对与争议。"
-    },
-    {
-      "date": "2026-10-01",
-      "category": "ai-infra",
-      "title": "SK 海力士：AI 基础设施性能已取决于整个数据中心",
-      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep3/",
-      "source": "SK hynix 新闻室",
-      "summary": "SK 海力士指 AI 基础设施性能已取决于整个数据中心，AI 负载爆炸式增长推高用电、机架密度与散热。"
-    },
-    {
-      "date": "2026-10-01",
-      "category": "ai-infra",
-      "title": "Vertiv：800VDC 决策——AI 供电架构实用指南",
-      "url": "https://www.vertiv.com/en-asia/insights/articles/educational-articles/the-800-vdc-decision-a-practical-guide-for-ai-power-architecture/",
-      "source": "Vertiv",
-      "summary": "Vertiv 发布 800VDC 实用指南，指 tokens、液冷与 800VDC 正重塑 AI 数据中心的运营模式。"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "memory-pool",
-      "title": "Everspin 在 SNIA 开发者大会演示全球首个 CXL 连接的 MRAM 平台",
-      "url": "https://www.everspin.com/news/everspin-demonstrates-worlds-first-cxl-connected-mram-snia-developer-conference-2026",
-      "source": "Everspin",
-      "summary": "Everspin 演示全球首个 CXL 连接 MRAM 平台，1GB 模块断电不丢数据，已开放客户负载测试。"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "memory-pool",
-      "title": "HPCwire：数据中心的 AI 触及功率极限，数据搬运决定性能",
-      "url": "https://www.hpcwire.com/2026/09/28/data-center-ai-at-the-power-limit-when-data-movement-defines-performance/",
-      "source": "HPCwire",
-      "summary": "报道指 AI 扩展焦点转向片外带宽，CXL 与 PCIe 内存池化成为降功耗、提性能的关键。"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "memory-pool",
-      "title": "报告：CXL 内存市场 2025 年达 12.7 亿美元，2035 年将达 164.6 亿美元",
-      "url": "https://www.datamintelligence.com/research-report/cxl-memory-market",
-      "source": "DataM Intelligence",
-      "summary": "报告称 2025 年 CXL 内存市场规模约 12.7 亿美元，2026-2035 年复合增速约 29.2%。"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "storage",
-      "title": "伯恩斯坦：三季度 DRAM、NAND 均价或涨近 20%，四季度继续上行",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-09-29/doc-initphzx2715242.shtml",
-      "source": "新浪财经",
-      "summary": "伯恩斯坦指三季度传统 DRAM 与 NAND 均价环比涨约 15-20%，四季度有望继续上涨。"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "storage",
-      "title": "AI 算力狂飙，存储将站上 C 位？全球产业共议「内存墙」破局",
-      "url": "https://k.sina.com.cn/article_5787187353_158f178990200298v0.html",
-      "source": "新浪科技",
-      "summary": "业界探讨以 HBF 高带宽 NAND 与多介质异构架构协同破解 AI 推理的「内存墙」难题。"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "storage",
-      "title": "中美 AI 共振：下半年企业级 SSD 需求将激增，QLC 重塑 AI 基建",
-      "url": "https://news.cnyes.com/news/id/6615952",
-      "source": "钜亨网",
-      "summary": "北美 Agent AI 与中国 KV 缓存卸载双引擎推升 eSSD 需求，QLC 加速重塑 AI 存储架构。"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "storage",
-      "title": "美光财报前夕，超级多头重申 2000 美元目标价",
-      "url": "https://www.chinastarmarket.cn/detail/2494795",
-      "source": "财联社",
-      "summary": "美光财报前多头重申 2000 美元目标价，高端 AI 内存基本售罄，短缺推动存储价格大涨。"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "storage",
-      "title": "供需缺口持续扩大，HBM 涨价预期大幅上调",
-      "url": "https://finance.ifeng.com/c/8wpb21QlCzw",
-      "source": "凤凰网财经",
-      "summary": "供需缺口扩大令 HBM 涨价预期被上调，三星预计明年 HBM 将占其 DRAM 晶圆产能近 30%。"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "ai-infra",
-      "title": "从 GPU 到 AI 工厂：NVIDIA 正重新定义下一轮算力生意",
-      "url": "https://news.qq.com/rain/a/20260928A09THV00",
-      "source": "腾讯新闻",
-      "summary": "NVIDIA AI Infra Summit 2026 关键词从单卡性能转向 AI 工厂系统级工程与算力交付。"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "ai-infra",
-      "title": "SUSE 押注企业私有 AI 基础设施",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-29/doc-initnfqc7873842.shtml",
-      "source": "新浪财经",
-      "summary": "SUSE 公布企业私有 AI 战略，推出面向 AI 工作负载的 SUSE AI Factory 与运维助手 Liz。"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "ai-infra",
-      "title": "贝恩：AI 面临 6 万亿美元考验，需证明数据中心投入合理",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-faces-6-trillion-test-010100290.html",
-      "source": "Yahoo Finance",
-      "summary": "贝恩预计 2030 年数据中心支出达 5-6.5 万亿美元、新增至少 150GW，电网压力加剧。"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "ai-infra",
-      "title": "NVIDIA DSX Ready 认证特斯拉、LG、日立电池及 Vertiv、LG 液冷 CDU",
-      "url": "https://www.storagereview.com/news/nvidia-dsx-ready-qualifies-tesla-lg-and-hitachi-batteries-and-vertiv-liquidstack-and-lg-cdus-for-ai-factories",
-      "source": "StorageReview",
-      "summary": "NVIDIA DSX Ready 首批认证特斯拉、LG、日立储能及 Vertiv、LG 液冷 CDU 用于 AI 工厂。"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "ai-infra",
-      "title": "仁宝在 OCP 全球峰会展示 NVIDIA AI 工厂基础设施",
-      "url": "https://www.prnewswire.com/news-releases/compal-brings-nvidia-ai-factory-infrastructure-to-ocp-global-summit-2026-302892744.html",
-      "source": "PR Newswire",
-      "summary": "仁宝在 OCP 全球峰会展示 800VDC 供电与兆瓦级电力基础设施，面向下一代 AI 数据中心。"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "ai-infra",
-      "title": "谁在为超节点买单？",
-      "url": "https://c.m.163.com/news/a/L80O6N8U05118O92.html",
-      "source": "网易",
-      "summary": "报道指国产算力从几百卡到几千卡超节点正进入大规模应用，华为昇腾 950 超节点成代表。"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "ai-infra",
-      "title": "昇腾 960 超节点，一束光",
-      "url": "https://www.163.com/dy/article/L7U608RA0511B8LM.html",
-      "source": "网易",
-      "summary": "报道称 Agentic AI 倒逼算力重构，华为昇腾 960 超节点把光互联引入系统，超节点成必答题。"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "memory-pool",
-      "title": "Xcena 发布 MX1：面向近内存计算、搭载 RISC-V 核心的 CXL Type 3 器件",
-      "url": "https://www.eetimes.com/xcena-cuts-data-movement-to-address-memory-bottlenecks/",
-      "source": "EE Times",
-      "summary": "Xcena 推出 MX1 CXL Type 3 器件，集成最高 2TB DDR5 与上千个自研 RISC-V 核心，缓解内存瓶颈。"
     }
   ]
 }
