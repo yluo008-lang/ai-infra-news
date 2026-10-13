@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-10-12T08:38:12+08:00",
+  "updatedAt": "2026-10-13T08:38:25+08:00",
   "items": [
+    {
+      "date": "2026-10-13",
+      "category": "memory-pool",
+      "title": "Marvell 发布第二代 Structera X，业界首款六通道 CXL 3.2 内存扩展器",
+      "url": "https://investor.marvell.com/news-events/press-releases/detail/1037/adding-and-replacing-marvell-unveils-second-generation-structera-x-industry-first-six-channel-cxl-3-2-memory-expanders-for-ai-inference",
+      "source": "Marvell",
+      "summary": "Marvell 发布第二代 Structera X CXL 内存扩展器，业界首款六通道 CXL 3.2，单控制器最高支持 9TB DDR4 或 6TB DDR5。"
+    },
+    {
+      "date": "2026-10-13",
+      "category": "memory-pool",
+      "title": "Liqid 为 PNNL 的 Abaco 系统提供 CXL 内存池化，支撑大规模 AI 科研",
+      "url": "https://www.hpcwire.com/bigdatawire/this-just-in/liqid-powers-pnnls-abaco-system-with-cxl-memory-pooling-for-ai-science/",
+      "source": "HPCwire",
+      "summary": "Liqid 为 PNNL 的 Abaco 系统提供 CXL 内存池化与共享，打破单机容量上限以支撑大规模 AI 科研负载。"
+    },
+    {
+      "date": "2026-10-13",
+      "category": "storage",
+      "title": "铠侠为企业级 SSD 引入直触液冷支持，推出 CM9 系列 E3.S DLC 新品",
+      "url": "https://www.businesswire.com/news/home/20261012745080/en/KIOXIA-Introduces-Direct-Liquid-Cooling-Support-for-Enterprise-SSDs",
+      "source": "Business Wire",
+      "summary": "铠侠为 CM9 系列企业级 SSD 引入直触液冷支持，推出 E3.S DLC 新品，最高 30.72TB，面向高密度 AI 数据中心。"
+    },
+    {
+      "date": "2026-10-13",
+      "category": "storage",
+      "title": "三星明年约 80% 存储产能被长协锁定，四季度合约价料续涨",
+      "url": "https://k.sina.com.cn/article_7651844612_1c815e204020020y6g.html?from=finance",
+      "source": "新浪",
+      "summary": "报道称三星明年约 80% 存储产能已被长期合约锁定，闪迪亦与八家客户签约，DRAM/NAND 四季度合约价料续涨。"
+    },
+    {
+      "date": "2026-10-13",
+      "category": "storage",
+      "title": "存储芯片持续涨价，手机迎来第四轮涨价潮",
+      "url": "https://www.163.com/dy/article/L8USDPNQ0530RMN7.html",
+      "source": "网易",
+      "summary": "存储芯片持续涨价推动手机第四轮涨价潮，NAND 涨幅超 30%，四季度 DRAM 预计再涨 10%-15%。"
+    },
+    {
+      "date": "2026-10-13",
+      "category": "storage",
+      "title": "AI 不只需要 HBM：HDD 凭大容量低成本重新崛起",
+      "url": "https://today.line.me/tw/v3/article/VxpOmZL",
+      "source": "LINE TODAY",
+      "summary": "报道称 AI 不只需要 HBM，HDD 凭大容量低成本重新崛起，百達-KY 并购 BIGL 卡位数据中心存储。"
+    },
+    {
+      "date": "2026-10-13",
+      "category": "ai-infra",
+      "title": "无问芯穹完成 23 亿元 C 轮融资交割，累计融资 43 亿元",
+      "url": "https://finance.ifeng.com/c/8xAkM4lLXb2",
+      "source": "凤凰财经",
+      "summary": "清华系 AI 原生基础设施企业无问芯穹完成 23 亿元 C 轮融资交割，累计融资 43 亿元，创国内 AI Infra 纪录。"
+    },
+    {
+      "date": "2026-10-13",
+      "category": "ai-infra",
+      "title": "神雲科技在 OCP 全球峰会 2026 聚焦开放 AI 基础设施与全栈方案",
+      "url": "https://www.prnasia.com/story/551316-1.shtml",
+      "source": "美通社",
+      "summary": "神雲科技在 2026 OCP 全球峰会发布以 AI Infrastructure Stack 为核心的开放 AI 基础设施与全栈液冷服务器方案。"
+    },
+    {
+      "date": "2026-10-13",
+      "category": "ai-infra",
+      "title": "世界算力竞逐，内蒙古何以崛起",
+      "url": "http://www.xinhuanet.com/fortune/20261012/ab0ea23cbbe54bdd8ff53103137bb6ee/c.html",
+      "source": "新华网",
+      "summary": "报道称内蒙古乌兰察布等地已建或在建 89 座数据中心，液冷成主流，正成为全球算力竞逐中的崛起之地。"
+    },
+    {
+      "date": "2026-10-13",
+      "category": "ai-infra",
+      "title": "AI 液冷快速接头迎来产业升级，销量快速攀升",
+      "url": "https://caifuhao.eastmoney.com/news/20261009114802046780860",
+      "source": "东方财富",
+      "summary": "研报指 AI 液冷快速接头迎来产业升级，全球等效销量由 2025 年约 600 万对增至 2026 年约 833 万对。"
+    },
+    {
+      "date": "2026-10-13",
+      "category": "ai-infra",
+      "title": "彭博拆解 AI 数据中心建设成本：为何动辄数十亿美元",
+      "url": "https://www.bloomberg.com/features/2026-ai-data-center-build-costs/",
+      "source": "Bloomberg",
+      "summary": "彭博独家拆解在得州建造 AI 数据中心的成本构成，揭示开发商面临数十亿美元支出的原因。"
+    },
     {
       "date": "2026-10-12",
       "category": "memory-pool",
@@ -1512,94 +1600,6 @@
       "url": "https://www.cls.cn/detail/2144433",
       "source": "财联社",
       "summary": "报道称英伟达与铠侠合作开发面向 AI 服务器的定制 SSD，性能达 1 亿 IOPS，部分替代 HBM 扩展 GPU 内存。"
-    },
-    {
-      "date": "2026-10-06",
-      "category": "storage",
-      "title": "长江存储预计全球 NAND 闪存短缺还将持续约三年",
-      "url": "https://www.163.com/dy/article/L8H2TD730511BLFD.html",
-      "source": "网易",
-      "summary": "长江存储预计全球 NAND 供应紧张或延续至 2029 年前后，AI 需求推动供需矛盾持续。"
-    },
-    {
-      "date": "2026-10-06",
-      "category": "storage",
-      "title": "花旗：NAND 供应紧张或持续至 2028 年，看好 AI 存储需求",
-      "url": "https://feng.ifeng.com/c/8wsVkmqXiwv",
-      "source": "凤凰网",
-      "summary": "花旗指美光 NAND 营收环比增 42%、均价涨约 30%，NAND 供应紧张或持续至 2028 年。"
-    },
-    {
-      "date": "2026-10-06",
-      "category": "storage",
-      "title": "证券时报：AI 需求引爆存储史上最强涨价周期，或火到 2026 年底",
-      "url": "https://www.stcn.com/article/detail/3547725.html",
-      "source": "证券时报",
-      "summary": "报道称瑞银预计四季度 DDR 合约价季增 35%、NAND 涨 20%，AI 需求引爆存储史上最强涨价周期。"
-    },
-    {
-      "date": "2026-10-06",
-      "category": "storage",
-      "title": "华尔街见闻：存储涨价的天花板快到了？",
-      "url": "https://wallstreetcn.com/articles/3778963",
-      "source": "华尔街见闻",
-      "summary": "报道关注存储合约价涨幅收窄至约 20%，讨论本轮存储超级周期是否已接近涨价天花板。"
-    },
-    {
-      "date": "2026-10-06",
-      "category": "ai-infra",
-      "title": "诺基亚 CEO：AI 数据中心本可快一倍建成，需求依然强劲",
-      "url": "https://www.cnbc.com/2026/10/05/nokia-ai-data-center-buildout.html",
-      "source": "CNBC",
-      "summary": "诺基亚 CEO 称若条件允许 AI 数据中心可快一倍建成，需求强劲但仍受供应链约束。"
-    },
-    {
-      "date": "2026-10-06",
-      "category": "ai-infra",
-      "title": "AI 基础设施下一阶段：资本、电力与建设权",
-      "url": "https://www.datacenterfrontier.com/machine-learning/news/55409580/ai-infrastructures-next-phase-capital-power-and-the-right-to-build",
-      "source": "Data Center Frontier",
-      "summary": "报道称三星承诺 10 亿美元建 AI 基础设施平台，Lambda 借投资级债务融资扩张 GPU 部署。"
-    },
-    {
-      "date": "2026-10-06",
-      "category": "ai-infra",
-      "title": "华为发布昇腾 960 超节点：NPO 光互连、全液冷、可扩展至 4096 卡",
-      "url": "https://www.huawei.com/cn/news/2026/9/hc-ascend960-supernode",
-      "source": "华为",
-      "summary": "华为昇腾 960 超节点采用正交架构与全液冷，基于灵衢统一编址扩展至 4096 卡，达 8EFLOPS FP8。"
-    },
-    {
-      "date": "2026-10-06",
-      "category": "ai-infra",
-      "title": "无问芯穹冲刺 IPO：上半年获 43 亿融资、估值 143 亿",
-      "url": "https://c.m.163.com/news/a/L86ITIHU0511D6RL.html",
-      "source": "网易",
-      "summary": "AI Infra 服务商无问芯穹拟上市，上半年累计融资 43 亿元、估值 143 亿元，腾讯百度在列。"
-    },
-    {
-      "date": "2026-10-06",
-      "category": "ai-infra",
-      "title": "字节兆瓦级算力系统曝光：采用液冷 + 800V 架构",
-      "url": "https://www.stcn.com/article/detail/4010099.html",
-      "source": "证券时报",
-      "summary": "报道称字节跳动兆瓦级算力系统采用液冷与 800V 架构，液冷产业进入订单与业绩兑现阶段。"
-    },
-    {
-      "date": "2026-10-06",
-      "category": "ai-infra",
-      "title": "NVIDIA：构建 800VDC 生态，打造高效可扩展 AI 工厂",
-      "url": "https://developer.nvidia.com/blog/building-the-800-vdc-ecosystem-for-efficient-scalable-ai-factories/",
-      "source": "NVIDIA 开发者博客",
-      "summary": "NVIDIA 撰文阐述 800VDC 架构如何成为高效、可扩展 AI 工厂的关键使能技术。"
-    },
-    {
-      "date": "2026-10-06",
-      "category": "ai-infra",
-      "title": "LG 加入英伟达网络：2.6MW 冷却机组通过认证",
-      "url": "https://datacenternews.asia/story/lg-joins-nvidia-network-as-ai-cooling-demand-rises",
-      "source": "Data Center News Asia",
-      "summary": "LG 2.6MW 冷却机组通过英伟达认证，AI 高密度散热需求推升其数据中心冷却业务。"
     }
   ]
 }
