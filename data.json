@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-10-16T08:38:58+08:00",
+  "updatedAt": "2026-10-17T08:38:12+08:00",
   "items": [
+    {
+      "date": "2026-10-17",
+      "category": "memory-pool",
+      "title": "SK海力士在OCP峰会展示下一代AI内存，CMM-DDR5带宽翻倍",
+      "url": "https://www.163.com/dy/article/L9CDBNCE051191D6.html",
+      "source": "网易",
+      "summary": "SK海力士在OCP展示第二代CMM-DDR5，256GB容量、支持CXL 3.2，带宽较上代翻倍且能效提升。"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "memory-pool",
+      "title": "三星在加内存，华为在造超级电脑：内存池化和超节点差在哪？",
+      "url": "https://caifuhao.eastmoney.com/news/20261014183834138082230",
+      "source": "东方财富",
+      "summary": "报道对比三星CXL内存池化与华为超节点两条路线，解析二者在扩展内存与系统互联上的差异。"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "memory-pool",
+      "title": "XCENA MX1 CXL计算内存可在推理服务器间共享KV缓存",
+      "url": "https://www.storagereview.com/zh-CN/news/xcena-mx1-cxl-computational-memory-kv-cache-sk-hynix-ocp-2026",
+      "source": "StorageReview",
+      "summary": "XCENA展示MX1 CXL计算内存，与SK海力士合作让多台推理服务器共享KV缓存以扩展内存容量。"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "storage",
+      "title": "机构：2026年二季度长江存储NAND出货量跃居全球第三",
+      "url": "https://news.qq.com/rain/a/20261015A06BNR00",
+      "source": "腾讯新闻",
+      "summary": "Counterpoint指2026年二季度长江存储NAND出货量升至全球第三，仅次于三星与SK海力士，并布局DRAM。"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "storage",
+      "title": "今日深读：三星HBM4接近三倍报价与存储定价权扩散",
+      "url": "https://news.qq.com/rain/a/20261011A09ZTI00",
+      "source": "腾讯新闻",
+      "summary": "报道指三星HBM4报价接近三倍，存储涨价由HBM扩散至DRAM、NAND与企业级SSD全品类。"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "storage",
+      "title": "SK Hynix Delays HBM4 Equipment Orders as Its Stock Falls 5 Days Straight",
+      "url": "https://247wallst.com/investing/2026/10/14/sk-hynix-delays-hbm4-equipment-orders-as-its-stock-falls-5-days-straight/",
+      "source": "247WallSt",
+      "summary": "SK海力士HBM4设备订单延迟，市场解读为资本转向传统DRAM而非技术受阻，看多逻辑仍成立。"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "storage",
+      "title": "SK hynix Could Be Prioritizing DRAM's Lucrative Returns Over HBM4",
+      "url": "https://wccftech.com/sk-hynix-dram-priority-hbm4-backend-equipment-orders-2027/",
+      "source": "Wccftech",
+      "summary": "报道指SK海力士或优先追求DRAM高回报，其HBM4后段设备订单据报推迟至2027年。"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "storage",
+      "title": "存储芯片行业难逃繁荣-萧条周期，竞争加剧恐放大波动",
+      "url": "https://www.webull.com/news/15740089436283904",
+      "source": "Webull",
+      "summary": "报道指三星、SK海力士、美光掌握约九成DRAM产量，竞争加剧或放大存储行业周期波动。"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "storage",
+      "title": "日韩股市高开，三大存储芯片巨头反弹",
+      "url": "https://finance.eastmoney.com/a/202610163897728132.html",
+      "source": "东方财富",
+      "summary": "日经225与韩国综合指数高开，三星、SK海力士与铠侠等存储芯片股盘中集体反弹。"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "storage",
+      "title": "英伟达Rubin或坚持12层HBM4，2027年HBM价格或涨121%",
+      "url": "https://www.163.com/dy/article/L9AJ90JT0511BLFD.html",
+      "source": "网易",
+      "summary": "TrendForce指英伟达Rubin或坚持12层HBM4，产品结构升级推动2027年HBM均价或同比涨121%。"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "ai-infra",
+      "title": "BBC：草原上的数据中心，中国AI雄心背后的算力前线",
+      "url": "https://www.bbc.com/zhongwen/articles/crje8gjn3nl5o/simp",
+      "source": "BBC中文",
+      "summary": "BBC报道内蒙古数十座数据中心快速拔地而起，成为支撑中国AI雄心的算力前线。"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "ai-infra",
+      "title": "算力狂飙下的代价：数据中心的繁荣与隐忧",
+      "url": "https://www.hkubs.hku.hk/sc/research/thought-leadership/opinions-and-speeches/the-cost-of-surging-computing-power-the-boom-and-hidden-risks-of-ai-data-centers/",
+      "source": "香港大学经管学院",
+      "summary": "文章指算力已升为国家战略资源，数据中心繁荣背后隐藏电力、能耗与投资回报隐忧。"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "ai-infra",
+      "title": "小红书将AI一级部门Dots与核心infra团队打通",
+      "url": "https://news.ifeng.com/c/8xGyqtg03Bi",
+      "source": "凤凰网",
+      "summary": "小红书发全员信，将AI一级部门Dots与核心infra团队打通，整合算力与模型、产品需求。"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "ai-infra",
+      "title": "台达与英伟达合作推进AI数据中心800VDC供电与散热方案",
+      "url": "https://www.prnewswire.com/news-releases/delta-highlights-collaboration-with-nvidia-in-advancing-energy-efficient-800-vdc-power-and-cooling-solutions-for-ai-data-centers-at-ocp-global-summit-2026-302909912.html",
+      "source": "PR Newswire",
+      "summary": "台达在OCP峰会展示与英伟达合作的800VDC供电与液冷方案，覆盖机柜到芯片的散热。"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "ai-infra",
+      "title": "英伟达800VDC技术解锁AI数据中心电力与散热难题",
+      "url": "https://datacentremagazine.com/articles/nvidias-800vdc-tech-unlocks-ai-power-thermal-dissipation",
+      "source": "Data Centre Magazine",
+      "summary": "文章解析英伟达以800VDC直流供电架构应对AI数据中心的电力与散热挑战。"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "ai-infra",
+      "title": "OCP全球峰会开幕在即，AI互连成头号议题",
+      "url": "https://news.qq.com/rain/a/20261013A03JLN00",
+      "source": "腾讯新闻",
+      "summary": "OCP全球峰会聚焦AI互连，22条技术分轨覆盖兆瓦级机柜、1.6T网络与可组合内存（CXL）。"
+    },
     {
       "date": "2026-10-16",
       "category": "memory-pool",
@@ -1472,134 +1600,6 @@
       "url": "https://www.prnewswire.com/news-releases/liquidjet-diamond-coldplates-can-increase-ai-factory-profitability-by-up-to-35-302903081.html",
       "source": "PR Newswire",
       "summary": "Frore Systems 发布 LiquidJet Diamond 冷板，改善极端热点散热，称可提升 AI 工厂盈利至多 35%。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "英伟达 Rubin 世代实现全芯片 100% 液冷",
-      "url": "https://www.aol.com/articles/nvidia-latest-ai-breakthrough-may-161324000.html",
-      "source": "AOL",
-      "summary": "报道称英伟达 Rubin 是首个在所有芯片与网络组件上实现 100% 液冷、无风扇的平台。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "算力中心板式换热器市场展望：液冷扩张带动行业格局",
-      "url": "https://caifuhao.eastmoney.com/news/20261008162336886953750",
-      "source": "东方财富",
-      "summary": "液冷渗透率提升带动板式换热器需求，其作为液冷 CDU 与集中换热站核心部件受益。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "3D 打印「算力冷板」变热，温州企业英伟达订单假期不停",
-      "url": "https://feng.ifeng.com/c/8x3Bt6Qt7Wx",
-      "source": "凤凰网",
-      "summary": "AI 算力需求带动 3D 打印液冷冷板需求，温州企业假期赶英伟达相关订单。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "老旧数据中心改造为何难以满足 AI 算力",
-      "url": "https://k.sina.com.cn/article_7879923048_1d5ae156806801efvc.html",
-      "source": "新浪",
-      "summary": "报道称液冷成新建 AI 数据中心标配、约占安装量 30%，老旧机房改造需全面替换管线与末端。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "AI 耗电飙 10 倍成数据中心发展痛点",
-      "url": "https://paper.hket.com/article/4206264",
-      "source": "香港经济日报",
-      "summary": "报道称 AI 大幅推高用电，香港数据中心前期建设未预见该需求，散热与电力成发展痛点。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "阿里打造新一代人工智能算力枢纽",
-      "url": "http://js.news.cn/20261007/62ce688124fb4dc7bffbcfc34814ea3f/c.html",
-      "source": "新华网",
-      "summary": "阿里项目全面应用自研液冷散热与智能运维，合力打造国家级绿色智算中心。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "DeepSeek 新一轮融资或达千亿，「豪赌」国产算力预训练",
-      "url": "https://k.sina.com.cn/article_1801487174_6b608346020039br0.html",
-      "source": "新浪",
-      "summary": "传 DeepSeek 拟在内蒙古建大型数据中心，部署至少 16 万颗华为昇腾 950DT 超节点加速器。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "徐直军称昇腾在中国市场份额已超英伟达",
-      "url": "https://www.163.com/dy/article/L8PSI1G705118HNL.html",
-      "source": "网易",
-      "summary": "徐直军称昇腾在中国 AI 市场份额已超英伟达，靠多芯片互联系统与智算中心建设驱动。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "上海 AI 芯片峰会综述：3D 堆叠、超节点与新型存储",
-      "url": "https://m.36kr.com/p/4018087123324800",
-      "source": "36氪",
-      "summary": "峰会聚焦 3D 堆叠、超节点、KV Cache、新型存储与 Token 工厂异构混训混推等议题。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "BNP Paribas：AI 基础设施投资 2026 年近 1 万亿美元",
-      "url": "https://cib.bnpparibas/ai-infrastructure-investment-2026/",
-      "source": "BNP Paribas",
-      "summary": "报告称跨数据中心价值链 30 个环节的年度 AI 硬件资本支出正逼近 1 万亿美元。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "路透：到 2050 年数据中心累计支出或超 30 万亿美元",
-      "url": "https://www.reuters.com/business/retail-consumer/ais-race-transform-world-before-money-runs-out-2026-10-03/",
-      "source": "Reuters",
-      "summary": "路透报道全球数据中心累计支出到 2050 年或超 30 万亿美元，AI 竞速与资金可持续性受关注。"
-    },
-    {
-      "date": "2026-10-09",
-      "category": "memory-pool",
-      "title": "华为发布 XMFS 文件系统：CXL 3.0 跨节点内存可当文件访问",
-      "url": "https://www.163.com/dy/article/L8O6D6R70511A1HU.html",
-      "source": "网易",
-      "summary": "华为发布 XMFS 文件系统，让 CXL 3.0 跨节点共享内存以传统文件形式直接提供给上层软件访问。"
-    },
-    {
-      "date": "2026-10-09",
-      "category": "memory-pool",
-      "title": "报告：CXL 内存市场 2036 年将达 167 亿美元，年复合增速 27%",
-      "url": "https://www.meticulousresearch.com/product/cxl-memory-market-6942",
-      "source": "Meticulous Research",
-      "summary": "报告称 AI 内存需求与内存池化推动 CXL 内存市场 2036 年达 167 亿美元、年复合增速约 27%。"
-    },
-    {
-      "date": "2026-10-09",
-      "category": "memory-pool",
-      "title": "SK 海力士：以 CXL 重构基础设施，实现灵活内存扩展、共享与池化",
-      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep3/",
-      "source": "SK hynix 新闻室",
-      "summary": "SK 海力士撰文指 CXL 打通处理器、加速器与内存连接，为灵活的内存扩展、共享与池化奠定基础。"
-    },
-    {
-      "date": "2026-10-09",
-      "category": "storage",
-      "title": "铠侠展示面向 AI 数据中心的可扩展闪存存储方案",
-      "url": "https://americas.kioxia.com/en-us/business/news/2026/ssd-20261008-1.html",
-      "source": "KIOXIA",
-      "summary": "铠侠发布面向 AI 数据中心的高性能闪存存储方案，强调服务 AI 基础设施的可扩展性创新。"
-    },
-    {
-      "date": "2026-10-09",
-      "category": "storage",
-      "title": "三星电子 Q3 营业利润首破 100 万亿韩元，同比暴增近 8 倍",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniunezm7682992.shtml",
-      "source": "新浪财经",
-      "summary": "三星三季度营业利润达 107.4 万亿韩元、同比增 782.5%，AI 存储需求推动其连续第四季创历史新高。"
     }
   ]
 }
