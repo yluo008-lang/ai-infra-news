@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-10-17T08:38:12+08:00",
+  "updatedAt": "2026-10-18T08:37:58+08:00",
   "items": [
+    {
+      "date": "2026-10-18",
+      "category": "memory-pool",
+      "title": "SK海力士在OCP 2026展示下一代AI内存与CXL内存池化",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026/",
+      "source": "SK hynix",
+      "summary": "SK海力士展出第二代CMM-DDR5、MARS机架与HBM4，多服务器共享内存池提升利用率。"
+    },
+    {
+      "date": "2026-10-18",
+      "category": "memory-pool",
+      "title": "SK海力士在OCP峰会展示CMM-DDR5、MARS与CMM-Ax三款AI内存",
+      "url": "https://cn.yna.co.kr/view/ACK20261016001900881",
+      "source": "韩联社",
+      "summary": "韩联社称SK海力士展出支持内存池化的CMM-DDR5及MARS、CMM-Ax，实现跨服务器共享内存。"
+    },
+    {
+      "date": "2026-10-18",
+      "category": "memory-pool",
+      "title": "BusinessKorea：SK海力士以CXL共享内存池缓解AI内存瓶颈",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278967",
+      "source": "BusinessKorea",
+      "summary": "报道指SK海力士CMM-DDR5让多台服务器按需共享内存池，灵活分配有限内存资源。"
+    },
+    {
+      "date": "2026-10-18",
+      "category": "storage",
+      "title": "大摩：HBM与SSD合约价飙升，2027年HBM均价涨121%",
+      "url": "https://finance.technews.tw/2026/10/17/morgan-stanley-memory-and-ai-supply-chain-outlook/",
+      "source": "TechNews",
+      "summary": "大摩指四季度DRAM、NAND合约价分别涨10%-15%、15%-20%，企业级SSD涨23%-28%。"
+    },
+    {
+      "date": "2026-10-18",
+      "category": "storage",
+      "title": "机构：HBM明年一季度合约价预计涨80%–100%",
+      "url": "https://www.163.com/dy/article/L9CH7VTH05198NMR.html",
+      "source": "网易",
+      "summary": "机构预计四季度DRAM环比涨15%-20%、NAND约20%，HBM在2027年一季度涨80%-100%。"
+    },
+    {
+      "date": "2026-10-18",
+      "category": "storage",
+      "title": "长鑫存储年底推出4F² DDR5 RDIMM，进度或超前三星两年",
+      "url": "https://technews.tw/2026/10/11/cxmt-dram-memory-4f%C2%B2-ddr5/",
+      "source": "TechNews",
+      "summary": "长鑫存储预告年底推出结合4F²架构与混合键合的新一代DDR5服务器内存，领先三星约两年。"
+    },
+    {
+      "date": "2026-10-18",
+      "category": "storage",
+      "title": "长鑫存储公布4F² DRAM架构，韩系存储股应声大跌",
+      "url": "https://china.hani.co.kr/arti/economy/17516.html",
+      "source": "韩民族日报",
+      "summary": "长鑫存储开发4F²服务器DDR5，消息引发三星、SK海力士股价大跌，市场担忧供给格局生变。"
+    },
+    {
+      "date": "2026-10-18",
+      "category": "ai-infra",
+      "title": "英伟达Vera Rubin平台生态伙伴曝光，富士康、美的等入围",
+      "url": "https://finance.eastmoney.com/a/202610153897163684.html",
+      "source": "东方财富",
+      "summary": "英伟达MGX AI Factory生态名单曝光，涉及台积电、富士康、美的、阳光电源等供应链企业。"
+    },
+    {
+      "date": "2026-10-18",
+      "category": "ai-infra",
+      "title": "光寶科进军Vera Rubin NVL72，推出110kW电源与800VDC液冷机柜",
+      "url": "https://technews.tw/ai-agent/lite-on-technology-ocp-800-vdc-power-2-6mw-liquid-cooling-system/41874/",
+      "source": "TechNews",
+      "summary": "光宝携手云达推出110kW机架式电源与800VDC液冷电源柜，切入英伟达Vera Rubin平台。"
+    },
+    {
+      "date": "2026-10-18",
+      "category": "ai-infra",
+      "title": "上海提高数据中心能效准入门槛，液冷渗透率有望加速提升",
+      "url": "https://finance.eastmoney.com/a/202610143894734060.html",
+      "source": "东方财富",
+      "summary": "上海提升数据中心项目能效准入门槛，TrendForce预计液冷在AI数据中心渗透率2026年达40%。"
+    },
+    {
+      "date": "2026-10-18",
+      "category": "ai-infra",
+      "title": "上海AI企业北上乌兰察布，绿色智算中心加速扩容",
+      "url": "https://k.sina.com.cn/article_1737737970_6793c6f202001uvk0.html",
+      "source": "新浪",
+      "summary": "乌兰察布智算中心以源网荷储一体化与全浸没液冷将PUE降至1.1以下，算力密度提升50%。"
+    },
+    {
+      "date": "2026-10-18",
+      "category": "ai-infra",
+      "title": "台达推出面向英伟达Vera Rubin的AI模块化数据中心",
+      "url": "https://itbrief.asia/story/delta-unveils-ai-modular-data-centre-for-nvidia-vera-rubin",
+      "source": "IT Brief Asia",
+      "summary": "台达AI模块化数据中心整合800VDC列间供电与液冷，支持Vera Rubin平台快速部署。"
+    },
     {
       "date": "2026-10-17",
       "category": "memory-pool",
@@ -1504,102 +1600,6 @@
       "url": "https://www.eet-china.com/news/202610096052.html",
       "source": "国际电子商情",
       "summary": "报道称内存涨价挤压手机毛利，苹果 10 月零部件订单最多削减两成。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "1TB SSD 从 300 元涨到上千元，长江存储称短缺至少持续三年",
-      "url": "https://feng.ifeng.com/c/8x3cprB9iOb",
-      "source": "凤凰网",
-      "summary": "长江存储透露内存涨 5-10 倍、NAND 涨 3-5 倍，1TB SSD 零售价从约 300 元涨至上千元。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "HBF、铁电、忆阻器 CIM 与 STCO 全面升级（二）",
-      "url": "https://caifuhao.eastmoney.com/news/20261008095742372720580",
-      "source": "东方财富",
-      "summary": "报道梳理 AI 存储新路径，指 HBM 快而贵、NAND 大而慢，HBF 等新介质填补存储层级断层。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "美参议院调查质疑科技巨头 AI 数据中心说辞",
-      "url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/",
-      "source": "TIME",
-      "summary": "美国参议院新调查指大型科技公司在数据中心项目的成本与收益上误导公众。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "FT：中国在内蒙古高速建设数据中心争夺 AI 主导权",
-      "url": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e",
-      "source": "Financial Times",
-      "summary": "FT 报道北京正以惊人速度在内蒙古推进算力基础设施建设，争夺 AI 领先地位。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "花旗：AI 模型进展速度超越数据中心基础设施建设",
-      "url": "https://hk.investing.com/news/stock-market-news/article-93CH-1692044",
-      "source": "Investing.com",
-      "summary": "花旗指模型迭代快于数据中心建设，Reflection AI、Mistral 以更少算力取得领先表现。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "亚马逊云接入智谱 GLM-5.3，腾讯加码海外算力",
-      "url": "https://www.jiemian.com/article/15168024.html",
-      "source": "界面新闻",
-      "summary": "甲骨文云基础设施收入同比增 93%，云厂商资本开支与服务能力扩张形成正向循环。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "字节跳动高晓军：基础设施需更多创新推动 AI 产业发展",
-      "url": "https://www.yunshangrunze.com/news/shangzhi17669/",
-      "source": "云上润泽",
-      "summary": "字节称推理算力需求已超训练，AI Agent 对基础设施性价比与系统能力提出更高要求。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "AI 数据中心建设加速之际，地方阻力从美国蔓延至欧亚",
-      "url": "https://www.cls.cn/detail/2497590",
-      "source": "财联社",
-      "summary": "IEA 预计全球数据中心用电到 2030 年近翻倍达约 950 太瓦时，地方阻力蔓延至欧亚。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "经济日报：AI 投资能否对美国经济形成新支撑",
-      "url": "http://paper.ce.cn/pc/content/202610/06/content_339869.html",
-      "source": "经济日报",
-      "summary": "报道指若电网改造跟不上数据中心建设，项目延期与电价上行将压缩 AI 投资回报。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "电力正成数据中心扩张最大瓶颈",
-      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262194931-ai-power-shortage-nvidia-ceo-five-layer-economy-tradingkey",
-      "source": "TradingKey",
-      "summary": "报道指电力已从成本项变为限制 AI 扩张的核心约束，变压器与并网排队成硬约束。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "英伟达 DSX Ready 把供电与散热纳入 AI 工厂蓝图",
-      "url": "https://www.datacenterfrontier.com/design/article/55410513/nvidias-dsx-ready-brings-power-and-cooling-into-the-ai-factory-blueprint",
-      "source": "Data Center Frontier",
-      "summary": "英伟达 DSX Ready 把储能与液冷纳入 AI 工厂参考架构，并公布首批认证产品。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "ai-infra",
-      "title": "LiquidJet Diamond 冷板可将 AI 工厂盈利最高提升 35%",
-      "url": "https://www.prnewswire.com/news-releases/liquidjet-diamond-coldplates-can-increase-ai-factory-profitability-by-up-to-35-302903081.html",
-      "source": "PR Newswire",
-      "summary": "Frore Systems 发布 LiquidJet Diamond 冷板，改善极端热点散热，称可提升 AI 工厂盈利至多 35%。"
     }
   ]
 }
