@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-10-18T08:37:58+08:00",
+  "updatedAt": "2026-10-19T08:38:13+08:00",
   "items": [
+    {
+      "date": "2026-10-19",
+      "category": "memory-pool",
+      "title": "德明利H9560主控芯片瞄准CXL内存扩展，预计年内完成回片",
+      "url": "https://www.163.com/dy/article/L9BOAMIP051984TV.html",
+      "source": "网易",
+      "summary": "德明利称H9560主控面向CXL内存扩展核心场景，已布局固件与系统适配，预计年内回片。"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "memory-pool",
+      "title": "机构：CXL内存市场2026年32亿美元，2033年将达101亿美元",
+      "url": "https://www.openpr.com/news/4660873/cxl-memory-market-to-reach-us-10-1-billion-by-2033-growing-at",
+      "source": "OpenPR",
+      "summary": "报告预计全球CXL内存市场从2026年32亿美元增至2033年101亿美元，年复合增速17.8%。"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "storage",
+      "title": "韩媒：通用DRAM供应几近枯竭，四季度价格最高再涨15%",
+      "url": "https://www.mk.co.kr/cn/business/12178104",
+      "source": "每日经济新闻（韩国）",
+      "summary": "韩媒称通用DRAM库存见底，Vera Rubin搭载288GB HBM4加剧挤占，四季度价格最高涨15%。"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "storage",
+      "title": "HBM王座要换人：三星2027年份额冲40%，或反超SK海力士",
+      "url": "https://feng.ifeng.com/c/8xAG6di3bOd",
+      "source": "凤凰网",
+      "summary": "瑞银预测三星2027年HBM出货份额升至40%，首超SK海力士的39%，登顶全球第一。"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "storage",
+      "title": "机构预测SK海力士三季度营收98.23万亿韩元，营业利润率78.4%",
+      "url": "https://www.sohu.com/a/1089418707_120988576",
+      "source": "搜狐",
+      "summary": "机构预计SK海力士三季度营收98.23万亿、营业利润76.96万亿韩元，DRAM出货环比增约10%。"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "storage",
+      "title": "SK海力士OCP展出PEB210液冷企业级SSD，从HBM延伸至存储",
+      "url": "https://www.asiae.co.kr/en/article/enterprise-CEO/2026101611171910882",
+      "source": "亚洲经济",
+      "summary": "SK海力士在OCP展示支持直触液冷的PEB210 E1.S与M.2企业级SSD，拓展AI存储产品线。"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "storage",
+      "title": "AI拿走HBM，手机与PC只能「啃剩饭」",
+      "url": "https://www.donews.com/news/detail/1/6405627.html",
+      "source": "DoNews",
+      "summary": "报道称三大厂新增产能八成至九成转向HBM，消费级DRAM与NAND供给被挤压、价格传导至终端。"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "ai-infra",
+      "title": "大湾区首个量超智融合算力中心落地，算力竞争重心转移",
+      "url": "https://www.doit.com.cn/ai/859842224312389.html",
+      "source": "DOIT",
+      "summary": "大湾区首个量超智融合算力中心建成，标志算力竞争从单纯堆卡转向超算、智算协同调度。"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "ai-infra",
+      "title": "从「薯都」到「token之都」，中国草原跑出算力黑马",
+      "url": "https://www.nmg.chinanews.com.cn/news/20261018/56379.html",
+      "source": "中国新闻网",
+      "summary": "乌兰察布借绿电与气候优势转型算力重镇，形成从马铃薯之都到Token工厂的产业跃迁。"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "ai-infra",
+      "title": "CINNO：三季度中国智算中心项目62个，拟建投资额达5217亿元",
+      "url": "https://news.qq.com/rain/a/20261014A0BRB800",
+      "source": "腾讯新闻",
+      "summary": "CINNO统计三季度智算中心项目62个，拟建/筹备投资5217亿元占71.6%，交付投产约993.6亿元。"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "ai-infra",
+      "title": "「鹏城云脑Ⅲ」10000P国产算力上线试运行",
+      "url": "https://feng.ifeng.com/c/8xIR4e8wlcT",
+      "source": "凤凰网",
+      "summary": "鹏城云脑Ⅲ采用首创国产智算超节点架构，10000P算力上线试运行，突破数据传输瓶颈。"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "ai-infra",
+      "title": "人民日报：乌兰察布签约算力项目109个，投运算力19万P",
+      "url": "http://paper.people.com.cn/rmrb/pc/content/202610/18/content_30186274.html",
+      "source": "人民日报",
+      "summary": "人民日报称乌兰察布签约算力项目109个、标准机架超700万架，投运算力达19万PFLOPS。"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "ai-infra",
+      "title": "英伟达详解面向AI工厂的开放电力、散热与网络设计",
+      "url": "https://www.hpcwire.com/off-the-wire/nvidia-details-open-designs-for-ai-power-cooling-and-networking/",
+      "source": "HPCwire",
+      "summary": "英伟达发布开放电力、液冷与网络参考设计，支撑AI工厂从兆瓦级迈向吉瓦级规模。"
+    },
     {
       "date": "2026-10-18",
       "category": "memory-pool",
@@ -1496,110 +1600,6 @@
       "url": "https://www.koreaherald.com/article/10897855",
       "source": "Korea Herald",
       "summary": "SK 海力士与三星合计承诺 800 万亿韩元，拟把光州打造为第二座大型半导体制造基地。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "The Next Platform：内存正成为 IT 产业的枢纽，对 AI 更是如此",
-      "url": "https://www.nextplatform.com/store/2026/10/08/memory-is-the-lynchpin-of-the-it-industry-and-doubly-so-for-ai/5301841",
-      "source": "The Next Platform",
-      "summary": "报道指内存成为 IT 产业枢纽，HBM 与高容量企业级 SSD 需求使 30TB TLC SSD 成本受关注。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "内存行业过去 12 个月揽入近 5000 亿美元",
-      "url": "https://www.blocksandfiles.com/flash/2026/10/05/almost-half-a-trillion-dollars-sucked-up-by-memory-industry/5301040",
-      "source": "Blocks & Files",
-      "summary": "AI 服务器需求带动内存行业过去一年收入近 5000 亿美元，创历史纪录。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "美光：存储供应紧张将持续至 2028 财年",
-      "url": "https://www.trendforce.com/news/2026/10/06/news-micron-sees-tighter-memory-supply-through-fy28-when-will-the-big-threes-new-capacity-arrive/",
-      "source": "TrendForce",
-      "summary": "美光预计存储供需紧张延续至 2028 财年，三大厂新增产能多要到 2028 年前后到位。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "长江存储预计全球内存短缺还将持续三年",
-      "url": "https://www.techpowerup.com/353401/chinese-nand-maker-ymtc-reportedly-expects-memory-shortage-to-last-another-three-years",
-      "source": "TechPowerUp",
-      "summary": "长江存储预计全球内存短缺再持续约三年，NAND 供需有望 2027 下半年趋于平衡。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "存储涨价推动三星利润再上台阶，AI 重构存储超级周期",
-      "url": "https://www.163.com/dy/article/L8PK6R2B05118B8N.html",
-      "source": "网易",
-      "summary": "报道称三星、SK 海力士、美光垄断存储供给，扩产周期超三年，AI 重塑存储超级周期。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "三星利润暴增 782.5%，存储巨头赚翻",
-      "url": "https://www.stcn.com/article/detail/4207506.html",
-      "source": "证券时报",
-      "summary": "AI 服务器采购推升存储需求，三星凭全球最大产能成最大赢家，季度利润暴增 782.5%。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "三星、SK 海力士库存跌破 10 天，券商警示 2027 年或现拐点",
-      "url": "https://www.doit.com.cn/storage/855474214432837.html",
-      "source": "DOIT",
-      "summary": "三星与 SK 海力士库存跌破 10 天，存储涨价周期大概率延续至 2027 年。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "存储芯片展望：2026 年供应商收入约 1 万亿美元",
-      "url": "https://news.futunn.com/en/post/1000553362",
-      "source": "富途",
-      "summary": "报告指 2026 年存储供应商收入约 1 万亿美元，三星、SK 海力士、美光三家合计约 8500 亿。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "美光财报颠覆周期预判：2027 年 HBM 将吞 30% DRAM 晶圆",
-      "url": "https://www.sinotrade.com.tw/richclub/news/6ac2c55872695af8d0001329",
-      "source": "永丰金证券",
-      "summary": "报道称美光第四财季业绩打破 2027 年内存过剩预期，HBM 将占 DRAM 晶圆投入近 30%。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "芯片设备迎来大爆发",
-      "url": "https://caifuhao.eastmoney.com/news/20261005091827403221470",
-      "source": "东方财富",
-      "summary": "TrendForce 预计 2026 年服务器 DRAM 合约价累涨约 270%、企业级 SSD 累涨约 235%。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "中国内存产业重点企业盘点：企业级 SSD 占比升至 48%",
-      "url": "https://hao.cnyes.com/post/271668",
-      "source": "钜亨网",
-      "summary": "盘点中国内存重点企业，AI 推理驱动企业级 SSD 爆发，二季度已占全球 NAND 出货容量 48%。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "内存条价格持续狂飙，华强北一年涨超 300%",
-      "url": "https://www.stcn.com/article/detail/4207734.html",
-      "source": "证券时报",
-      "summary": "华强北商家称内存条一年涨超 300%，DDR4 16G 从百余元涨至 600 余元。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "内存涨价反噬终端需求？苹果 10 月零部件订单最多削减两成",
-      "url": "https://www.eet-china.com/news/202610096052.html",
-      "source": "国际电子商情",
-      "summary": "报道称内存涨价挤压手机毛利，苹果 10 月零部件订单最多削减两成。"
     }
   ]
 }
