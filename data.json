@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-10-19T08:38:13+08:00",
+  "updatedAt": "2026-10-20T08:38:17+08:00",
   "items": [
+    {
+      "date": "2026-10-20",
+      "category": "memory-pool",
+      "title": "SK海力士在XCENA MX1首秀CXL计算内存，三星代工同步加盟",
+      "url": "https://www.techtimes.com/articles/329194/20261019/sk-hynix-debuts-cxl-computational-memory-xcena-mx1-samsung-commits-foundry.htm",
+      "source": "Tech Times",
+      "summary": "SK海力士在OCP展示基于XCENA MX1的CXL计算内存，可在推理服务器间共享KV缓存，三星同步宣布代工支持。"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "memory-pool",
+      "title": "众星微推出144 Lane PCIe 6.0交换芯片，支持CXL内存池化",
+      "url": "https://m.sohu.com/a/1089849927_114765",
+      "source": "搜狐",
+      "summary": "众星微发布PCIe 6.0 Switch，单Lane 64GT/s，支持Fabric组网与CXL内存扩展池化，瞄准十万卡集群。"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "memory-pool",
+      "title": "存储的黄金时代，存储厂商却在失去定义权",
+      "url": "https://news.pedaily.cn/202610/570346.shtml",
+      "source": "投资界",
+      "summary": "报道称三星、SK海力士、美光同步叫停CXL控制器自研商业化，以免池化蚕食自家DRAM模组业务。"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "storage",
+      "title": "从HBM到512TB SSD，存储迎来新风向",
+      "url": "https://www.163.com/dy/article/L9JUTKDO05199TU1.html",
+      "source": "网易",
+      "summary": "OCP上形成HBM守带宽、HBF补容量、SSD做缓存卸载的多层体系，大普微展出512TB SSD与液冷企业级盘。"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "storage",
+      "title": "SK海力士拟在SSD主控内置H-TPU小核，分担主CPU负载",
+      "url": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-place-custom-tiny-cpu-cores-in-its-ssd-controllers-to-ease-arm-load-as-drive-speeds-rocket-each-h-tpu-reportedly-draws-2-5-percent-of-a-cpu-cores-power",
+      "source": "Tom's Hardware",
+      "summary": "SK海力士计划把H-TPU嵌入下一代企业级SSD主控，单核功耗约为CPU核心的2.5%，以卸载盘内计算。"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "storage",
+      "title": "三星亮出AI存储新战略：从HBM5、CXL到QLC企业级SSD",
+      "url": "https://www.chinaflashmarket.com/a/184330",
+      "source": "CFM闪存市场",
+      "summary": "三星以HBM5、CXL内存池化、QLC与FDP企业级SSD构建多层存储体系，并开放MAX实验室供客户验证。"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "storage",
+      "title": "存储涨价击穿PC成本线：DRAM加SSD占比逼近40%",
+      "url": "https://k.sina.com.cn/article_7879995964_1d5af323c068017ko8.html",
+      "source": "新浪",
+      "summary": "NAND供给收缩推高内存与SSD价格，存储占整机成本从常态15%升至近40%，带动PC涨价15%–30%。"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "storage",
+      "title": "市值蒸发超2300亿，存储暴利时代要落幕了",
+      "url": "https://caifuhao.eastmoney.com/news/20261016165530865014680",
+      "source": "东方财富",
+      "summary": "存储模组厂股价大幅回撤，市场担忧DRAM与NAND涨价周期见顶，低价囤货红利正在消退。"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "ai-infra",
+      "title": "AI数据中心正在重塑美国老化的电网",
+      "url": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
+      "source": "CNBC",
+      "summary": "CNBC称AI数据中心将主导北美未来十年用电增长，明尼苏达Pine Island等地被迫启动大规模电网扩建。"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "ai-infra",
+      "title": "威图发布DLC直接液冷新品，面向高密度AI算力",
+      "url": "https://hunan.ifeng.com/c/8xFD2pZK4SE",
+      "source": "凤凰网湖南",
+      "summary": "威图在2026工博会发布DLC直接液冷新品，针对高功率密度AI机柜提供从机柜到CDU的散热方案。"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "ai-infra",
+      "title": "巴斯夫推出Glythermin冷却液，瞄准AI数据中心液冷",
+      "url": "https://www.eepw.com.cn/article/202610/484048.htm",
+      "source": "EEPW",
+      "summary": "巴斯夫发布Glythermin PG与DC PG两款产品，专为AI数据中心直接液冷（DLC）回路设计。"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "ai-infra",
+      "title": "AI硬件需求兑现，多家算力上市公司三季报预喜",
+      "url": "http://finance.ce.cn/stock/gsgdbd/202610/t20261015_3258506.shtml",
+      "source": "中国经济网",
+      "summary": "鸿富瀚等算力配套厂商业绩预增，液冷板模组量产成为主要增长动力，AI硬件订单持续兑现。"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "ai-infra",
+      "title": "AMD Helion单机架最高32768核，首次公开Verano EPYC",
+      "url": "https://www.163.com/dy/article/L97VV6AR0511A3C8.html",
+      "source": "网易",
+      "summary": "AMD发布Helion机架级方案，单机架最高32768核，并首秀采用LPDDR内存接口的第六代EPYC Verano。"
+    },
     {
       "date": "2026-10-19",
       "category": "memory-pool",
@@ -1496,110 +1600,6 @@
       "url": "https://www.globenewswire.com/news-release/2026/10/06/3375947/0/en/global-data-center-cooling-market-analysis-and-forecast-2026-2036-ai-and-high-density-computing-propel-liquid-cooling-market-to-141-19-billion-by-2036.html",
       "source": "GlobeNewswire",
       "summary": "报告称 AI 与高密度计算驱动数据中心液冷市场，到 2036 年规模或达 1411.9 亿美元。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "液冷 AI 数据中心为何需要不同的备用电源策略",
-      "url": "https://www.datacenterdynamics.com/en/opinions/why-do-liquid-cooled-ai-data-centers-require-different-backup-power-strategy/",
-      "source": "DataCenterDynamics",
-      "summary": "文章探讨液冷 AI 数据中心因机架功率飙升，对传统备用电源方案构成额外压力，需重新设计。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "GPU 买齐却开不了机？大型变压器全球告急，AI 算力卡在电力端",
-      "url": "https://caifuhao.eastmoney.com/news/20261006113728703796640",
-      "source": "东方财富",
-      "summary": "报道称大型变压器全球告急，AI 竞赛瓶颈或从 GPU、芯片向电力设备与电网投资延伸。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "云端双雄抢电力引爆电网升级商机",
-      "url": "https://www.worldjournal.com/wj/story/121208/9799443?zh-cn",
-      "source": "世界日报",
-      "summary": "科技大厂自建或直购电力趋势确立，电网能力成供电瓶颈，带动高压变压器与模块化数据中心需求。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "memory-pool",
-      "title": "摩根士丹利颜志天：AI 下一波，从算力到记忆体创新",
-      "url": "https://k.sina.com.cn/article_5953466437_162dab0450670behss.html",
-      "source": "新浪",
-      "summary": "大摩指 CXL 内存扩展与池化、MRDIMM 是 AI 配套芯片主要路径，澜起科技为国内代表。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "memory-pool",
-      "title": "Marvell 在 OCP 全球峰会展示开放式 AI 基础设施方案（含 Structera CXL 内存扩展）",
-      "url": "https://www.marvell.com/company/newsroom/marvell-open-ai-infrastructure-ocp-global-summit-2026.html",
-      "source": "Marvell",
-      "summary": "Marvell 将展出 102.4T 交换芯片与 Structera CXL 内存扩展及近内存加速方案，回应内存墙。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "memory-pool",
-      "title": "2026 云栖大会英特尔探展：至强、AI GPU 与 CXL 内存池化",
-      "url": "https://m.sohu.com/a/1085500775_438786",
-      "source": "搜狐",
-      "summary": "英特尔展示龙蜥 OS 与 Intel CXL 2.0 内存池化、分级内存方案，AI 服务器竞争延伸至数据通路。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "memory-pool",
-      "title": "AI 芯片定制化浪潮下内存架构创新与接口底座的机会",
-      "url": "https://news.futunn.com/en/post/1000727455",
-      "source": "富途",
-      "summary": "报告称 CXL 成为内存池化事实标准，NVLink Fusion 向定制 ASIC 开放，接口向标准收敛。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "memory-pool",
-      "title": "OCP 峰会将至：杰富瑞看好高带宽内存与内存池化结合",
-      "url": "https://m.163.com/dy/article/L8OE182205198UNI.html",
-      "source": "网易",
-      "summary": "杰富瑞指更长上下文与更高并发扩大缓存需求，高带宽内存与内存池化结合可提升算力利用率。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "SK 海力士与三星推进 16 层 HBM4，而英伟达 Rubin 偏好 12 层",
-      "url": "https://www.koreaherald.com/article/10897751",
-      "source": "Korea Herald",
-      "summary": "报道称 SK 海力士与三星力推 16 层 HBM4 提升容量，但英伟达 Rubin 仍偏好 12 层，升级未普及。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "三星 HBM 价格 2027 年预计翻倍以上",
-      "url": "https://www.koreaherald.com/article/10895833",
-      "source": "Korea Herald",
-      "summary": "报道称三星今年 2 月已量产 HBM4，其 HBM 价格 2027 年预计较今年上涨一倍以上。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "三星以 HBM4 供应为筹码，向 AMD 争取代工订单",
-      "url": "https://www.techtimes.com/articles/328853/20261009/samsung-used-hbm4-memory-supply-monopoly-force-amd-foundry-talks.htm",
-      "source": "Tech Times",
-      "summary": "报道称英伟达锁定 SK 海力士 2026 年大部分 HBM4 产能后，三星以 HBM4 供应向 AMD 换取代工。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "AMD 苏姿丰称造芯是「团队运动」，MI455 已用三星/SK 海力士 HBM4 出货",
-      "url": "https://www.koreaherald.com/article/10895779",
-      "source": "Korea Herald",
-      "summary": "AMD 已开始出货搭载三星与 SK 海力士 HBM4 的 MI455 加速器与 Helios 系统。"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "storage",
-      "title": "SK 会长拟在光州建晶圆厂，与龙仁集群并行",
-      "url": "https://www.koreaherald.com/article/10897855",
-      "source": "Korea Herald",
-      "summary": "SK 海力士与三星合计承诺 800 万亿韩元，拟把光州打造为第二座大型半导体制造基地。"
     }
   ]
 }
