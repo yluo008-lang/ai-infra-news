@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-10-20T08:38:17+08:00",
+  "updatedAt": "2026-10-21T08:38:16+08:00",
   "items": [
+    {
+      "date": "2026-10-21",
+      "category": "memory-pool",
+      "title": "2026 CCF高性能计算大会：存算融合破解AI推理「内存墙」",
+      "url": "https://tech.gmw.cn/2026-10/20/content_39054541.htm",
+      "source": "光明网",
+      "summary": "CCF高性能计算大会聚焦存算融合与近存计算，探索破解AI推理内存墙的产业化路径。"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "memory-pool",
+      "title": "蓝芯算力发布智通融合超节点，统一内存架构支持CXL扩展",
+      "url": "https://m.163.com/dy/article/L9MBG761053469RG.html",
+      "source": "网易",
+      "summary": "蓝芯算力推出智通融合超节点，芯片采用统一内存架构共享DDR5并支持CXL扩展，拓展RISC-V推理场景。"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "memory-pool",
+      "title": "中国厂商杀向算力咽喉要道：PCIe 6.0交换与CXL内存池化",
+      "url": "https://c.m.163.com/news/a/L9AEDF070519D4UH.html",
+      "source": "网易",
+      "summary": "国产厂商布局PCIe 6.0交换、800G AI网卡与多模RAID，交换芯片支持CXL内存扩展与池化。"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "storage",
+      "title": "TrendForce：四季度DRAM合约价预计环比上涨20%",
+      "url": "https://www.trendforce.com/news/2026/10/20/news-dram-prices-seen-rising-20-qoq-in-4q26-despite-slower-gains-ai-demand-tight-supply-support-outlook/",
+      "source": "TrendForce",
+      "summary": "TrendForce预计四季度DRAM合约价环比涨约20%，AI需求与供给紧张支撑涨势延续。"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "storage",
+      "title": "美光开发边缘推理内存，预计2028年下半年量产",
+      "url": "https://www.trendforce.com/news/2026/10/19/news-micron-develops-edge-inference-memory-2h28-production-seen-as-hbm-potential-grows-in-humanoids/",
+      "source": "TrendForce",
+      "summary": "美光研发面向人形机器人的边缘推理内存，预计2028年下半年量产，单机DRAM需求或超200GB。"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "storage",
+      "title": "闪迪市值一夜大增近700亿元，存储芯片股集体反弹",
+      "url": "https://news.china.com/socialgd/10000169/20261020/49805574.html",
+      "source": "中华网",
+      "summary": "10月20日美股科技股上涨，闪迪股价涨约5%、市值增近700亿元，存储板块情绪回暖。"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "storage",
+      "title": "SK海力士HBF：介于HBM与SSD之间的新存储层级",
+      "url": "https://www.igorslab.de/zh/sk-hynix-hbf-stacked-nand-memory-between-hbm-ssds-zh-cn/",
+      "source": "Igor's Lab",
+      "summary": "SK海力士HBF以堆叠NAND提供单堆栈最高512GB容量与3TB/s带宽，填补HBM与SSD之间的层级空白。"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "storage",
+      "title": "HBM抢产能，SOCAMM、DDR6与400层NAND加速崛起",
+      "url": "https://caifuhao.eastmoney.com/news/20261012183219831315630",
+      "source": "东方财富",
+      "summary": "HBM挤占产能推动SOCAMM、DDR6与400层NAND加速导入，AI服务器存储需求结构持续上移。"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "storage",
+      "title": "紫光国芯：以存储「燃料」激活AI产业新势能",
+      "url": "https://finance.eastmoney.com/a/202610203900333052.html",
+      "source": "东方财富",
+      "summary": "紫光国芯称AI瓶颈正从算力墙转向存储墙，行业由堆算力转向以存储效率驱动。"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "ai-infra",
+      "title": "FT：美国10万亿美元AI基建热潮开始出现裂痕",
+      "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+      "source": "Financial Times",
+      "summary": "FT称美国十万亿美元级AI基建热潮显露裂痕，融资、电力与回报压力同步上升。"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "ai-infra",
+      "title": "新风光推出SST绿电直连液冷智算中心一体化方案",
+      "url": "https://k.sina.com.cn/article_5953466437_162dab0450670bfe18.html?from=tech",
+      "source": "新浪",
+      "summary": "新风光以SST固态变压器与高压级联储能构建算电一体化方案，打造绿电直连液冷智算中心。"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "ai-infra",
+      "title": "144颗GPU挤进一台机柜，天数智芯发布天垓300 IXL144超节点",
+      "url": "https://www.itheat.com/view/63953.html",
+      "source": "热点科技",
+      "summary": "天数智芯天垓300 IXL144在单柜集成144颗GPU，贴近常规机柜供电与承重要求。"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "ai-infra",
+      "title": "AI的尽头是电力：海外算力扩容催热中国能源装备出海",
+      "url": "https://finance.eastmoney.com/a/202610193899877736.html",
+      "source": "东方财富",
+      "summary": "IEA预计2030年全球AI数据中心用电为2025年三倍，海外扩容带动中国能源装备出口。"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "ai-infra",
+      "title": "SemiAnalysis预测2027年新增50GW数据中心，电力成第一约束",
+      "url": "https://m.sohu.com/a/1090156464_128075",
+      "source": "搜狐",
+      "summary": "SemiAnalysis预计2027年全球新增50GW数据中心，约束从芯片采购转向电力系统与现场发电。"
+    },
     {
       "date": "2026-10-20",
       "category": "memory-pool",
@@ -1488,118 +1600,6 @@
       "url": "https://tw.stock.yahoo.com/news/%E5%BA%B7%E8%88%92%E5%8F%83%E5%8A%A0ocp%E5%B3%B0%E6%9C%83-%E7%A7%80ai%E5%9F%BA%E7%A4%8E%E8%A8%AD%E6%96%BD%E9%AB%98%E5%8A%9F%E7%8E%87%E9%9B%BB%E6%BA%90%E6%87%89%E7%94%A8-035600234.html",
       "source": "Yahoo 股市",
       "summary": "康舒将在 OCP 峰会展示高功率密度电源、不同直流供电架构与下一代液冷电源技术布局。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "AMD 苏姿丰将登台 OCP 全球峰会，聚焦 GW 级 AI 工厂",
-      "url": "https://www.techub.news/articles/e349f5c0-7bc1-4492-840c-657ca6b986f5",
-      "source": "Techub News",
-      "summary": "OCP 全球峰会 10 月 12-15 日在圣何塞举行，主题为面向 AI 时代的规模化创新，苏姿丰将登台。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "800 VDC 走向 AI 电源主流，台达电、光宝迎战 OCP 2026",
-      "url": "https://today.line.me/tw/v3/article/l2p1V50",
-      "source": "LINE TODAY",
-      "summary": "台达电与光宝在 OCP 2026 主推 800VDC 供电，覆盖数据中心前端电力、电源柜、液冷与微电网。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "仁宝 9 月营收创今年次高，OCP 将展示 800VDC 与兆瓦级液冷",
-      "url": "https://finance.biggo.com.tw/news/4d9568d1-f2cb-455a-a505-416f6c1f4efd",
-      "source": "BigGo 财经",
-      "summary": "仁宝将在 OCP 峰会展示新世代 AI 工厂基础设施，推进 800VDC 直流供电与先进液冷技术。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "CoreWeave 携 240MW 进入印度，部署英伟达 Vera Rubin 平台",
-      "url": "https://www.coreweave.com/news/coreweave-enters-india-expanding-ai-cloud-platform-with-adaniconnex",
-      "source": "CoreWeave",
-      "summary": "CoreWeave 进入印度，在 AdaniConneX 的 Taloja 园区部署三栋 80MW 机房与英伟达 Vera Rubin 平台。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "充电运营商拟在全美站点部署 10 万颗英伟达 GPU，打造边缘推理网络",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/ev-charging-company-plans-to-deploy-100-000-nvidia-gpus-in-pods-at-its-roadside-sites-across-the-us-aims-to-offer-worlds-first-edge-inference-compute-network-using-idle-ev-charging-capacity",
-      "source": "Tom's Hardware",
-      "summary": "报道称某电动车充电运营商计划在全美站点部署 10 万颗英伟达 GPU，打造边缘推理算力网络。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "AI 基建只下实棋：浪潮信息 90 亿定增剑指新十年",
-      "url": "https://m.sohu.com/a/1086123311_121948396",
-      "source": "搜狐",
-      "summary": "浪潮信息拟定增募资不超 90 亿元，投向新一代 AI 基础设施与绿色智算液冷原生算力项目。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "液冷 CDU 深度解读：数据中心液冷温控的「算力心脏」",
-      "url": "https://www.163.com/dy/article/L8SBHFK005384IDX.html",
-      "source": "网易",
-      "summary": "解读液冷 CDU，指东数西算将液冷列为重点节能技术，欧盟与美国亦出台数据中心能效约束。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "北方 AI 基建看天津：国内最大全国产化智算集群落地",
-      "url": "https://k.sina.com.cn/article_2729978983_a2b82c6700101jw0q.html",
-      "source": "新浪",
-      "summary": "中科曙光在天津建成国内最大规模全国产化智算集群，配备十万张国产 AI 加速芯片与液冷方案。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "河北润泽科技 200MW/10 万卡智算中心入选「算力中国·年度卓越成就」",
-      "url": "http://he.people.com.cn/n2/2026/1010/c192235-41717752.html",
-      "source": "人民网",
-      "summary": "润泽科技单体 200MW/10 万卡超大规模智算中心入选算力中国年度卓越成就，PUE 稳定低于 1.2。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "AI 超节点：一场中国式的「系统级突围」",
-      "url": "https://caifuhao.eastmoney.com/news/20261010092933171652210",
-      "source": "东方财富",
-      "summary": "报道称阿里与华为几乎同时亮出超节点杀手锏，国产 GPU 与系统级创新掀开全新 AI 叙事。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "5 位产业专家同台，拆解国产智算「高速公路」怎么建",
-      "url": "https://www.163.com/dy/article/L8SJOFV50550PX53.html",
-      "source": "网易",
-      "summary": "2026 世界算力网大会智算互联论坛将围绕国产超节点、科学基础设施与开放互联展开讨论。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "40 亿 RoCE 大单背后：AI 算力基建进入「全链条竞速」",
-      "url": "https://m.sohu.com/a/1085950663_128075",
-      "source": "搜狐",
-      "summary": "报道称中国日均 Token 调用量已突破 140 万亿，AI 算力基建进入网络、存储等全链条竞速。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "京津冀「千团千企」冷产业融合创新联盟成立",
-      "url": "https://tj.chinadaily.com.cn/a/202610/08/WS6ac72f1ee4b09a165c78e222.html",
-      "source": "中国日报",
-      "summary": "联盟聚焦 AI 智算与数据中心，打通液冷装备、国产冷却介质、系统运维与余热利用全产业链。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "报告：AI 与高密度计算推动液冷市场 2036 年达 1411.9 亿美元",
-      "url": "https://www.globenewswire.com/news-release/2026/10/06/3375947/0/en/global-data-center-cooling-market-analysis-and-forecast-2026-2036-ai-and-high-density-computing-propel-liquid-cooling-market-to-141-19-billion-by-2036.html",
-      "source": "GlobeNewswire",
-      "summary": "报告称 AI 与高密度计算驱动数据中心液冷市场，到 2036 年规模或达 1411.9 亿美元。"
     }
   ]
 }
