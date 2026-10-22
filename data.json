@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-10-21T08:38:16+08:00",
+  "updatedAt": "2026-10-22T08:38:05+08:00",
   "items": [
+    {
+      "date": "2026-10-22",
+      "category": "memory-pool",
+      "title": "2026全国高性能计算学术大会：联想首发三卷算力基础设施，CXL内存池扩展KV Cache分层",
+      "url": "https://finance.sina.com.cn/roll/2026-10-19/doc-inivueum6161158.shtml",
+      "source": "新浪财经",
+      "summary": "联想首发三卷算力基础设施，以CXL内存池扩展容量，让KV Cache分层存储并支持多推理实例共享公共前缀。"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "memory-pool",
+      "title": "从有效算力瓶颈看国产互连芯片的全栈破局：CXL跨节点内存池化需求上行",
+      "url": "https://www.21ic.com/a/1014638.html",
+      "source": "21ic电子网",
+      "summary": "长上下文与智能体系统推高KV-Cache，单卡显存受限带动CXL跨节点内存池化需求快速上升。"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "storage",
+      "title": "三星西安、SK海力士大连工厂升级NAND产线，目标200层以上",
+      "url": "https://www.guancha.cn/CaiJing/2026_10_21_905274.shtml",
+      "source": "观察者网",
+      "summary": "路透称三星与SK海力士升级在华NAND工厂至200层以上，兼顾AI需求与长江存储的竞争压力。"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "storage",
+      "title": "长江存储中国NAND市场份额超越三星，跃居出货第一",
+      "url": "https://www.163.com/dy/article/L9PSMK2805527PMU.html",
+      "source": "网易",
+      "summary": "机构数据显示2026年二季度长江存储超越三星，成为中国NAND闪存市场出货量最大供应商。"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "storage",
+      "title": "美光10月21日技术研讨会：披露DRAM、HBM与NAND多代路线图",
+      "url": "https://m.sohu.com/a/1089850258_121157270",
+      "source": "搜狐",
+      "summary": "美光总裁Scott DeBoer在10月21日技术研讨会介绍DRAM、HBM与NAND创新及未来多代技术路线。"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "storage",
+      "title": "TrendForce：英伟达推动台积电3nm代工NVHBM基础裸片",
+      "url": "https://www.trendforce.com/news/2026/10/19/news-nvidia-reportedly-pushes-tsmc-3nm-nvhbm-base-dies-for-samsung-sk-hynix-micron-in-unlikely-foundry-tie-up/",
+      "source": "TrendForce",
+      "summary": "英伟达要求三星、SK海力士与美光统一采用台积电3nm工艺生产定制NVHBM基础裸片。"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "storage",
+      "title": "SK海力士HBM4份额被三星追近，出货与良率成胜负关键",
+      "url": "https://www.163.com/dy/article/L9OF4PJL05527PMU.html",
+      "source": "网易",
+      "summary": "韩媒称HBM4切换关口SK海力士主导地位松动，三星份额追近，出货节奏与良率决定格局。"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "storage",
+      "title": "存储股别急着抄底：三星、SK海力士月内最大回撤超30%",
+      "url": "https://finance.sina.com.cn/money/fund/jjzl/2026-10-21/doc-inivyhkr6246993.shtml",
+      "source": "新浪财经",
+      "summary": "10月以来三星、SK海力士、美光分别回撤约24%、31%、15%，机构提示抄底仍需看涨价兑现。"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "ai-infra",
+      "title": "英伟达发布DSX POD：把Vera Rubin AI工厂装进集装箱",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
+      "source": "NVIDIA",
+      "summary": "英伟达在GTC柏林发布DSX POD参考设计，以预制集装箱交付Vera Rubin AI工厂，现场部署由数月缩短至数天。"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "ai-infra",
+      "title": "CNBC：英伟达Vera Rubin机柜可用卡车运输，14天开始产出Token",
+      "url": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
+      "source": "CNBC",
+      "summary": "DSX POD约一个标准集装箱大小、重约2.8万公斤，集成七个Vera Rubin机柜，约14天可上线产出Token。"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "ai-infra",
+      "title": "我国首个全国产十万卡AI超集群「曙光8000」真机亮相",
+      "url": "https://www.ithome.com/1/014/456.htm",
+      "source": "IT之家",
+      "summary": "曙光8000在CCF HPC 2026亮相，十万张国产加速卡高速互联，超算与智算在同一算力底座原生融合。"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "ai-infra",
+      "title": "沐曦曦景S600超节点：以系统协同提升算力供给与使用效率",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-10-20/doc-inivwitp6517115.shtml",
+      "source": "新浪财经",
+      "summary": "沐曦陈维良以曦景S600超节点为例，称系统级协同是提升算力供给能力与使用效率的关键路径。"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "ai-infra",
+      "title": "大金发布2.5MW液冷CDU，瞄准高密AI数据中心",
+      "url": "https://www.datacentre.solutions/news/24388-daikin-unveils-25mw-liquid-cooling-cdus-for-ai-data-centres",
+      "source": "Data Centre Solutions",
+      "summary": "大金推出新一代Coolant Distribution Unit，单机容量最高2.5MW，应对AI机柜热量持续攀升。"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "ai-infra",
+      "title": "机构：AI数据中心液冷市场2032年将达203.9亿美元",
+      "url": "https://www.prnewswire.com/news-releases/ai-data-center-liquid-cooling-market-worth-20-39-billion-by-2032---exclusive-report-by-marketsandmarkets-302913151.html",
+      "source": "PR Newswire",
+      "summary": "MarketsandMarkets预计AI数据中心液冷市场由2026年35.2亿美元增至2032年203.9亿美元，年复合34%。"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "ai-infra",
+      "title": "范式智能推出「AI Infra+MaaS」战略，破解异构算力落地卡点",
+      "url": "https://finance.ifeng.com/c/8xOusIIMNw1",
+      "source": "凤凰财经",
+      "summary": "范式智能以AI Infra+MaaS战略切入算力调度、跨芯片适配、推理稳定与Token交付等落地难题。"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "ai-infra",
+      "title": "Apollo：若数据中心建设延迟，谁受益谁受损",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/winners-and-losers-if-the-data-center-buildout-is-delayed",
+      "source": "Apollo",
+      "summary": "Apollo分析指若数据中心建设放缓，收入受供给而非需求约束，AI实验室与初创承压、部分供应商受益。"
+    },
     {
       "date": "2026-10-21",
       "category": "memory-pool",
@@ -1472,134 +1600,6 @@
       "url": "https://www.databank.com/resources/news/inside-the-trillions-being-spent-on-the-ai-data-center-buildout/",
       "source": "DataBank",
       "summary": "报道从 DataBank CEO 视角审视 AI 数据中心万亿级投资，聚焦电力约束、土地规划与人力短缺。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "memory-pool",
-      "title": "深圳企业加码 AI 存储，德明利多款新技术亮相云栖大会",
-      "url": "https://www.xinhuanet.com/house/20261010/fe3bed8ddac64e319ca9d72dde331963/c.html",
-      "source": "新华网",
-      "summary": "德明利在云栖大会展示 CXL 内存扩展主控 H9560 等新品，可为 KV-Cache 提供容量更大、断电不丢的存储层。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "memory-pool",
-      "title": "一文看懂阿里云 AI 算力硬件体系",
-      "url": "https://www.163.com/dy/article/L8QM2OMN0531N0ME.html",
-      "source": "网易",
-      "summary": "阿里云磐久 CXL 内存扩展超节点基于 CXL 3.1 做内存池化，把内存从 CPU 解耦以破解 KV Cache 内存墙。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "storage",
-      "title": "SK 海力士混合键合进展落后三星，HBM 份额被蚕食",
-      "url": "https://www.techpowerup.com/353458/sk-hynix-reportedly-faces-difficulties-in-hbm-hybrid-bonding-trailing-samsung",
-      "source": "TechPowerUp",
-      "summary": "报道称 SK 海力士 HBM 混合键合遇阻，其 HBM 支出份额由 64% 降至 50%，三星份额上升。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "storage",
-      "title": "三星财报开启芯片业关键十月，将展示 CXL 内存池化",
-      "url": "https://www.ajupress.com/view/20261005142622669",
-      "source": "Aju Press",
-      "summary": "报道称三星财报开启芯片业关键十月，其将在 OCP 峰会展示 CXL 内存池化等面向 AI 推理的技术。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "storage",
-      "title": "三星电子单季营业利润 107.4 万亿韩元创纪录",
-      "url": "https://chinese.joins.com/news/articleView.html?idxno=126403",
-      "source": "中央日报",
-      "summary": "三星三季度营业利润达 107.4 万亿韩元，TrendForce 预计四季度 DRAM 涨 10-15%、NAND 涨 15-20%。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "storage",
-      "title": "百万亿韩元关口告破，三星迎来史上「最赚钱一季」",
-      "url": "https://m.163.com/dy/article/L8ODTDH90511RIVP.html",
-      "source": "网易",
-      "summary": "三星三季度营业利润突破百万亿韩元，DRAM 与 NAND 全品类涨价，HBM4 相关营收环比大增。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "storage",
-      "title": "美光被低估了么？现金流与 AI 存储逻辑重估",
-      "url": "https://www.163.com/dy/article/L8O2383S05314VD3.html",
-      "source": "网易",
-      "summary": "分析称美光现金流大幅改善，TrendForce 判断传统 DRAM 三季度仍有 10-15% 上涨空间。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "storage",
-      "title": "从新型存储 PCM 到下一代企业级 PCIe 6.0 SSD",
-      "url": "https://www.csdn.net/article/2026-10-08/167274467",
-      "source": "CSDN",
-      "summary": "报道称 CXL 内存扩展主控把 PCM 接入服务器内存体系，KV Cache 持久化催生高频持久化存储层。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "storage",
-      "title": "铠侠发布 LD4 系列 E1.L QLC SSD，面向超大规模数据中心",
-      "url": "https://www.kioxia.com/en-jp/business/news/2026/20261009-1.html",
-      "source": "KIOXIA",
-      "summary": "铠侠发布 LD4 系列 E1.L QLC SSD，面向高密度 1U 服务器与读密集场景，将在 OCP 峰会展示。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "storage",
-      "title": "SK 海力士闪存子公司 Solidigm 选定承销商，拟赴美 IPO 约 100 亿美元",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynixs-solidigm-taps-banks-120456571.html",
-      "source": "Yahoo Finance",
-      "summary": "报道称 Solidigm 选定高盛与摩根士丹利主承销，IPO 最早 2027 年、估值或达千亿美元级。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "storage",
-      "title": "GMIF2026｜闪迪：做 AI 推理时代的「Token 电池」",
-      "url": "https://www.163.com/dy/article/L8QFPKD60511RIVP.html",
-      "source": "网易",
-      "summary": "闪迪主导 HBF 高带宽闪存标准制定，推进 BiCS10 等架构以破解 AI 推理存储瓶颈。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "storage",
-      "title": "北大蔡一茂：高带宽存储及存算一体技术路径",
-      "url": "https://www.163.com/dy/article/L8QF4V640511RIVP.html",
-      "source": "网易",
-      "summary": "蔡一茂梳理 HBF 路线，闪迪与 SK 海力士按标准 2026 下半年送样、2027 年首批 HBF 推理设备上市。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "storage",
-      "title": "三星史上最强季报来袭，HBM4e 能否重启 AI 内存交易？",
-      "url": "https://caifuhao.eastmoney.com/news/20261007091534629763640",
-      "source": "东方财富",
-      "summary": "报道称三星拟以 HBM4e 提升长期竞争力，摩根士丹利与花旗因汇率下调其盈利预测。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "storage",
-      "title": "GMIF 2026：日均 140 万亿 Token 调用正改变 SSD 能力要求",
-      "url": "https://www.163.com/dy/article/L8SITGLD05118HA4.html",
-      "source": "网易",
-      "summary": "GMIF 2026 指日均 140 万亿 Token 调用正改写 SSD 能力边界，NAND 探索 HBF 与存内计算新形态。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "仁宝亮相 2026 OCP 全球峰会，展示英伟达 AI 工厂基础设施方案",
-      "url": "https://www.eefocus.com/article/2097917.html",
-      "source": "与非网",
-      "summary": "仁宝在 OCP 峰会展示围绕英伟达加速计算的高密度计算平台与新一代供电、散热方案。"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "ai-infra",
-      "title": "康舒参加 OCP 峰会，秀 AI 基础设施高功率电源应用",
-      "url": "https://tw.stock.yahoo.com/news/%E5%BA%B7%E8%88%92%E5%8F%83%E5%8A%A0ocp%E5%B3%B0%E6%9C%83-%E7%A7%80ai%E5%9F%BA%E7%A4%8E%E8%A8%AD%E6%96%BD%E9%AB%98%E5%8A%9F%E7%8E%87%E9%9B%BB%E6%BA%90%E6%87%89%E7%94%A8-035600234.html",
-      "source": "Yahoo 股市",
-      "summary": "康舒将在 OCP 峰会展示高功率密度电源、不同直流供电架构与下一代液冷电源技术布局。"
     }
   ]
 }
