@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-10-22T08:38:05+08:00",
+  "updatedAt": "2026-10-23T08:38:48+08:00",
   "items": [
+    {
+      "date": "2026-10-23",
+      "category": "memory-pool",
+      "title": "澜起科技三季度互连芯片增长，谷歌TPU v8p有望引入内存池化",
+      "url": "https://caifuhao.eastmoney.com/news/20261021085429497629730",
+      "source": "东方财富",
+      "summary": "澜起科技三季度互连类芯片如期增长，产业链称谷歌TPU v8p有望引入内存池化，每颗TPU可额外扩展数百GB内存。"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "memory-pool",
+      "title": "SNS Insider：CXL内存扩展市场2035年将达165.5亿美元",
+      "url": "https://www.openpr.com/news/4669082/cxl-memory-expansion-market-to-reach-usd-16-55-billion-by-2035",
+      "source": "OpenPR",
+      "summary": "SNS Insider预计全球CXL内存扩展市场由2025年13.5亿美元增至2035年165.5亿美元，AI推理为主要驱动力。"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "storage",
+      "title": "美光跳过G10直奔G11：400层NAND密度翻倍还更省电",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezr5258125.shtml",
+      "source": "新浪财经",
+      "summary": "美光技术研讨会预告G11 NAND，跳过G10直奔400层级，面积密度约为276层G9的两倍并降低功耗。"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "storage",
+      "title": "三星电子季度营业利润超越英伟达，跻身全球第一",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3613299",
+      "source": "Investing.com",
+      "summary": "受HBM涨价推动，三星电子季度营业利润超过英伟达居全球第一，机构预计HBM4溢价将推高2027年盈利。"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "storage",
+      "title": "费城半导体八连跌后存储领衔反攻，大摩高呼HDD超级周期",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3617088",
+      "source": "Investing.com",
+      "summary": "大摩称企业级SSD与近线HDD每TB价差或扩至约30倍，容量优先场景下HDD经济性凸显，带动存储股反弹。"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "storage",
+      "title": "长鑫刺穿「存储泡沫」？",
+      "url": "https://k.sina.com.cn/article_5952915705_162d248f906703r7fk.html?from=finance",
+      "source": "新浪",
+      "summary": "报道指DRAM合约价环比涨幅由一季度93%-98%收窄至四季度10%-15%，长鑫扩产引发存储泡沫担忧。"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "storage",
+      "title": "DDR5暴涨627%背后，AI正在「抢走」你的内存",
+      "url": "https://www.tmtpost.com/7983888.html",
+      "source": "钛媒体",
+      "summary": "产能向HBM倾斜后DDR4现货价由约3美元涨至27美元以上，DDR5、NOR Flash等品类全面跟涨。"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "ai-infra",
+      "title": "Reuters：美国中期选举与数据中心反对声浪成AI交易新风险",
+      "url": "https://www.reuters.com/legal/transactional/investors-see-risk-us-midterms-ai-trade-data-center-backlash-builds-2026-10-22/",
+      "source": "Reuters",
+      "summary": "投资者担忧中期选举与社区反对令数据中心项目受阻，AI交易面临政治与审批层面的新风险。"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "ai-infra",
+      "title": "英伟达：欧洲生态以DSX打造全球最高效AI工厂",
+      "url": "https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx",
+      "source": "NVIDIA",
+      "summary": "英伟达称欧洲伙伴以DSX平台建AI工厂，Vera Rubin支持全液冷与45℃进液，配合干冷器实现近零耗水。"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "ai-infra",
+      "title": "神州数码以AI Infra OS与液冷高密组网构筑智算底座",
+      "url": "https://caifuhao.eastmoney.com/news/20261021184513697757790",
+      "source": "东方财富",
+      "summary": "神州数码以自研AI Infra OS为核心，叠加异构智算调度平台与液冷高密组网，破解算力空转与利用率偏低。"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "ai-infra",
+      "title": "光合组织集中亮牌，AI Infra进入系统决战",
+      "url": "https://www.163.com/dy/article/L9SDGAV8051195JE.html",
+      "source": "网易",
+      "summary": "光合组织围绕有效Token产出，整合海光CPU+DCU、曙光超节点、存储、高速网络与液冷能力。"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "ai-infra",
+      "title": "113°F冷却液：AI数据中心学会「跑得更热」",
+      "url": "https://www.datacenters.com/news/113-f-coolant-ai-data-centers-are-learning-to-run-hotter",
+      "source": "Data Centers",
+      "summary": "新型液冷AI系统以约45℃更高温冷却液支撑更高密度GPU，同时降低排热所需能耗。"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "ai-infra",
+      "title": "机构：全球AI数据中心供电与散热基础设施2035年将达1648亿美元",
+      "url": "https://finance.yahoo.com/technology/ai/articles/global-ai-data-center-power-090400740.html",
+      "source": "Yahoo Finance",
+      "summary": "报告称AI负载推动液冷与供电升级，该市场将从2025年528亿美元增至2035年1648亿美元。"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "ai-infra",
+      "title": "Lumentum光器件售罄，订单排至2029年初",
+      "url": "https://m.sohu.com/a/1090620042_115362",
+      "source": "搜狐",
+      "summary": "Lumentum称光器件已完全售罄、订单排至2029年初，2027年仍有约70%的需求无法满足。"
+    },
     {
       "date": "2026-10-22",
       "category": "memory-pool",
@@ -1488,118 +1600,6 @@
       "url": "https://app.myzaker.com/news/article.php?pk=6acb10008e9f094af839f1a3",
       "source": "ZAKER",
       "summary": "闪迪指日均 140 万亿 Token 调用重构 SSD 分工，按与算力距离分三类，NAND 正探索 HBF 升级路径。"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "storage",
-      "title": "铠侠 NAND 产能预计至 2027 年售罄",
-      "url": "http://www.dram.com.cn/page/views.asp?menuid=34&id=86684",
-      "source": "闪存市场",
-      "summary": "报道称铠侠 NAND 产能预计到 2027 年售罄，HBF 以三维堆叠把闪存带宽提升数倍并降低传输能耗。"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "ai-infra",
-      "title": "技嘉在 OCP 全球峰会 2026 展示机架级 AI 架构",
-      "url": "https://www.gigabyte.com/press/news/2459",
-      "source": "GIGABYTE",
-      "summary": "技嘉旗下 Giga Computing 在 OCP 全球峰会 2026 展示面向 AI 与云数据中心的机架级架构方案。"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "ai-infra",
-      "title": "新加坡数据中心见闻：需求强劲，增长未见放缓",
-      "url": "https://www.moomoo.com/hans/news/post/1000794165",
-      "source": "moomoo",
-      "summary": "报道称新加坡数据中心需求强劲，800VDC 成行业焦点，施耐德、伊顿、ABB、台达推进方案，液冷同步落地。"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "ai-infra",
-      "title": "大中华区科技硬件：集成电源方案推动长期需求",
-      "url": "https://news.futunn.com/hk/post/1000635587/greater-china-tech-hardware-integrated-power-solutions-drive-long-term",
-      "source": "富途",
-      "summary": "研报指 800VDC 直流供电成为高功率 AI 机架关键升级，降低电流与线损，带动集成电源方案长期需求。"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "ai-infra",
-      "title": "华为昇腾 950 超节点产能告急，优先保障国内需求",
-      "url": "https://www.163.com/dy/article/L8QRK4KA0530RMN7.html",
-      "source": "网易",
-      "summary": "徐直军称昇腾 950 超节点产能跟不上国内需求，优先保障本土企业与科研机构，暂不计划大规模出海。"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "ai-infra",
-      "title": "推理驱动时代，国内 AI 算力厂商全景观察",
-      "url": "https://m.163.com/dy/article/L8T6FAJV0519D4UH.html",
-      "source": "网易",
-      "summary": "报道梳理推理驱动下的国产算力厂商全景，涵盖华为昇腾、天数智芯等超节点与推理产品布局。"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "ai-infra",
-      "title": "为当下与下一代 GPU 设计 AI 工厂",
-      "url": "https://datacentremagazine.com/news/designing-ai-factories-for-today-and-next-gpu-generation",
-      "source": "Data Centre Magazine",
-      "summary": "文章探讨为当前与下一代 GPU 设计 AI 工厂，指 GB200 NVL72 液冷约 120kW/机架仍需处理残余风冷负荷。"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "ai-infra",
-      "title": "谷歌 Project Suncatcher：把 AI 数据中心送上太空",
-      "url": "https://fortune.com/2026/10/10/google-project-suncatcher-ai-data-centers-space-satellite-launch-orbital-computing-spacex-blue-origin-artificial-intelligence-energy-demand/",
-      "source": "Fortune",
-      "summary": "谷歌 Project Suncatcher 推进把 AI 数据中心送入太空，计划以卫星组网做轨道计算，缓解能源与选址压力。"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "ai-infra",
-      "title": "华尔街把 AI 数据中心包装成地产投资，风险上升",
-      "url": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html",
-      "source": "CNBC",
-      "summary": "华尔街将 AI 数据中心投资推向公开市场，随政治、流动性与项目风险上升，相关资产化加速。"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "ai-infra",
-      "title": "算力基建的战争，才刚刚在液冷赛道上演",
-      "url": "https://finance.sina.com.cn/stock/t/2026-10-11/doc-iniuvant7420214.shtml",
-      "source": "新浪财经",
-      "summary": "报道称液冷订单已排至 2027 年、部分企业营收增速超 400%，正从机房配套升级为智算集群底层基础设施。"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "ai-infra",
-      "title": "AI 带火温州「冷」生意，液冷管路加速布局",
-      "url": "https://news.66wz.com/system/2026/10/10/105851749.shtml",
-      "source": "温州网",
-      "summary": "AI 算力与液冷爆发带动温企布局液冷不锈钢管路，在安徽安庆投建生产基地，项目总投资 2.8 亿元。"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "ai-infra",
-      "title": "广东加速推进人工智能发展，腾讯加码 AI 算力",
-      "url": "https://news.sina.com.cn/zx/gj/2026-10-11/doc-iniuwcye0504517.shtml",
-      "source": "新浪新闻",
-      "summary": "报道称腾讯二季度资本开支 528 亿元、环比增 65%，主要投向 AI 算力与数据中心等基础设施。"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "ai-infra",
-      "title": "北京物理 AI 基础设施公司厘清智能完成数亿元融资",
-      "url": "https://tech.ifeng.com/c/8x3s62h3ZSl",
-      "source": "凤凰科技",
-      "summary": "北京 Physical AI Infra 平台公司厘清智能完成天使轮及天使+轮数亿元融资，蚂蚁集团连续两轮加码。"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "ai-infra",
-      "title": "AI 数据中心万亿投资内部视角",
-      "url": "https://www.databank.com/resources/news/inside-the-trillions-being-spent-on-the-ai-data-center-buildout/",
-      "source": "DataBank",
-      "summary": "报道从 DataBank CEO 视角审视 AI 数据中心万亿级投资，聚焦电力约束、土地规划与人力短缺。"
     }
   ]
 }
