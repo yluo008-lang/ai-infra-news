@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-10-25T08:38:11+08:00",
+  "updatedAt": "2026-10-26T08:38:14+08:00",
   "items": [
+    {
+      "date": "2026-10-26",
+      "category": "memory-pool",
+      "title": "Marvell新控制器：内存扩展、压缩与池化正成为AI基础设施标配",
+      "url": "https://www.eedesignit.com/53071-2/",
+      "source": "EE Design It",
+      "summary": "报道称Marvell新控制器把内存扩展、压缩与跨主机池化集成进AI基础设施设计，缓解服务器内存容量瓶颈。"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "storage",
+      "title": "SSD合约价一年暴涨303%，AI需求把NAND产能吃干",
+      "url": "https://www.notebookcheck.net/SSD-prices-explode-by-303-in-a-year-as-AI-fuels-NAND-flash-shortage.1433261.0.html",
+      "source": "Notebookcheck",
+      "summary": "256GB TLC SSD合约价由一年前约33美元涨至134美元，企业级SSD四季度预计再涨23%至28%。"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "storage",
+      "title": "佰维存储：AI带动DRAM与NAND涨价，年内完成约2.5亿元回购",
+      "url": "https://feng.ifeng.com/c/8xSfR3ZeSZf",
+      "source": "凤凰网",
+      "summary": "佰维存储称AI算力与数据中心需求推升DRAM、NAND价格，公司拓展AI端侧市场并完成约2.5亿元回购。"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "storage",
+      "title": "机构：四季度NAND合约价季增30%、DRAM涨约20%",
+      "url": "https://m.sohu.com/a/1090515552_120111001",
+      "source": "搜狐",
+      "summary": "据工商时报，研究机构预计四季度NAND价格季增30%、DRAM合约价涨约20%，存储涨势尚未停歇。"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "storage",
+      "title": "长江存储的「兑现时刻」：300亿耐心资本陪跑与周期大考",
+      "url": "https://news.qq.com/rain/a/20261021A0CFJ000",
+      "source": "腾讯新闻",
+      "summary": "报道称NAND仍处上行通道，内存累涨5至10倍、NAND涨3至5倍，长江存储进入产能与资本兑现期。"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "ai-infra",
+      "title": "Dell'Oro看OCP 2026：冷板与800VDC旁挂供电成物理基础设施主线",
+      "url": "https://www.delloro.com/inside-ocp-global-summit-2026-cold-plates-800-vdc-sidecars-and-a-buildout-at-full-steam/",
+      "source": "Dell'Oro Group",
+      "summary": "Dell'Oro称OCP 2026焦点转向冷板液冷与800VDC sidecar供电，数据中心物理基础设施建设全速推进。"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "ai-infra",
+      "title": "芯网动力首秀全球计算大会：从算力经济迈向Token经济",
+      "url": "https://news.mydrivers.com/1/1159/1159778.htm",
+      "source": "快科技",
+      "summary": "芯网动力称AI正从算力经济转向Token经济，竞争重心由硬件规模转向业务质量与响应效率。"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "ai-infra",
+      "title": "海悟液冷平台化方案支持50+MW先进算力落地",
+      "url": "https://www.haiwu.com/news/dynamic/2172.html",
+      "source": "海悟",
+      "summary": "海悟在CGC2026提出液冷平台化方案，以标准化模块支撑50兆瓦以上先进算力园区交付。"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "ai-infra",
+      "title": "3.6亿元智算中心大单：110台高密机柜含44台液冷",
+      "url": "https://www.163.com/dy/article/LA46740A0511D6RL.html",
+      "source": "网易",
+      "summary": "项目规划4个模块化算力机房、110台高密度机柜，其中液冷机柜44台，IT设计负载2376千瓦。"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "ai-infra",
+      "title": "AI规模化落地拐点下，异构算力中间层的生存逻辑",
+      "url": "https://news.qq.com/rain/a/20261021A06TVC00",
+      "source": "腾讯新闻",
+      "summary": "多架构算力并行令异构纳管与跨芯片适配成为刚需，第三方AI Infra中间层厂商价值被重估。"
+    },
     {
       "date": "2026-10-25",
       "category": "memory-pool",
@@ -1520,86 +1600,6 @@
       "url": "https://www.eet-china.com/mp/a496296.html",
       "source": "国际电子商情",
       "summary": "液冷产业链深度报告：渗透率由2024年的15%向2027年超50%加速提升，AI算力驱动增长。"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "ai-infra",
-      "title": "AI Data Centers Face a New Power and Cooling Test in 2027",
-      "url": "https://www.environmentenergyleader.com/stories/ai-data-centers-face-a-new-power-and-cooling-test-in-2027,129179",
-      "source": "Environment Energy Leader",
-      "summary": "2027年AI数据中心将迎电力与散热新考验，新框架助运营商统筹电力、散热与可用性。"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "ai-infra",
-      "title": "蓝思科技：围绕AI算力侧新兴战略赛道实现深度布局",
-      "url": "https://finance.eastmoney.com/a/202610123892662337.html",
-      "source": "东方财富",
-      "summary": "蓝思科技围绕AI算力侧深度布局，切入企业级HDD、空芯光纤与光通信等领域。"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "ai-infra",
-      "title": "润建股份已和华为等伙伴落地多个超算中心项目",
-      "url": "https://www.cls.cn/detail/1489382",
-      "source": "财联社",
-      "summary": "润建股份与华为等伙伴落地多个超算中心项目，采用800GE交换网络实现超大集群组网。"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "ai-infra",
-      "title": "AI transforms data centers into power and cooling plants",
-      "url": "https://www.datacenterknowledge.com/build-design/ai-transforms-data-centers-into-power-and-cooling-plants",
-      "source": "Data Center Knowledge",
-      "summary": "AI把数据中心变成电力与散热工厂，运营商为散热与供电系统留出比服务器更多的空间。"
-    },
-    {
-      "date": "2026-10-14",
-      "category": "memory-pool",
-      "title": "三星与AMD在OCP 2026联合演示基于CMM-D的CXL内存池化",
-      "url": "https://www.trendforce.com/news/2026/10/13/news-samsung-showcases-cxl-memory-expansion-with-amd-at-ocp-2026-expands-ai-memory-push-beyond-hbm/",
-      "source": "TrendForce",
-      "summary": "三星与AMD在OCP 2026联合展示基于CMM-D的CXL内存池化，让多系统共享内存以应对AI推理容量需求。"
-    },
-    {
-      "date": "2026-10-14",
-      "category": "memory-pool",
-      "title": "三星、AMD联手推AI服务器共享内存池，缓解供应短缺",
-      "url": "https://k.sina.com.cn/article_5953190046_162d6789e06703u9mm.html?from=tech",
-      "source": "新浪",
-      "summary": "韩媒称三星与AMD在OCP峰会联合展示CXL技术，使AI服务器共享统一内存池，提升推理容量与性能。"
-    },
-    {
-      "date": "2026-10-14",
-      "category": "memory-pool",
-      "title": "Marvell 升级 Structera X CXL 内存扩展，面向 AI KV 缓存提升容量与速度",
-      "url": "https://www.blocksandfiles.com/ai-ml/2026/10/13/marvell-boosts-cxl-connected-memory-capacity-and-speed-with-ai-in-mind/5302832",
-      "source": "Blocks & Files",
-      "summary": "Marvell升级Structera X CXL内存扩展控制器，聚焦AI KV缓存工作负载，提升外部内存池容量与速度。"
-    },
-    {
-      "date": "2026-10-14",
-      "category": "memory-pool",
-      "title": "三星电子从 HBM 拓展至 CXL 与 SSD，公布 AI 内存与存储战略",
-      "url": "https://www.asiae.co.kr/cn/article/2026101309234883779",
-      "source": "亚洲经济",
-      "summary": "三星在OCP 2026公布从HBM拓展至CXL内存扩展与SSD的AI内存存储战略，并与AMD深化合作。"
-    },
-    {
-      "date": "2026-10-14",
-      "category": "storage",
-      "title": "铠侠为 CM9 企业级 SSD 新增直触液冷（DLC）型号",
-      "url": "https://americas.kioxia.com/en-us/business/news/2026/ssd-20261012-1.html",
-      "source": "KIOXIA",
-      "summary": "铠侠为企业级CM9系列SSD新增直触液冷型号，采用E3.S规格、最高30.72TB，面向高密度AI数据中心。"
-    },
-    {
-      "date": "2026-10-14",
-      "category": "storage",
-      "title": "三星半导体：超 400 层 V-NAND 与 zNAND-O 构筑智能体 AI 底座",
-      "url": "https://k.sina.com.cn/article_5953189932_162d6782c067050m1k.html?from=tech",
-      "source": "新浪科技",
-      "summary": "三星半导体公布超400层V-NAND与zNAND-O布局，从KV Cache重构存储分层，构筑智能体AI底座。"
     }
   ]
 }
