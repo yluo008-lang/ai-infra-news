@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-10-27T08:38:03+08:00",
+  "updatedAt": "2026-10-28T08:39:00+08:00",
   "items": [
+    {
+      "date": "2026-10-28",
+      "category": "memory-pool",
+      "title": "Marvell 与阿里云深化合作：CXL 内存回收扩展与 Pod 级内存池化",
+      "url": "https://www.163.com/dy/article/LA712L3O0518E0HL.html",
+      "source": "网易",
+      "summary": "Marvell 与阿里云在 CXL 内存回收扩展、光子内存设备 PFMA 等方向联合创新，缓解 AI 内存瓶颈。"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "memory-pool",
+      "title": "EE Times：Astera Labs 更新 Leo 控制器，智能体推理首 Token 时延降 62%",
+      "url": "https://www.eetimes.com/astera-labs-leo-controller-update-targets-memory-constraints/",
+      "source": "EE Times",
+      "summary": "Astera Labs 扩展 Leo X 与 Leo 2 系列 CXL 控制器，多轮智能体测试首 Token 时延降 62%、吞吐升 22%。"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "storage",
+      "title": "TrendForce：英伟达 Rubin Ultra 改回 8 层 HBM4，Rubin GPU 带宽下调约 13%",
+      "url": "https://www.trendforce.com/news/2026/10/27/news-nvidias-memory-shake-up-rubin-ultra-rethinks-12-hi-hbm4e-for-8-hi-hbm4-rubin-gpu-bandwidth-cut-13/",
+      "source": "TrendForce",
+      "summary": "英伟达 Rubin Ultra 考虑改用 8 层 HBM4，Rubin GPU 的 HBM4 带宽规格下调约 13%，NVL8 机型降幅达 26%。"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "storage",
+      "title": "应用材料拟将 BESI 持股翻倍至 20%，押注 HBM 混合键合需求",
+      "url": "https://www.trendforce.com/news/2026/10/27/news-applied-materials-to-double-besi-stake-to-20-on-hybrid-bonding-demand-pending-u-s-antitrust-review/",
+      "source": "TrendForce",
+      "summary": "应用材料计划把 BESI 持股提高至 20%，看多 HBM 混合键合设备需求，交易仍待美国反垄断审查。"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "storage",
+      "title": "RBC：存储荒将持续至 2027 年，明年 HBM 价格或涨 80%–100%",
+      "url": "https://www.cls.cn/detail/2516148",
+      "source": "财联社",
+      "summary": "RBC 研报称 DRAM 供应紧张将延续到 2027 年，明年 HBM 价格可能上涨 80% 至 100%，重申看好 SK 海力士。"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "storage",
+      "title": "AI 大单还在涌入吗？市值 2 万亿美元存储四巨头本周集中交卷",
+      "url": "https://hk.finance.yahoo.com/news/ai%E5%A4%A7%E5%96%AE%E9%82%84%E5%9C%A8%E6%B9%A7%E5%85%A5%E5%97%8E-%E5%B8%82%E5%80%BC2%E5%85%86%E7%BE%8E%E5%85%83%E8%A8%98%E6%86%B6%E9%AB%94%E5%9B%9B%E5%B7%A8%E9%A0%AD%E6%9C%AC%E5%91%A8%E4%BA%A4%E5%8D%B7-090003931.html",
+      "source": "Yahoo 財經",
+      "summary": "SK 海力士、三星、铠侠与长鑫本周陆续公布财报，市场关注 AI 需求能否继续支撑存储链盈利。"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "storage",
+      "title": "闪存市场：AI SSD 厂商格局与选型标准全解析",
+      "url": "https://www.dramx.com/News/Memory/20261027-41351.html",
+      "source": "闪存市场",
+      "summary": "闪存市场梳理 AI SSD 的厂商格局与选型标准，指其作为 HBM 扩展层让 GPU 直接存取高速闪存。"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "ai-infra",
+      "title": "Supermicro 推出英伟达 Vera CPU 机柜：单柜 256 颗 CPU，全液冷交付",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpwit5452274.shtml",
+      "source": "新浪财经",
+      "summary": "Supermicro 发布搭载 256 颗英伟达 Vera CPU 的机柜方案，以 DCBBS 液冷架构支撑大规模代理式 AI。"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "ai-infra",
+      "title": "华勤技术：超节点单季收入 61.9 亿元，全年数据业务超 600 亿",
+      "url": "https://m.sohu.com/a/1093434449_135869",
+      "source": "搜狐",
+      "summary": "华勤技术三季度超节点收入 61.9 亿元，数据业务全年将超 600 亿元，超节点成头部 CSP 主流形态。"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "ai-infra",
+      "title": "800VDC 数据中心供电架构市场 2034 年将达 597.6 亿美元",
+      "url": "https://finance.yahoo.com/technology/ai/articles/800-vdc-data-center-power-141400243.html",
+      "source": "Yahoo Finance",
+      "summary": "报告预计 800VDC 供电架构市场 2034 年达 597.6 亿美元，AI 机柜功率已超出传统交流供电能力。"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "ai-infra",
+      "title": "Data Center Knowledge：超大规模 AI 扩张背后的电力难题",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/the-power-challenge-behind-hyperscale-ai-expansion",
+      "source": "Data Center Knowledge",
+      "summary": "报告称今年超大规模 AI 支出将超 7000 亿美元，新增数据中心负载逾 400GW，电力成扩张首要瓶颈。"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "ai-infra",
+      "title": "Flex 扩展预制模块化数据中心，AI 模块集成供电与液冷",
+      "url": "https://refindustry.com/news/flex-expands-modular-data-center-portfolio-with-liquid-cooling-for-ai/",
+      "source": "Refindustry",
+      "summary": "Flex 扩展预制模块化数据中心产品线，新 AI 模块集成供电、高密度计算与液冷，缩短现场部署周期。"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "ai-infra",
+      "title": "「算水协同」如何改变数据中心：冷板液冷已在 30–50kW 机柜规模应用",
+      "url": "https://news.qq.com/rain/a/20261024A05Y0F00",
+      "source": "腾讯新闻",
+      "summary": "报告称冷板液冷已在 30 至 50kW 机柜规模应用，浸没式加速落地，部分新建智算中心 PUE 低于 1.15。"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "ai-infra",
+      "title": "从单卡到超节点，联想等 AI 服务器厂商竞逐「有效算力」",
+      "url": "https://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/snl9a7/stories/WS6ad9d14ce4b09a165c790f94.html",
+      "source": "中国日报",
+      "summary": "联想问天超节点单节点支持 40 张 GPU 并兼容 32 卡配置，服务器厂商竞争转向系统级有效算力。"
+    },
     {
       "date": "2026-10-27",
       "category": "memory-pool",
@@ -1488,118 +1600,6 @@
       "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-12/doc-iniuytnv5224792.shtml",
       "source": "新浪财经",
       "summary": "大摩指市场对AI数据中心800VDC供电部署进度预期过于乐观，但近期延迟担忧同样被夸大。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "ai-infra",
-      "title": "Amperesand以固态变压器平抑AI数据中心电力波动",
-      "url": "https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/",
-      "source": "EE Times",
-      "summary": "Amperesand用SiC固态变压器稳定AI数据中心电网、防止断电，并支持800V直流供电架构。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "ai-infra",
-      "title": "AI电力需求超电网供给能力，相关受益股受关注",
-      "url": "https://www.fool.com/investing/2026/10/15/ai-needs-more-power-than-grid-can-give-stocks/",
-      "source": "The Motley Fool",
-      "summary": "高盛预计数据中心电力需求到2030年增长170%，电力供给成AI基础设施扩张核心约束。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "ai-infra",
-      "title": "光寶科前進OCP 2026，聚焦NVIDIA 800 VDC架構與液冷散熱",
-      "url": "https://hk.finance.yahoo.com/news/%E5%85%89%E5%AF%B6%E7%A7%91%E5%89%8D%E9%80%B22026-ocp-%E8%81%9A%E7%84%A6nvidia-800-vdc%E6%9E%B6%E6%A7%8B-095454835.html",
-      "source": "Yahoo 財經",
-      "summary": "光寶科在OCP 2026展示以800VDC架构为核心的新世代AI工厂方案，支持英伟达Vera Rubin平台。"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "memory-pool",
-      "title": "三星联合AMD亮出CXL内存池化方案，AI服务器「存力」瓶颈走到台前",
-      "url": "https://news.qq.com/rain/a/20261013A08J6500",
-      "source": "腾讯新闻",
-      "summary": "三星联合AMD在OCP展示CXL内存池化方案，多系统共享内存池，破解AI服务器存力瓶颈。"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "memory-pool",
-      "title": "Marvell发布第二代CXL内存扩展控制器，率先支持6通道",
-      "url": "http://finance.eastmoney.com/a/202610133894106423.html",
-      "source": "东方财富",
-      "summary": "Marvell发布第二代Structera X CXL内存扩展控制器，业界首款六通道CXL 3.2，最高支持9TB内存。"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "memory-pool",
-      "title": "三星公布下一代内存存储技术，携手AMD演示CXL内存扩展方案",
-      "url": "https://i.ifeng.com/c/8xByAMPdaa1",
-      "source": "凤凰网科技",
-      "summary": "三星在OCP公布下一代内存与存储技术，携手AMD演示基于CMM-D的CXL内存扩展方案。"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "memory-pool",
-      "title": "Marvell推出第二代CXL内存扩展器，单芯片最高支持9TB DDR4",
-      "url": "https://www.163.com/dy/article/L9444OUV0511B8LM.html",
-      "source": "网易",
-      "summary": "Marvell发布第二代CXL内存扩展控制器，率先支持6通道，3406款单芯片最高9TB DDR4。"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "memory-pool",
-      "title": "三星电子公开AI基础设施战略：HBM5、CXL内存扩展",
-      "url": "https://timeline.sohu.com/news/Jkhv4qTxBG",
-      "source": "搜狐时间线",
-      "summary": "三星在OCP公开AI基础设施三大方向：HBM5等高性能内存、基于CXL的内存扩展与下一代SSD。"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "memory-pool",
-      "title": "The Memory Bottleneck Made Investors Rich For 3 Years, Now CXL Looks Like the Next Play",
-      "url": "https://247wallst.com/investing/2026/10/13/the-memory-bottleneck-made-investors-rich-for-3-years-now-cxl-looks-like-the-next-play/",
-      "source": "247WallSt",
-      "summary": "CXL被视为内存瓶颈后的下一风口，可池化闲置内存、复用约22EB DDR4，微软估可省7%至9% DRAM。"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "memory-pool",
-      "title": "Samsung, AMD showcase CXL memory sharing for AI servers at OCP Summit",
-      "url": "https://www.koreajoongangdaily.com/business/samsung-amd-showcase-cxl-memory-sharing-for-ai-servers-at-ocp-summit/12917085",
-      "source": "Korea JoongAng Daily",
-      "summary": "三星与AMD在OCP峰会展示CXL内存共享技术，让AI服务器共享内存池，提升推理容量与性能。"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "storage",
-      "title": "KIOXIA adds liquid-cooled CM9-DLC SSDs for AI data centers",
-      "url": "https://www.datacentre.solutions/news/24242-kioxia-adds-liquid-cooled-cm9-dlc-ssds-for-ai-data-centers",
-      "source": "Data Centre Solutions",
-      "summary": "铠侠推出CM9-DLC企业级SSD，采用E3.S规格与直接液冷，最高30.72TB，面向高密度AI数据中心。"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "storage",
-      "title": "HBM4报价三倍背后：存储芯片景气周期的市场观察",
-      "url": "https://caifuhao.eastmoney.com/news/20261012170922987328580",
-      "source": "东方财富",
-      "summary": "HBM4报价达HBM3E三倍，标志高端存储从周期定价转向代际定价，供给持续紧张。"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "storage",
-      "title": "研调：长江存储NAND出货量跃居全球第三，下一步布局DRAM",
-      "url": "https://tw.stock.yahoo.com/news/%E7%A0%94%E8%AA%BF-%E9%95%B7%E6%B1%9F%E5%AD%98%E5%84%B2nand%E5%87%BA%E8%B2%A8%E9%87%8F%E8%BA%8D%E5%B1%85%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%89-2026%E6%88%90%E9%95%B7%E9%80%9F%E5%BA%A6%E4%BC%B0%E9%81%94%E7%94%A2%E6%A5%AD6%E5%80%8D-084603958.html",
-      "source": "Yahoo 股市",
-      "summary": "研调指长江存储NAND出货量跃居全球第三，2026年成长速度估达产业6倍，并布局DRAM。"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "storage",
-      "title": "三星电子正在研发三种类型的z-NAND闪存",
-      "url": "https://feng.ifeng.com/c/8xA8HLQzS99",
-      "source": "凤凰网",
-      "summary": "三星拓展下一代NAND产品线zNAND，正研发三种类型，除已发布z-NAND-O外还包括z-NAND-T等。"
     }
   ]
 }
