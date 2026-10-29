@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-10-28T08:39:00+08:00",
+  "updatedAt": "2026-10-29T08:38:03+08:00",
   "items": [
+    {
+      "date": "2026-10-29",
+      "category": "memory-pool",
+      "title": "澜起科技率先试产 CXL 3.2 MXC 内存扩展控制器，已导入三星与 SK 海力士",
+      "url": "https://www.toutiao.com/article/7701504510975279651/",
+      "source": "今日头条",
+      "summary": "澜起率先试产 CXL 3.2 MXC 控制器，速率 64GT/s，已导入三星与 SK 海力士下一代 CXL 产品。"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "memory-pool",
+      "title": "ScaleFlux：AI 真正的约束是「数据墙」而非电力，CXL 池化将复制 HBM 的爆发曲线",
+      "url": "https://app.dealroom.co/news/note/the-data-wall-not-power-is-ai-s-real-constraint-scaleflux-s-cxl-bet",
+      "source": "Dealroom",
+      "summary": "ScaleFlux 称 AI 真正瓶颈是数据墙，跨节点内存池化将在超大规模客户带动下规模落地。"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "storage",
+      "title": "SK 海力士三季度营收首破 100 万亿韩元，判断存储短缺持续至 2030 年",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-28/doc-iniwtxyc9643470.shtml",
+      "source": "新浪财经",
+      "summary": "SK 海力士三季度营收 104.62 万亿韩元同比增 328%，预计供不应求格局延续至 2030 年。"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "storage",
+      "title": "SK 海力士：2029 年前 DRAM 与 HBM 产能全部售罄，已与 14 家主要客户签长约",
+      "url": "https://money.udn.com/money/story/5599/9843342",
+      "source": "经济日报",
+      "summary": "SK 海力士称到 2029 年的 DRAM 与 HBM 产能已售罄，并与 14 家主要客户签订长期合约。"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "storage",
+      "title": "美光宣布跳过 4F² 直接转向 3D DRAM，瞄准物理 AI",
+      "url": "https://www.163.com/dy/article/L9R78OAN0511CPMT.html",
+      "source": "网易",
+      "summary": "美光发布面向物理 AI 的下一代存储路线，跳过 4F² 架构直接推进 3D DRAM。"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "storage",
+      "title": "存储成为 AI 核心基石，产业迎来「历史性拐点」",
+      "url": "https://k.sina.com.cn/article_5952915705_162d248f906703rvzy.html?from=tech",
+      "source": "新浪",
+      "summary": "报道称企业级容量占全部介质出货已达 69%，存储景气周期或延续至 2027 甚至 2028 年。"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "ai-infra",
+      "title": "SiliconANGLE：AI 基础设施硬件已成「系统级」竞争，CXL 内存池化重获生机",
+      "url": "https://siliconangle.com/2026/10/27/ai-infrastructure-hardware-now-systems-game-10-insights-caspa/",
+      "source": "SiliconANGLE",
+      "summary": "CASPA 大会十点洞察指内存墙或五年难解，硬件竞争转向系统级集成，CXL 池化重新受捧。"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "ai-infra",
+      "title": "全球高密算力兴起，液冷厂商同飞股份加速海外突围",
+      "url": "https://finance.sina.com.cn/tjhz/2026-10-28/doc-iniwukpz5992715.shtml",
+      "source": "新浪财经",
+      "summary": "单柜功率密度持续攀升令风冷触顶，同飞股份以液冷温控方案加速拓展海外智算集群市场。"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "ai-infra",
+      "title": "德州仪器布局次世代液冷与边缘 AI 散热，切入 CDU 市场",
+      "url": "https://www.mem.com.tw/%E7%A0%B4%E8%A7%A3ai%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E9%81%8E%E7%86%B1%E5%8D%B1%E6%A9%9F%E3%80%80%E5%BE%B7%E5%B7%9E%E5%84%80%E5%99%A8%E5%B8%83%E5%B1%80%E6%AC%A1%E4%B8%96%E4%BB%A3%E6%B6%B2%E5%86%B7/",
+      "source": "新电子",
+      "summary": "德州仪器以完整冷却液路径方案切入 CDU 与边缘 AI 散热，应对 AI 数据中心过热危机。"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "ai-infra",
+      "title": "暖通三巨头「变频」切入千亿液冷赛道",
+      "url": "https://www.sohu.com/a/1093650080_120988576",
+      "source": "搜狐",
+      "summary": "三大暖通巨头从一次侧冷源切入液冷，把热管理能力平移至算力温控，行业格局生变。"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "ai-infra",
+      "title": "OCP 定义下一代 AI 机柜：2030 年液冷市场约 230 亿美元、800VDC 电源链约 150 亿美元",
+      "url": "https://caifuhao.eastmoney.com/news/20261023175940492225200",
+      "source": "东方财富",
+      "summary": "OCP 新规范明确电源架与柜内 CDU 形态，机构测算 2030 年液冷与 800VDC 电源链价值量。"
+    },
     {
       "date": "2026-10-28",
       "category": "memory-pool",
@@ -1512,94 +1600,6 @@
       "url": "https://www.tomshardware.com/pc-components/dram/elon-musk-accuses-samsung-sk-hynix-of-unreasonable-memory-pricing",
       "source": "Tom's Hardware",
       "summary": "马斯克公开指责三星与SK海力士存储定价过高，凸显AI时代内存涨价对下游的压力。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "ai-infra",
-      "title": "Forbes：数据中心暂停令暴露美国「先建基础设施、后补规则」",
-      "url": "https://www.forbes.com/sites/monicasanders/2026/10/15/data-center-moratoriums-show-america-built-ai-infrastructure-before-it-built-the-rules/",
-      "source": "Forbes",
-      "summary": "报道称美国在监管规则缺位下先建AI基础设施，多地数据中心暂停令凸显治理滞后。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "ai-infra",
-      "title": "Reuters：市场抛售与利率上行考验AI数据中心交易热潮",
-      "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
-      "source": "Reuters",
-      "summary": "市场抛售与利率上行考验AI数据中心交易热潮，亚洲相关并购年内已达213亿美元创新高。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "ai-infra",
-      "title": "FT：投资者抛售数据中心债券，AI基建减值风险受关注",
-      "url": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc",
-      "source": "Financial Times",
-      "summary": "FT报道投资者抛售数据中心债券，Gartner指超4万亿美元AI基建资产到2032年或面临减值。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "ai-infra",
-      "title": "Meta在OCP 2026分享面向AI的开放网络创新",
-      "url": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
-      "source": "Meta Engineering",
-      "summary": "Meta在OCP峰会分享下一代开放网络基础设施，覆盖scale-up、scale-out与scale-across三类互连。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "ai-infra",
-      "title": "微软亮相OCP全球峰会2026，展示全栈AI基础设施",
-      "url": "https://techcommunity.microsoft.com/blog/azureinfrastructureblog/microsoft-at-ocp-global-summit-2026/4562337",
-      "source": "Microsoft",
-      "summary": "微软在OCP峰会展示从芯片、系统到数据中心的全栈基础设施，支撑AI规模扩展。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "ai-infra",
-      "title": "AMD：苏姿丰OCP 2026主题演讲要点",
-      "url": "https://newsroom.amd.com/news/ocp-2026-amd-ceo-lisa-su-keynote-takeaways/",
-      "source": "AMD",
-      "summary": "AMD CEO苏姿丰在OCP主题演讲勾勒以广泛AI产品组合与开放生态构建下一代AI基础设施的蓝图。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "ai-infra",
-      "title": "英伟达在OCP开放Vera Rubin，加速AI工厂规模化",
-      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
-      "source": "NVIDIA",
-      "summary": "英伟达在OCP全球峰会宣布开放Vera Rubin平台，以开放标准加速AI工厂的规模化部署。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "ai-infra",
-      "title": "机房液冷设备技术从「可选项」变「必选项」",
-      "url": "https://www.163.com/dy/article/L99C30KG05384IDX.html",
-      "source": "网易",
-      "summary": "首部液冷国标GB/T 48023-2026正式发布，终结行业无标可依，机房液冷从可选升级为必选。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "ai-infra",
-      "title": "IREN将液冷扩展至全线AI数据中心",
-      "url": "https://finance.yahoo.com/technology/ai/articles/iren-expands-liquid-cooling-across-124800746.html",
-      "source": "Yahoo Finance",
-      "summary": "IREN将液冷扩展至全线AI数据中心以提升单MW算力与收入，2027财年资本开支达250亿至300亿美元。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "ai-infra",
-      "title": "无问芯穹完成23亿元C轮融资，累计43亿刷新国内AI Infra纪录",
-      "url": "https://www.163.com/dy/article/L9A9UP0A0519D5IA.html",
-      "source": "网易",
-      "summary": "清华系AI原生基础设施企业无问芯穹完成23亿元C轮融资，累计43亿元创国内AI Infra融资纪录。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "ai-infra",
-      "title": "大摩：AI数据中心原生800V供电部署延迟引发担忧",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-12/doc-iniuytnv5224792.shtml",
-      "source": "新浪财经",
-      "summary": "大摩指市场对AI数据中心800VDC供电部署进度预期过于乐观，但近期延迟担忧同样被夸大。"
     }
   ]
 }
