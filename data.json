@@ -1,6 +1,142 @@
 {
-  "updatedAt": "2026-10-29T08:38:03+08:00",
+  "updatedAt": "2026-10-30T08:38:21+08:00",
   "items": [
+    {
+      "date": "2026-10-30",
+      "category": "memory-pool",
+      "title": "TechInsights：CXL 内存池化已进入量产，三星与 SK 海力士争的是 KV Cache 而非容量",
+      "url": "https://www.techinsights.com/behind-the-headlines/cxl-memory-pooling-samsung-sk-hynix",
+      "source": "TechInsights",
+      "summary": "CXL 池化已进入量产，三星与 SK 海力士在 OCP 2026 围绕智能体 AI 的 KV Cache 展开竞赛。"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "memory-pool",
+      "title": "机构：CXL 内存市场 2035 年将达 164.6 亿美元，年复合增速 29.2%",
+      "url": "https://www.openpr.com/news/4676789/cxl-memory-market-to-reach-us-16-46-billion-by-2035-as-ai",
+      "source": "OpenPR",
+      "summary": "机构预计全球 CXL 内存市场由 2025 年 12.7 亿美元增至 2035 年 164.6 亿美元，年复合增速 29.2%。"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "memory-pool",
+      "title": "Serial Cables 推出双 EDSFF PCIe 6.0 适配器，面向 CXL 内存负载",
+      "url": "https://www.kitsapsun.com/press-release/story/817505/serial-cables-introduces-high-performance-dual-edsff-pcie-6-0-adapter-for-next-gen-cxl-memory-workloads/",
+      "source": "Kitsap Sun",
+      "summary": "Serial Cables 发布面向 CXL 内存负载的双 EDSFF PCIe 6.0 适配器，以池化架构减少内存超配。"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "storage",
+      "title": "CNBC：SK 海力士三季度营业利润 83.33 万亿韩元超预期，股价大涨",
+      "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "source": "CNBC",
+      "summary": "SK 海力士三季度营业利润 83.33 万亿韩元超预期，同比增 632%，并宣布逾 250 亿美元股东回报。"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "storage",
+      "title": "三星电话会：存储短缺或至 2028 年，AI 需求从 HBM 扩展至 SSD",
+      "url": "https://news.futunn.com/post/1002713445/samsung-conference-call-memory-shortage-may-last-until-2028-ai",
+      "source": "富途牛牛",
+      "summary": "三星称存储短缺或持续至 2028 年，AI 需求正从 HBM 蔓延至 SSD，Agentic AI 开辟新赛道。"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "storage",
+      "title": "三星电子：存储需求将进一步增长，继续扩大 HBM 与 QLC SSD 供货",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-10-29/doc-iniwvwra6155999.shtml",
+      "source": "新浪财经",
+      "summary": "三星表示将继续扩大 HBM、服务器 DRAM 与 SSD 销售，个人 AI 代理带动 QLC 固态硬盘需求攀升。"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "storage",
+      "title": "TrendForce：四季度一般型 DRAM 合约价季增 10%–15%，原厂库存仅剩 2–4 周",
+      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-10-28/doc-iniwuefz9590105.shtml",
+      "source": "新浪财经",
+      "summary": "TrendForce 称四季度一般型 DRAM 合约价季增 10% 至 15%，计入 HBM 后约 15% 至 20%。"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "storage",
+      "title": "DRAM 与 HBM 产能锁定至 2029 年，企业级 SSD 接力 NAND 增长",
+      "url": "http://dram.com.cn/page/views.asp?menuid=34&id=86755",
+      "source": "中国存储网",
+      "summary": "头部厂商高端 DRAM 与 HBM 产能已被长约锁定至 2029 年，企业级 SSD 成为 NAND 新增长极。"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "storage",
+      "title": "三星创纪录季度预示 AI 内存供应再紧一年",
+      "url": "https://mlq.ai/news/samsungs-record-quarter-signals-another-year-of-tight-ai-memory-supply/",
+      "source": "MLQ.ai",
+      "summary": "三星三季度营收 195.3 万亿韩元、营业利润 107.4 万亿，预示 AI 内存供应紧张再延续一年。"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "storage",
+      "title": "HBM 将持续涨价并撬动 DRAM 全局，投片占比 2027 年底触及 30%",
+      "url": "https://m.sohu.com/a/1093948600_120988576",
+      "source": "搜狐",
+      "summary": "TrendForce 指 HBM 投片占 DRAM 总投片比重将由 18% 升至 2027 年底的 30%，涨价扩散至全局。"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "storage",
+      "title": "SK 海力士详解面向 AI 推理的内存分层技术，实测企业级 SSD 表现",
+      "url": "https://www.tokenpost.com/news/technology/42424",
+      "source": "TokenPost",
+      "summary": "SK 海力士以真实 AI 负载验证内存分层方案，检验企业级 SSD 能否满足推理性能需求。"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "ai-infra",
+      "title": "昆仑技术亮相 CGC2026：以 Token Factory 筑牢国产 AI 基础设施",
+      "url": "https://finance.sina.com.cn/roll/2026-10-29/doc-iniwwtuu2802184.shtml",
+      "source": "新浪财经",
+      "summary": "昆仑技术发布 KunLun AI Token Factory 方案，以鲲鹏昇腾算力底座支持风冷液冷双路线。"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "ai-infra",
+      "title": "36 氪：预制数据中心突然火了，曙光万卡超集群与壁仞光互连超节点加速交付",
+      "url": "https://www.36kr.com/p/4046774031078537",
+      "source": "36氪",
+      "summary": "预制模块化数据中心走热，曙光 scaleX 万卡超集群与壁仞 2048 卡光互连超节点加速交付。"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "ai-infra",
+      "title": "Accelsius：两相液冷有望在 2030 年前成为 AI 数据中心主流架构",
+      "url": "https://capacityglobal.com/news/accelsius-why-two-phase-cooling-could-become-the-dominant-ai-data-centre-architecture-by-2030/",
+      "source": "Capacity",
+      "summary": "Accelsius 认为两相液冷将在 2030 年前成为 AI 数据中心主流架构，散热能力优于单相冷板。"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "ai-infra",
+      "title": "波士顿环球报：AI 数据中心建设狂潮背后的天量资金",
+      "url": "https://www.bostonglobe.com/2026/10/26/business/data-centers-cost/",
+      "source": "波士顿环球报",
+      "summary": "报道称超大规模厂商明年资本开支将达 1.2 万亿美元，1GW 数据中心造价约 410 亿美元。"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "ai-infra",
+      "title": "巨头签千亿美元级算力协议，全球 AI 算力投入进入新一轮扩张周期",
+      "url": "https://m.sohu.com/a/1093763386_121157270/",
+      "source": "搜狐",
+      "summary": "巨头签订千亿美元级算力协议，全球 AI 算力投入进入新一轮扩张周期，内存互连需求同步上行。"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "ai-infra",
+      "title": "超节点不只比拼单柜卡数，沐曦曦景 S600 Lite 以 16 卡轻量形态整机交付",
+      "url": "https://news.qq.com/rain/a/20261023A09WXL00",
+      "source": "腾讯新闻",
+      "summary": "业界讨论超节点除单柜卡数外的系统能力，沐曦曦景 S600 Lite 以 16 卡轻量形态整机交付。"
+    },
     {
       "date": "2026-10-29",
       "category": "memory-pool",
@@ -1464,142 +1600,6 @@
       "url": "https://k.sina.com.cn/article_2740157611_a3537cab00101oc94.html",
       "source": "新浪科技",
       "summary": "Marvell在OCP 2026首发102.4T交换芯片与260通道CXL交换机Structera S 30260，支持48TB机架级内存池化。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "memory-pool",
-      "title": "冲破「内存墙」！三星AMD联手引爆CXL，AI存储打开千亿新赛道",
-      "url": "https://news.qq.com/rain/a/20261013A0DMQP00",
-      "source": "腾讯新闻",
-      "summary": "华福证券指CXL处规模化部署初期，2027年进入商用元年，内存池化市场未来三年有望保持三位数增长。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "memory-pool",
-      "title": "Samsung CXL Memory Pooling Demo With AMD at OCP 2026 (CMM-D, Agentic AI)",
-      "url": "https://www.storagereview.com/news/samsung-cxl-memory-pooling-amd-ocp-2026-cmm-d-agentic-ai",
-      "source": "StorageReview",
-      "summary": "三星与AMD演示CXL内存池化，称可将首Token时间降低38%、有效吞吐提升至静态分配的3.3倍。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "memory-pool",
-      "title": "Marvell Structera X 3406/3506：业界首款六通道CXL 3.2内存扩展器",
-      "url": "https://www.storagereview.com/zh-CN/news/marvell-structera-x-3406-3506-six-channel-cxl-3-2-memory-expander",
-      "source": "StorageReview",
-      "summary": "Marvell Structera X 3406/3506新增六通道DDR4/DDR5、四主机共享与250GB/s LZ4压缩，单芯片最高9TB。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "memory-pool",
-      "title": "XCENA在OCP 2026展示面向AI推理的CXL内存创新",
-      "url": "https://www.businesswire.com/news/home/20261015300412/en/XCENA-Showcases-CXL-Memory-Innovations-for-AI-Inference-at-OCP-Global-Summit-2026",
-      "source": "Business Wire",
-      "summary": "XCENA在OCP展示多台AI推理服务器通过CXL内存池共享KV缓存，缓解单机内存容量瓶颈。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "memory-pool",
-      "title": "三星公布HBM5与CXL内存扩展技术战略",
-      "url": "https://www.163.com/dy/article/L946LGDV05527PMU.html",
-      "source": "网易",
-      "summary": "三星在OCP 2026公布速度、内存扩展、数据持久化三大方向，涵盖HBM5、CXL内存扩展与新SSD。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "memory-pool",
-      "title": "Marvell详解第二代Structera X：面向AI推理的CXL内存扩展",
-      "url": "https://www.marvell.com/blogs/scaling-ai-inferencing-with-the-second-generation-of-marvell-structera-x.html",
-      "source": "Marvell",
-      "summary": "Marvell官博解读第二代Structera X：业界首款六通道CXL 3.2内存扩展器，面向AI推理最高支持9TB。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "storage",
-      "title": "TrendForce：AI芯片内存路线分化，微软Maia 300推升HBM4需求",
-      "url": "https://www.trendforce.com/news/2026/10/13/news-ai-chip-memory-strategies-diverge-microsofts-maia-300-fuels-hbm4-demand-as-intel-bets-on-lower-cost-lpddr5x/",
-      "source": "TrendForce",
-      "summary": "AI芯片内存路线分化：微软Maia 300采用8堆HBM4推升需求，英特尔则押注低成本LPDDR5X。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "storage",
-      "title": "TrendForce：英伟达NVHBM重塑基础裸片格局，美光三星转向外部代工",
-      "url": "https://www.trendforce.com/news/2026/10/09/news-nvidias-nvhbm-reshapes-memory-makers-base-die-strategies-as-micron-samsung-turn-to-external-foundries/",
-      "source": "TrendForce",
-      "summary": "英伟达NVHBM较标准HBM4E带宽高30%、功耗低15%，重塑基础裸片格局，美光与三星转向外部代工。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "storage",
-      "title": "英伟达Rubin预计沿用12层HBM4，2027年HBM价格或涨121%",
-      "url": "https://wccftech.com/nvidia-rubin-gpus-expected-to-stick-with-12-hi-hbm4-despite-reports-of-an-8-hi-shift-as-hbm-prices-could-surge-121-in-2027/",
-      "source": "Wccftech",
-      "summary": "英伟达Rubin预计仍用12层HBM4、288GB容量与22TB/s带宽，尽管2027年HBM价格或上涨121%。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "storage",
-      "title": "SP Industrial推出六款面向AI与数据中心的新企业级SSD方案",
-      "url": "https://www.techpowerup.com/353758/sp-industrial-introduces-six-new-enterprise-ssd-solutions",
-      "source": "TechPowerUp",
-      "summary": "SP Industrial推出六款新企业级SSD方案，覆盖AI、数据中心存储与启动盘等应用。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "storage",
-      "title": "Counterpoint：2026年二季度长江存储NAND出货量升至全球第三",
-      "url": "https://wap.eastmoney.com/a/202610153896650797.html",
-      "source": "东方财富",
-      "summary": "Counterpoint指2026年二季度长江存储NAND出货量升至全球第三，仅次于三星与SK海力士。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "storage",
-      "title": "长江存储今年营收增速或为同行6倍",
-      "url": "https://news.qq.com/rain/a/20261015A0BGPW00",
-      "source": "腾讯新闻",
-      "summary": "长江存储成NAND营收份额增长最快厂商，营收同比增速一度达478%，约为行业整体6倍。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "storage",
-      "title": "高盛：HBF高带宽闪存有望破解AI内存墙，潜在市场规模最高1500亿美元",
-      "url": "https://www.moomoo.com/hans/news/post/1001022445",
-      "source": "moomoo",
-      "summary": "高盛指高带宽闪存HBF有望破解AI内存墙，潜在市场规模400亿至1500亿美元，看好闪迪与SK海力士。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "storage",
-      "title": "SK海力士：内存间数据传输成新瓶颈，将以3D DRAM和HBF应对",
-      "url": "https://www.asiae.co.kr/cn/article/2026101413163270120",
-      "source": "亚洲经济",
-      "summary": "SK海力士指内存间数据传输成新瓶颈，将以3D DRAM与HBF应对，HBF带宽目标达HBM的一半。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "storage",
-      "title": "Samsung Chases Faster HBM4, SK Hynix Goes Taller",
-      "url": "https://www.techtimes.com/articles/329022/20261014/samsung-chases-faster-hbm4-sk-hynix-goes-taller-koreas-ai-memory-war-begins.htm",
-      "source": "Tech Times",
-      "summary": "三星追求更快的HBM4、SK海力士转向更高堆叠，16层堆叠达48GB，韩国AI内存战升级。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "storage",
-      "title": "三星与SK海力士在OCP并排展出第七代HBM4E",
-      "url": "https://biz.chosun.com/en/en-it/2026/10/15/KRCORZYPAZGLXCTWATTWDF7WCM/",
-      "source": "Chosun Biz",
-      "summary": "三星与SK海力士在OCP峰会并排展出第七代HBM4E，拉开下一代高带宽内存竞赛序幕。"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "storage",
-      "title": "马斯克指责三星与SK海力士存储定价「不合理」",
-      "url": "https://www.tomshardware.com/pc-components/dram/elon-musk-accuses-samsung-sk-hynix-of-unreasonable-memory-pricing",
-      "source": "Tom's Hardware",
-      "summary": "马斯克公开指责三星与SK海力士存储定价过高，凸显AI时代内存涨价对下游的压力。"
     }
   ]
 }
