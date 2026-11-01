@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-10-31T08:38:26+08:00",
+  "updatedAt": "2026-11-01T08:37:50+08:00",
   "items": [
+    {
+      "date": "2026-11-01",
+      "category": "memory-pool",
+      "title": "2TB CXL 内存模块亮相，Meta 已在数百万台服务器用 CXL 扩展并复用退役 DDR4",
+      "url": "https://timeline.sohu.com/news/zt1yrvpax7?from=news",
+      "source": "搜狐",
+      "summary": "2TB CXL 内存模块亮相，Meta 已在数百万台服务器以 CXL 扩展内存、复用退役 DDR4 模块降本。"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "memory-pool",
+      "title": "三星与 AMD 在 OCP 2026 联合演示 CXL 内存池化，用 CMM-D 模组跨节点共享内存",
+      "url": "https://www.163.com/dy/article/LAJLERG405383ZUN.html",
+      "source": "网易",
+      "summary": "三星与 AMD 在 OCP 2026 联合演示 CXL 内存池化，以 CMM-D 模组让内存跨计算节点灵活扩展共享。"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "storage",
+      "title": "Bernstein：HBF 以 8–16 倍 HBM 容量切入推理层级，与 HBM 互补而非替代",
+      "url": "https://caifuhao.eastmoney.com/news/20261029121833746520900",
+      "source": "东方财富",
+      "summary": "HBF 以 8 至 16 倍 HBM 容量切入推理存储层级，Bernstein 认为其与 HBM 互补，并打开 NAND 新增需求。"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "storage",
+      "title": "闪迪财报超预期却隔夜暴跌：NAND 现货与合约价走势背离引发周期分歧",
+      "url": "https://www.163.com/dy/article/LAJ173A805198NMR.html",
+      "source": "网易",
+      "summary": "闪迪财报超预期仍隔夜大跌，NAND 现货价先行回落、合约价滞后调整，市场对存储周期见顶分歧加大。"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "storage",
+      "title": "渠道 SSD 报价下调、合约市场仍坚挺，存储行情出现分化",
+      "url": "https://finance.eastmoney.com/a/202610313917523682.html",
+      "source": "东方财富",
+      "summary": "渠道 SSD 报价松动，但 NAND 合约价预计环比仍涨 10% 至 15%，AI 推理与数据中心需求继续托底。"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "ai-infra",
+      "title": "集微咨询《2026 年液冷行业研究报告》：中国液冷数据中心 2028 年将破 470 亿元",
+      "url": "https://www.163.com/dy/article/LA3F3BVI0511RIVP.html",
+      "source": "网易",
+      "summary": "集微咨询称中国液冷数据中心规模 2026 年达 232.5 亿元、2028 年破 470 亿元，国产供应链随华为链放量。"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "ai-infra",
+      "title": "广正达液冷发布全系产品：UQD 快接头、冷板、Manifold、CDU 到液冷机柜",
+      "url": "https://m.sohu.com/a/1095121957_100053070",
+      "source": "搜狐",
+      "summary": "广正达液冷发布 UQD 快接头、液冷板、Manifold、CDU 与液冷机柜全栈方案，全面切入 AI 算力散热。"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "ai-infra",
+      "title": "万国数据等一批智算项目在和林格尔密集开工，呼和浩特算力达 16.5 万 P",
+      "url": "https://www.163.com/dy/article/LA5LT1PV05346936.html",
+      "source": "网易",
+      "summary": "和林格尔新区多个头部智算项目开工，万国数据园区投资 51 亿元、规划 3.7 万 P，当地智算占比超 97%。"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "ai-infra",
+      "title": "三个月 12 家 Token 中心扎堆长三角：算力租赁近满租，重复建设争议再起",
+      "url": "https://news.qq.com/rain/a/20261028A03O5200",
+      "source": "腾讯新闻",
+      "summary": "长三角三月内落地 12 家 Token 中心，部分算力中心出租率近 99%，业内争论是否已现重复建设。"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "ai-infra",
+      "title": "黄仁勋：十年 AI 性能提升约 100 万倍，下一步是个人智能体与 AI 工厂",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwvwra6120946.shtml",
+      "source": "新浪财经",
+      "summary": "黄仁勋称十年间 AI 性能提升约百万倍、远超摩尔定律，源于系统级协同，并押注个人智能体与 AI 工厂。"
+    },
     {
       "date": "2026-10-31",
       "category": "memory-pool",
@@ -1520,86 +1600,6 @@
       "url": "https://china.hani.co.kr/arti/economy/17516.html",
       "source": "韩民族日报",
       "summary": "长鑫存储开发4F²服务器DDR5，消息引发三星、SK海力士股价大跌，市场担忧供给格局生变。"
-    },
-    {
-      "date": "2026-10-18",
-      "category": "ai-infra",
-      "title": "英伟达Vera Rubin平台生态伙伴曝光，富士康、美的等入围",
-      "url": "https://finance.eastmoney.com/a/202610153897163684.html",
-      "source": "东方财富",
-      "summary": "英伟达MGX AI Factory生态名单曝光，涉及台积电、富士康、美的、阳光电源等供应链企业。"
-    },
-    {
-      "date": "2026-10-18",
-      "category": "ai-infra",
-      "title": "光寶科进军Vera Rubin NVL72，推出110kW电源与800VDC液冷机柜",
-      "url": "https://technews.tw/ai-agent/lite-on-technology-ocp-800-vdc-power-2-6mw-liquid-cooling-system/41874/",
-      "source": "TechNews",
-      "summary": "光宝携手云达推出110kW机架式电源与800VDC液冷电源柜，切入英伟达Vera Rubin平台。"
-    },
-    {
-      "date": "2026-10-18",
-      "category": "ai-infra",
-      "title": "上海提高数据中心能效准入门槛，液冷渗透率有望加速提升",
-      "url": "https://finance.eastmoney.com/a/202610143894734060.html",
-      "source": "东方财富",
-      "summary": "上海提升数据中心项目能效准入门槛，TrendForce预计液冷在AI数据中心渗透率2026年达40%。"
-    },
-    {
-      "date": "2026-10-18",
-      "category": "ai-infra",
-      "title": "上海AI企业北上乌兰察布，绿色智算中心加速扩容",
-      "url": "https://k.sina.com.cn/article_1737737970_6793c6f202001uvk0.html",
-      "source": "新浪",
-      "summary": "乌兰察布智算中心以源网荷储一体化与全浸没液冷将PUE降至1.1以下，算力密度提升50%。"
-    },
-    {
-      "date": "2026-10-18",
-      "category": "ai-infra",
-      "title": "台达推出面向英伟达Vera Rubin的AI模块化数据中心",
-      "url": "https://itbrief.asia/story/delta-unveils-ai-modular-data-centre-for-nvidia-vera-rubin",
-      "source": "IT Brief Asia",
-      "summary": "台达AI模块化数据中心整合800VDC列间供电与液冷，支持Vera Rubin平台快速部署。"
-    },
-    {
-      "date": "2026-10-17",
-      "category": "memory-pool",
-      "title": "SK海力士在OCP峰会展示下一代AI内存，CMM-DDR5带宽翻倍",
-      "url": "https://www.163.com/dy/article/L9CDBNCE051191D6.html",
-      "source": "网易",
-      "summary": "SK海力士在OCP展示第二代CMM-DDR5，256GB容量、支持CXL 3.2，带宽较上代翻倍且能效提升。"
-    },
-    {
-      "date": "2026-10-17",
-      "category": "memory-pool",
-      "title": "三星在加内存，华为在造超级电脑：内存池化和超节点差在哪？",
-      "url": "https://caifuhao.eastmoney.com/news/20261014183834138082230",
-      "source": "东方财富",
-      "summary": "报道对比三星CXL内存池化与华为超节点两条路线，解析二者在扩展内存与系统互联上的差异。"
-    },
-    {
-      "date": "2026-10-17",
-      "category": "memory-pool",
-      "title": "XCENA MX1 CXL计算内存可在推理服务器间共享KV缓存",
-      "url": "https://www.storagereview.com/zh-CN/news/xcena-mx1-cxl-computational-memory-kv-cache-sk-hynix-ocp-2026",
-      "source": "StorageReview",
-      "summary": "XCENA展示MX1 CXL计算内存，与SK海力士合作让多台推理服务器共享KV缓存以扩展内存容量。"
-    },
-    {
-      "date": "2026-10-17",
-      "category": "storage",
-      "title": "机构：2026年二季度长江存储NAND出货量跃居全球第三",
-      "url": "https://news.qq.com/rain/a/20261015A06BNR00",
-      "source": "腾讯新闻",
-      "summary": "Counterpoint指2026年二季度长江存储NAND出货量升至全球第三，仅次于三星与SK海力士，并布局DRAM。"
-    },
-    {
-      "date": "2026-10-17",
-      "category": "storage",
-      "title": "今日深读：三星HBM4接近三倍报价与存储定价权扩散",
-      "url": "https://news.qq.com/rain/a/20261011A09ZTI00",
-      "source": "腾讯新闻",
-      "summary": "报道指三星HBM4报价接近三倍，存储涨价由HBM扩散至DRAM、NAND与企业级SSD全品类。"
     }
   ]
 }
