@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-11-01T08:37:50+08:00",
+  "updatedAt": "2026-11-02T08:39:33+08:00",
   "items": [
+    {
+      "date": "2026-11-02",
+      "category": "memory-pool",
+      "title": "OCP 2026 定调存储分层：HBM 守带宽、HBF 补容量、CXL 做池化、SSD 当底座",
+      "url": "https://news.qq.com/rain/a/20261031A0CRKG00",
+      "source": "腾讯新闻",
+      "summary": "OCP 2026 显示存储竞争转向分层系统，SK 海力士 MARS 机架级 CXL 内存池让首 Token 延迟降 3.5 至 5.2 倍。"
+    },
+    {
+      "date": "2026-11-02",
+      "category": "memory-pool",
+      "title": "一文读懂 PCIe 与 CXL：从 GPU 互连到跨机内存池化",
+      "url": "https://caifuhao.eastmoney.com/news/20261029191209753730490",
+      "source": "东方财富",
+      "summary": "CXL 让多台机器共享同一内存池实现存算解耦，澜起 CXL 3.2 控制器已试产并导入三星、SK 海力士下一代产品。"
+    },
+    {
+      "date": "2026-11-02",
+      "category": "memory-pool",
+      "title": "SK 海力士净利同比增 216%，正开发 SALT-KV 软件与 CXL 混合内存 CMM-Hybrid",
+      "url": "https://www.163.com/dy/article/LABM4R1505318XR6.html",
+      "source": "网易",
+      "summary": "SK 海力士三季度净利同比增 216%、内存订单排到 2029 年，并在研发 SALT-KV 软件与 CXL 混合内存 CMM-Hybrid。"
+    },
+    {
+      "date": "2026-11-02",
+      "category": "storage",
+      "title": "机构：服务器存储规模 2029 年将达 2503 亿元，占比升至 25.4%",
+      "url": "https://k.sina.com.cn/article_5953740931_162dee083067043heu.html",
+      "source": "新浪",
+      "summary": "机构预计服务器存储规模由 2025 年 810 亿元增至 2029 年 2503 亿元，云端训练推理拉动 HBM、DDR5 与企业级 SSD。"
+    },
+    {
+      "date": "2026-11-02",
+      "category": "storage",
+      "title": "HBM 景气外溢：香农芯创前三季营收破千亿，企业级 SSD 成涨价主力",
+      "url": "https://m.caizhongshe.cn/news-1665789673573027776.html",
+      "source": "中财社",
+      "summary": "北美云厂商扩大采购，AI 需求从 HBM 扩散至服务器内存与企业级 SSD，香农芯创前三季营收突破千亿元。"
+    },
+    {
+      "date": "2026-11-02",
+      "category": "storage",
+      "title": "铠侠、闪迪业绩爆发，存储芯片公司集体「赚翻」",
+      "url": "https://news.qq.com/rain/a/20261031A068NP00",
+      "source": "腾讯新闻",
+      "summary": "铠侠与闪迪业绩爆发，DRAM、NAND 价格维持高位，服务器需求扩大推动存储行业盈利显著增长。"
+    },
+    {
+      "date": "2026-11-02",
+      "category": "storage",
+      "title": "存储产业进入利润兑现期：AI 需求托底，消费端承压引发分化",
+      "url": "https://www.163.com/dy/article/LADC70K90519A6FP.html",
+      "source": "网易",
+      "summary": "三季度 DRAM 合约价环比涨 13% 至 18%、NAND 涨 10% 至 15%，AI 需求托底但消费端承压，行业分化加剧。"
+    },
+    {
+      "date": "2026-11-02",
+      "category": "storage",
+      "title": "机构：四季度 NAND 售价环比仍涨 15%–20%，DRAM 涨 10%–15%",
+      "url": "https://caifuhao.eastmoney.com/news/20261026092207909468900",
+      "source": "东方财富",
+      "summary": "测算显示四季度 NAND 均价环比涨 15% 至 20%、DRAM 涨 10% 至 15%，NAND 涨幅处于近 15 年第 90 至 95 百分位。"
+    },
+    {
+      "date": "2026-11-02",
+      "category": "ai-infra",
+      "title": "经济参考报：呼和浩特万卡智算集群达 2 万卡，冷板液冷把 PUE 压到 1.15",
+      "url": "http://jjckb.xinhuanet.com/20261030/1fa21e8453a444b8aec8450a4f346598/c.html",
+      "source": "经济参考报",
+      "summary": "中国移动呼和浩特节点部署约 2 万张 AI 加速卡，线性加速比超 90%，冷板液冷使 PUE 低至 1.15。"
+    },
+    {
+      "date": "2026-11-02",
+      "category": "ai-infra",
+      "title": "液冷从「可选项」变「必选项」：神州数码预中标中国移动 116.66 亿元超节点集采",
+      "url": "https://caifuhao.eastmoney.com/news/20261030141820943507160",
+      "source": "东方财富",
+      "summary": "昇腾 950DT 千卡液冷超节点落地武汉，神州数码预中标中国移动 116.66 亿元超节点集采，液冷成 AIDC 刚需。"
+    },
+    {
+      "date": "2026-11-02",
+      "category": "ai-infra",
+      "title": "上海证券：高功耗算力时代，液冷重构智算绿色底座",
+      "url": "https://hk.investing.com/news/stock-market-news/article-1725367",
+      "source": "英为财情",
+      "summary": "中国移动呼和浩特部署 2390 台液冷服务器、PUE 低至 1.15，中国电信韶关 30 个国产超节点 90 天完成上线。"
+    },
+    {
+      "date": "2026-11-02",
+      "category": "ai-infra",
+      "title": "华硕推出液冷英伟达 HGX Rubin NVL8 服务器，四季度上市",
+      "url": "https://refindustry.com/news/asus-introduces-liquid-cooled-nvidia-hgx-rubin-servers-for-ai-data-centers/",
+      "source": "Refindustry",
+      "summary": "华硕发布混合与全液冷两款 HGX Rubin NVL8 服务器，支持 800VDC 供电与整机柜交付，四季度上市。"
+    },
+    {
+      "date": "2026-11-02",
+      "category": "ai-infra",
+      "title": "800VDC 正在重塑 AI 数据中心供电：机柜功率迈向兆瓦级",
+      "url": "https://www.environmentenergyleader.com/articles/45331-why-800v-dc-is-reshaping-ai-data-center-power",
+      "source": "Environment Energy Leader",
+      "summary": "AI 机柜功率向兆瓦级攀升，800VDC 高压直流成为必选项，可显著降低电流与多级变换损耗。"
+    },
     {
       "date": "2026-11-01",
       "category": "memory-pool",
@@ -1496,110 +1600,6 @@
       "url": "https://www.donews.com/news/detail/1/6405627.html",
       "source": "DoNews",
       "summary": "报道称三大厂新增产能八成至九成转向HBM，消费级DRAM与NAND供给被挤压、价格传导至终端。"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "ai-infra",
-      "title": "大湾区首个量超智融合算力中心落地，算力竞争重心转移",
-      "url": "https://www.doit.com.cn/ai/859842224312389.html",
-      "source": "DOIT",
-      "summary": "大湾区首个量超智融合算力中心建成，标志算力竞争从单纯堆卡转向超算、智算协同调度。"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "ai-infra",
-      "title": "从「薯都」到「token之都」，中国草原跑出算力黑马",
-      "url": "https://www.nmg.chinanews.com.cn/news/20261018/56379.html",
-      "source": "中国新闻网",
-      "summary": "乌兰察布借绿电与气候优势转型算力重镇，形成从马铃薯之都到Token工厂的产业跃迁。"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "ai-infra",
-      "title": "CINNO：三季度中国智算中心项目62个，拟建投资额达5217亿元",
-      "url": "https://news.qq.com/rain/a/20261014A0BRB800",
-      "source": "腾讯新闻",
-      "summary": "CINNO统计三季度智算中心项目62个，拟建/筹备投资5217亿元占71.6%，交付投产约993.6亿元。"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "ai-infra",
-      "title": "「鹏城云脑Ⅲ」10000P国产算力上线试运行",
-      "url": "https://feng.ifeng.com/c/8xIR4e8wlcT",
-      "source": "凤凰网",
-      "summary": "鹏城云脑Ⅲ采用首创国产智算超节点架构，10000P算力上线试运行，突破数据传输瓶颈。"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "ai-infra",
-      "title": "人民日报：乌兰察布签约算力项目109个，投运算力19万P",
-      "url": "http://paper.people.com.cn/rmrb/pc/content/202610/18/content_30186274.html",
-      "source": "人民日报",
-      "summary": "人民日报称乌兰察布签约算力项目109个、标准机架超700万架，投运算力达19万PFLOPS。"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "ai-infra",
-      "title": "英伟达详解面向AI工厂的开放电力、散热与网络设计",
-      "url": "https://www.hpcwire.com/off-the-wire/nvidia-details-open-designs-for-ai-power-cooling-and-networking/",
-      "source": "HPCwire",
-      "summary": "英伟达发布开放电力、液冷与网络参考设计，支撑AI工厂从兆瓦级迈向吉瓦级规模。"
-    },
-    {
-      "date": "2026-10-18",
-      "category": "memory-pool",
-      "title": "SK海力士在OCP 2026展示下一代AI内存与CXL内存池化",
-      "url": "https://news.skhynix.com/en/ocp-global-summit-2026/",
-      "source": "SK hynix",
-      "summary": "SK海力士展出第二代CMM-DDR5、MARS机架与HBM4，多服务器共享内存池提升利用率。"
-    },
-    {
-      "date": "2026-10-18",
-      "category": "memory-pool",
-      "title": "SK海力士在OCP峰会展示CMM-DDR5、MARS与CMM-Ax三款AI内存",
-      "url": "https://cn.yna.co.kr/view/ACK20261016001900881",
-      "source": "韩联社",
-      "summary": "韩联社称SK海力士展出支持内存池化的CMM-DDR5及MARS、CMM-Ax，实现跨服务器共享内存。"
-    },
-    {
-      "date": "2026-10-18",
-      "category": "memory-pool",
-      "title": "BusinessKorea：SK海力士以CXL共享内存池缓解AI内存瓶颈",
-      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278967",
-      "source": "BusinessKorea",
-      "summary": "报道指SK海力士CMM-DDR5让多台服务器按需共享内存池，灵活分配有限内存资源。"
-    },
-    {
-      "date": "2026-10-18",
-      "category": "storage",
-      "title": "大摩：HBM与SSD合约价飙升，2027年HBM均价涨121%",
-      "url": "https://finance.technews.tw/2026/10/17/morgan-stanley-memory-and-ai-supply-chain-outlook/",
-      "source": "TechNews",
-      "summary": "大摩指四季度DRAM、NAND合约价分别涨10%-15%、15%-20%，企业级SSD涨23%-28%。"
-    },
-    {
-      "date": "2026-10-18",
-      "category": "storage",
-      "title": "机构：HBM明年一季度合约价预计涨80%–100%",
-      "url": "https://www.163.com/dy/article/L9CH7VTH05198NMR.html",
-      "source": "网易",
-      "summary": "机构预计四季度DRAM环比涨15%-20%、NAND约20%，HBM在2027年一季度涨80%-100%。"
-    },
-    {
-      "date": "2026-10-18",
-      "category": "storage",
-      "title": "长鑫存储年底推出4F² DDR5 RDIMM，进度或超前三星两年",
-      "url": "https://technews.tw/2026/10/11/cxmt-dram-memory-4f%C2%B2-ddr5/",
-      "source": "TechNews",
-      "summary": "长鑫存储预告年底推出结合4F²架构与混合键合的新一代DDR5服务器内存，领先三星约两年。"
-    },
-    {
-      "date": "2026-10-18",
-      "category": "storage",
-      "title": "长鑫存储公布4F² DRAM架构，韩系存储股应声大跌",
-      "url": "https://china.hani.co.kr/arti/economy/17516.html",
-      "source": "韩民族日报",
-      "summary": "长鑫存储开发4F²服务器DDR5，消息引发三星、SK海力士股价大跌，市场担忧供给格局生变。"
     }
   ]
 }
