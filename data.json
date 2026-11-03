@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-11-02T08:39:33+08:00",
+  "updatedAt": "2026-11-03T08:39:10+08:00",
   "items": [
+    {
+      "date": "2026-11-03",
+      "category": "memory-pool",
+      "title": "EE Times：Marvell 发布内存解耦组合，从 SSD 主控到机架级 CXL 池化",
+      "url": "https://www.eetimes.com/marvell-targets-ai-bottlenecks-with-memory-disaggregation-portfolio/",
+      "source": "EE Times",
+      "summary": "Marvell 推出 Bravera SC6 主控、Structera CXL 与光子互连三层方案，Meta 已用 CXL 扩展复用 DDR4。"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "memory-pool",
+      "title": "澜起科技获 324 家机构调研：四季度互连芯片在手订单 25–27.9 亿元",
+      "url": "https://www.sohu.com/a/1096269151_114984",
+      "source": "搜狐",
+      "summary": "澜起称 AI 推理与 Agent 推高服务器 CPU 及内存互连需求，四季度互连芯片在手订单达 25 至 27.9 亿元。"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "memory-pool",
+      "title": "本土 HBM 溢价与分级内存策略：CXL 把低成本 LPDDR 拉进内存池",
+      "url": "https://www.eefocus.com/article/2110486.html",
+      "source": "与非网",
+      "summary": "分析称国产 HBM 存在溢价，Marvell 等以 CXL 将低成本 LPDDR 接入内存池，构建分级内存以降低成本。"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "storage",
+      "title": "EE Times：铠侠量产 332 层 NAND，接口速率 4.8Gb/s 反超三大原厂",
+      "url": "https://www.eetimes.com/kioxia-all-set-to-raise-the-nand-game-in-ai-ssds/",
+      "source": "EE Times",
+      "summary": "铠侠推出 332 层 NAND、接口速率 4.8Gb/s，在 AI SSD 的堆叠层数与接口速度上反超三星、美光与 SK 海力士。"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "storage",
+      "title": "Blocks & Files：三星存储「几乎印钞」，单季营收逼近 200 万亿韩元",
+      "url": "https://www.blocksandfiles.com/flash/2026/10/30/samsung-memory-virtually-printing-money/5306688",
+      "source": "Blocks & Files",
+      "summary": "HBM、DRAM 与 NAND 需求齐涨，三星三季度营收逼近 200 万亿韩元，存储业务利润率大幅抬升。"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "storage",
+      "title": "三星 HBM 份额从 20% 追至 33%，2 纳米代工订单目标同比翻倍",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwywts5471248.shtml",
+      "source": "新浪财经",
+      "summary": "三星 HBM4 量产后份额由一季度约 20% 升至二季度 33%，并计划把 2 纳米代工订单做到同比翻倍。"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "storage",
+      "title": "迎超级周期：AI 重构存储万亿赛道，国产厂商多强并立",
+      "url": "https://www.163.com/dy/article/LAND8F8M0511CSHM.html",
+      "source": "网易",
+      "summary": "AI 拉动 HBM 与企业级 SSD，存储从算力附属升级为独立基础设施，国产厂商形成多强并立格局。"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "storage",
+      "title": "三星警告：AI 存储短缺 2027 年可能进一步加剧",
+      "url": "https://em360tech.com/tech-articles/samsung-ai-chip-shortages-2027",
+      "source": "EM360Tech",
+      "summary": "三星称即便半导体利润创纪录，AI 内存供不应求在 2027 年仍可能恶化，并继续加码资本开支。"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "ai-infra",
+      "title": "从 OCP 2026 看 AI 基础设施脉络：Scale-Across 网络、800VDC 与液冷一体化",
+      "url": "https://www.163.com/dy/article/LANJ2CSH0511CPMT.html",
+      "source": "网易",
+      "summary": "OCP 2026 显示集群网络走向 Scale-Across、800VDC 成供电共识，1MW 机架必须与液冷一体设计。"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "ai-infra",
+      "title": "液冷一日多消息：北京存量机房 PUE 压至 1.35，维谛订单翻倍、LG 冷却订单破 3 万亿韩元",
+      "url": "https://caifuhao.eastmoney.com/news/20261029152108238450170",
+      "source": "东方财富",
+      "summary": "北京要求存量数据中心 PUE 降至 1.35 以下，维谛订单翻倍、LG 冷却累计订单超 3 万亿韩元。"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "ai-infra",
+      "title": "50 万片金刚石热沉片订单引爆散热，AI 芯片级材料加速落地",
+      "url": "https://news.qq.com/rain/a/20261029A0E4C800",
+      "source": "腾讯新闻",
+      "summary": "AI 芯片级金刚石热沉片启动 50 万片招标，金刚石铜复合材料已在超算节点使模组传热能力提升 80%。"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "ai-infra",
+      "title": "海尔数据中心 Q3 销售额翻近 5 倍，暖通巨头抢食液冷",
+      "url": "https://www.163.com/dy/article/LANQ2H3A055619ZC.html",
+      "source": "网易",
+      "summary": "海尔数据中心三季度销售额同比增长近 5 倍，暖通厂商借磁悬浮冷源与 CDU 切入液冷市场。"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "ai-infra",
+      "title": "神州数码三季报双增，KunTai PoD 2000 A5 液冷超节点支持 1024 卡与 256TB 统一内存",
+      "url": "https://m.sohu.com/a/1093541688_115433",
+      "source": "搜狐",
+      "summary": "神州数码营收净利双增，KunTai PoD 2000 A5 液冷超节点支持 1024 卡集群与 256TB 统一内存编址。"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "ai-infra",
+      "title": "东元联手鸿海展出 40 呎货柜 MDC，基于英伟达 DSX POD 一站交付",
+      "url": "https://udn.com/news/story/7240/9847795",
+      "source": "联合报",
+      "summary": "东元与鸿海在科技日展出基于 NVIDIA DSX POD 的 40 呎货柜模块化数据中心，整合算力、冷却与电力。"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "ai-infra",
+      "title": "微软 Azure 营收飙 48%，全年 1700 亿美元扩产押注 800VDC 与液冷",
+      "url": "https://today.line.me/tw/v3/article/3N17xEW",
+      "source": "LINE TODAY",
+      "summary": "微软 Azure 营收同比增长 48%，全年资本开支达 1700 亿美元，以自研芯片、800VDC 与液冷压低单位算力成本。"
+    },
     {
       "date": "2026-11-02",
       "category": "memory-pool",
@@ -1480,126 +1600,6 @@
       "url": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-place-custom-tiny-cpu-cores-in-its-ssd-controllers-to-ease-arm-load-as-drive-speeds-rocket-each-h-tpu-reportedly-draws-2-5-percent-of-a-cpu-cores-power",
       "source": "Tom's Hardware",
       "summary": "SK海力士计划把H-TPU嵌入下一代企业级SSD主控，单核功耗约为CPU核心的2.5%，以卸载盘内计算。"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "storage",
-      "title": "三星亮出AI存储新战略：从HBM5、CXL到QLC企业级SSD",
-      "url": "https://www.chinaflashmarket.com/a/184330",
-      "source": "CFM闪存市场",
-      "summary": "三星以HBM5、CXL内存池化、QLC与FDP企业级SSD构建多层存储体系，并开放MAX实验室供客户验证。"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "storage",
-      "title": "存储涨价击穿PC成本线：DRAM加SSD占比逼近40%",
-      "url": "https://k.sina.com.cn/article_7879995964_1d5af323c068017ko8.html",
-      "source": "新浪",
-      "summary": "NAND供给收缩推高内存与SSD价格，存储占整机成本从常态15%升至近40%，带动PC涨价15%–30%。"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "storage",
-      "title": "市值蒸发超2300亿，存储暴利时代要落幕了",
-      "url": "https://caifuhao.eastmoney.com/news/20261016165530865014680",
-      "source": "东方财富",
-      "summary": "存储模组厂股价大幅回撤，市场担忧DRAM与NAND涨价周期见顶，低价囤货红利正在消退。"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "ai-infra",
-      "title": "AI数据中心正在重塑美国老化的电网",
-      "url": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
-      "source": "CNBC",
-      "summary": "CNBC称AI数据中心将主导北美未来十年用电增长，明尼苏达Pine Island等地被迫启动大规模电网扩建。"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "ai-infra",
-      "title": "威图发布DLC直接液冷新品，面向高密度AI算力",
-      "url": "https://hunan.ifeng.com/c/8xFD2pZK4SE",
-      "source": "凤凰网湖南",
-      "summary": "威图在2026工博会发布DLC直接液冷新品，针对高功率密度AI机柜提供从机柜到CDU的散热方案。"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "ai-infra",
-      "title": "巴斯夫推出Glythermin冷却液，瞄准AI数据中心液冷",
-      "url": "https://www.eepw.com.cn/article/202610/484048.htm",
-      "source": "EEPW",
-      "summary": "巴斯夫发布Glythermin PG与DC PG两款产品，专为AI数据中心直接液冷（DLC）回路设计。"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "ai-infra",
-      "title": "AI硬件需求兑现，多家算力上市公司三季报预喜",
-      "url": "http://finance.ce.cn/stock/gsgdbd/202610/t20261015_3258506.shtml",
-      "source": "中国经济网",
-      "summary": "鸿富瀚等算力配套厂商业绩预增，液冷板模组量产成为主要增长动力，AI硬件订单持续兑现。"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "ai-infra",
-      "title": "AMD Helion单机架最高32768核，首次公开Verano EPYC",
-      "url": "https://www.163.com/dy/article/L97VV6AR0511A3C8.html",
-      "source": "网易",
-      "summary": "AMD发布Helion机架级方案，单机架最高32768核，并首秀采用LPDDR内存接口的第六代EPYC Verano。"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "memory-pool",
-      "title": "德明利H9560主控芯片瞄准CXL内存扩展，预计年内完成回片",
-      "url": "https://www.163.com/dy/article/L9BOAMIP051984TV.html",
-      "source": "网易",
-      "summary": "德明利称H9560主控面向CXL内存扩展核心场景，已布局固件与系统适配，预计年内回片。"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "memory-pool",
-      "title": "机构：CXL内存市场2026年32亿美元，2033年将达101亿美元",
-      "url": "https://www.openpr.com/news/4660873/cxl-memory-market-to-reach-us-10-1-billion-by-2033-growing-at",
-      "source": "OpenPR",
-      "summary": "报告预计全球CXL内存市场从2026年32亿美元增至2033年101亿美元，年复合增速17.8%。"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "storage",
-      "title": "韩媒：通用DRAM供应几近枯竭，四季度价格最高再涨15%",
-      "url": "https://www.mk.co.kr/cn/business/12178104",
-      "source": "每日经济新闻（韩国）",
-      "summary": "韩媒称通用DRAM库存见底，Vera Rubin搭载288GB HBM4加剧挤占，四季度价格最高涨15%。"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "storage",
-      "title": "HBM王座要换人：三星2027年份额冲40%，或反超SK海力士",
-      "url": "https://feng.ifeng.com/c/8xAG6di3bOd",
-      "source": "凤凰网",
-      "summary": "瑞银预测三星2027年HBM出货份额升至40%，首超SK海力士的39%，登顶全球第一。"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "storage",
-      "title": "机构预测SK海力士三季度营收98.23万亿韩元，营业利润率78.4%",
-      "url": "https://www.sohu.com/a/1089418707_120988576",
-      "source": "搜狐",
-      "summary": "机构预计SK海力士三季度营收98.23万亿、营业利润76.96万亿韩元，DRAM出货环比增约10%。"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "storage",
-      "title": "SK海力士OCP展出PEB210液冷企业级SSD，从HBM延伸至存储",
-      "url": "https://www.asiae.co.kr/en/article/enterprise-CEO/2026101611171910882",
-      "source": "亚洲经济",
-      "summary": "SK海力士在OCP展示支持直触液冷的PEB210 E1.S与M.2企业级SSD，拓展AI存储产品线。"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "storage",
-      "title": "AI拿走HBM，手机与PC只能「啃剩饭」",
-      "url": "https://www.donews.com/news/detail/1/6405627.html",
-      "source": "DoNews",
-      "summary": "报道称三大厂新增产能八成至九成转向HBM，消费级DRAM与NAND供给被挤压、价格传导至终端。"
     }
   ]
 }
