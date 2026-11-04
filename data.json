@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-11-03T08:39:10+08:00",
+  "updatedAt": "2026-11-04T08:38:20+08:00",
   "items": [
+    {
+      "date": "2026-11-04",
+      "category": "memory-pool",
+      "title": "CXL 与 QLC 的「节奏差」：规范已写到 4.0，企业级 SSD 订单排到 2028",
+      "url": "https://www.163.com/dy/article/LAQT8LF305568W0A.html",
+      "source": "网易",
+      "summary": "CXL 规范推进至 4.0，QLC 企业级 SSD 订单已排到 2028 年，两者节奏错位凸显分层存储价值。"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "memory-pool",
+      "title": "PyTorch 韩国 KV Cache Meetup：用 CXL 内存池把热缓存留 DRAM、冷缓存下沉 SSD",
+      "url": "https://pytorch.org/blog/kvcache-meetup-korea-2026-event-recap/",
+      "source": "PyTorch",
+      "summary": "PyTorch 韩国 KV Cache 聚会展示 DRAM 与 SSD 组合的 CXL 内存池，按热度分层存放推理缓存。"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "memory-pool",
+      "title": "TechInsights：内存进入「超周期」，CXL 池化已量产，竞争转向 KV Cache",
+      "url": "https://www.techinsights.com/blog/insight-beyond-supercycle-enter-memory-hypercycle",
+      "source": "TechInsights",
+      "summary": "TechInsights 称内存进入超周期，CXL 池化已量产，三星与 SK 海力士转向争夺智能体 KV Cache。"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "storage",
+      "title": "首款 HBF 流片：闪迪称高带宽闪存明年交付首批样品",
+      "url": "https://timeline.sohu.com/news/B9ZM02il4O?from=news",
+      "source": "搜狐",
+      "summary": "闪迪披露首款 HBF 高带宽闪存已完成流片，预计明年向客户交付样品，为 AI 推理补上容量层。"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "storage",
+      "title": "Blocks & Files：同一座工厂，铠侠与闪迪在 HBF 路线上分道扬镳",
+      "url": "https://www.blocksandfiles.com/flash/2026/11/03/same-fab-different-paths-kioxia-and-sandisk-diverge-on-hbf/5307156",
+      "source": "Blocks & Files",
+      "summary": "同厂制造的铠侠与闪迪对 HBF 路线出现分歧，标准化推进与量产节奏各走一边。"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "storage",
+      "title": "汇丰：存储行情远未结束，「周期见顶论」为时过早",
+      "url": "http://k.sina.com.cn/article_5952915720_162d2490806704goyk.html",
+      "source": "新浪",
+      "summary": "汇丰称 AI 服务器持续拉动 NAND 与企业级 SSD，存储行情远未结束，周期见顶论为时过早。"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "storage",
+      "title": "经济日报：当 AI「吞噬」内存，涨价已从合约价传导到整机 BOM",
+      "url": "http://m.ce.cn/bwzg/202611/t20261101_3279010.shtml",
+      "source": "中国经济网",
+      "summary": "HBM 挤占通用产能，内存合约价几近翻番、闪存涨超五成，涨价已传导至手机与 PC 整机成本。"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "storage",
+      "title": "深夜大涨、机构集体上调目标价：NAND 合约价环比涨 18%–23%",
+      "url": "https://www.163.com/dy/article/LADGF8PM0556299F.html",
+      "source": "网易",
+      "summary": "NAND 合约价环比上涨 18% 至 23%，机构判断周期拉长并集体上调目标价，A 股存储板块再度走强。"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "storage",
+      "title": "36 氪：存储股为何成了最先被抛弃的 AI 资产",
+      "url": "http://www.36kr.com/p/4053977240802180",
+      "source": "36氪",
+      "summary": "10 月 MLC、TLC、QLC 三类 NAND 晶圆合约价全部停涨，存储股从 AI 核心资产变为最先被抛售的板块。"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "ai-infra",
+      "title": "TrendForce：AI 网络互连产值 2027 年将达 2798 亿美元，价值重心转向 Scale-up",
+      "url": "https://news.qq.com/rain/a/20261102A09SSH00",
+      "source": "腾讯新闻",
+      "summary": "TrendForce 预计全球 AI 网络与互连产值从 2024 年 379 亿美元增至 2027 年 2798 亿美元，Scale-up 成重心。"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "ai-infra",
+      "title": "CNBC：Brookfield 拟投 270 亿美元，在英国旧电站建 1GW 以上 AI 数据中心",
+      "url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
+      "source": "CNBC",
+      "summary": "Brookfield 计划在英国约克郡旧电站地块建设逾 1GW 的 AI 数据中心，潜在投资约 270 亿美元。"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "ai-infra",
+      "title": "SpaceX 加速布局 AI 基础设施：Colossus 领跑，马斯克押注轨道算力",
+      "url": "https://news.futunn.com/post/1003062093/spacex-spcxus-accelerates-its-expansion-into-ai-infrastructure-colossus-leads",
+      "source": "富途牛牛",
+      "summary": "SpaceX 加速切入 AI 基础设施，马斯克预计 2028 年底轨道部署算力可能超过新增地面算力。"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "ai-infra",
+      "title": "液冷链现金流拉警报：曙光数创三季度经营现金流净额 -4.71 亿元",
+      "url": "https://money.udn.com/money/story/5603/9843396",
+      "source": "经济日报",
+      "summary": "AI 带动液冷成必选项，但曙光数创三季度经营活动现金流净额为 -4.71 亿元，回款压力引发担忧。"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "ai-infra",
+      "title": "光宝科 AI 营收占比破 30%，800VDC 电源柜本季出样机",
+      "url": "https://www.ftnn.com.tw/news/591557",
+      "source": "FTNN",
+      "summary": "光宝科今年 AI 营收占比突破 30%，800VDC 电源柜本季出样，液冷散热与高速光通讯同步推进。"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "ai-infra",
+      "title": "社区反对升温，OpenAI 考虑把数据中心改称「AI 算力园区」",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue",
+      "source": "Tom's Hardware",
+      "summary": "面对社区反对，OpenAI 拟将数据中心更名为「AI 算力园区」，并以社区协议争取项目落地。"
+    },
     {
       "date": "2026-11-03",
       "category": "memory-pool",
@@ -1480,126 +1600,6 @@
       "url": "https://www.trendforce.com/news/2026/10/20/news-dram-prices-seen-rising-20-qoq-in-4q26-despite-slower-gains-ai-demand-tight-supply-support-outlook/",
       "source": "TrendForce",
       "summary": "TrendForce预计四季度DRAM合约价环比涨约20%，AI需求与供给紧张支撑涨势延续。"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "storage",
-      "title": "美光开发边缘推理内存，预计2028年下半年量产",
-      "url": "https://www.trendforce.com/news/2026/10/19/news-micron-develops-edge-inference-memory-2h28-production-seen-as-hbm-potential-grows-in-humanoids/",
-      "source": "TrendForce",
-      "summary": "美光研发面向人形机器人的边缘推理内存，预计2028年下半年量产，单机DRAM需求或超200GB。"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "storage",
-      "title": "闪迪市值一夜大增近700亿元，存储芯片股集体反弹",
-      "url": "https://news.china.com/socialgd/10000169/20261020/49805574.html",
-      "source": "中华网",
-      "summary": "10月20日美股科技股上涨，闪迪股价涨约5%、市值增近700亿元，存储板块情绪回暖。"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "storage",
-      "title": "SK海力士HBF：介于HBM与SSD之间的新存储层级",
-      "url": "https://www.igorslab.de/zh/sk-hynix-hbf-stacked-nand-memory-between-hbm-ssds-zh-cn/",
-      "source": "Igor's Lab",
-      "summary": "SK海力士HBF以堆叠NAND提供单堆栈最高512GB容量与3TB/s带宽，填补HBM与SSD之间的层级空白。"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "storage",
-      "title": "HBM抢产能，SOCAMM、DDR6与400层NAND加速崛起",
-      "url": "https://caifuhao.eastmoney.com/news/20261012183219831315630",
-      "source": "东方财富",
-      "summary": "HBM挤占产能推动SOCAMM、DDR6与400层NAND加速导入，AI服务器存储需求结构持续上移。"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "storage",
-      "title": "紫光国芯：以存储「燃料」激活AI产业新势能",
-      "url": "https://finance.eastmoney.com/a/202610203900333052.html",
-      "source": "东方财富",
-      "summary": "紫光国芯称AI瓶颈正从算力墙转向存储墙，行业由堆算力转向以存储效率驱动。"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "ai-infra",
-      "title": "FT：美国10万亿美元AI基建热潮开始出现裂痕",
-      "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
-      "source": "Financial Times",
-      "summary": "FT称美国十万亿美元级AI基建热潮显露裂痕，融资、电力与回报压力同步上升。"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "ai-infra",
-      "title": "新风光推出SST绿电直连液冷智算中心一体化方案",
-      "url": "https://k.sina.com.cn/article_5953466437_162dab0450670bfe18.html?from=tech",
-      "source": "新浪",
-      "summary": "新风光以SST固态变压器与高压级联储能构建算电一体化方案，打造绿电直连液冷智算中心。"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "ai-infra",
-      "title": "144颗GPU挤进一台机柜，天数智芯发布天垓300 IXL144超节点",
-      "url": "https://www.itheat.com/view/63953.html",
-      "source": "热点科技",
-      "summary": "天数智芯天垓300 IXL144在单柜集成144颗GPU，贴近常规机柜供电与承重要求。"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "ai-infra",
-      "title": "AI的尽头是电力：海外算力扩容催热中国能源装备出海",
-      "url": "https://finance.eastmoney.com/a/202610193899877736.html",
-      "source": "东方财富",
-      "summary": "IEA预计2030年全球AI数据中心用电为2025年三倍，海外扩容带动中国能源装备出口。"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "ai-infra",
-      "title": "SemiAnalysis预测2027年新增50GW数据中心，电力成第一约束",
-      "url": "https://m.sohu.com/a/1090156464_128075",
-      "source": "搜狐",
-      "summary": "SemiAnalysis预计2027年全球新增50GW数据中心，约束从芯片采购转向电力系统与现场发电。"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "memory-pool",
-      "title": "SK海力士在XCENA MX1首秀CXL计算内存，三星代工同步加盟",
-      "url": "https://www.techtimes.com/articles/329194/20261019/sk-hynix-debuts-cxl-computational-memory-xcena-mx1-samsung-commits-foundry.htm",
-      "source": "Tech Times",
-      "summary": "SK海力士在OCP展示基于XCENA MX1的CXL计算内存，可在推理服务器间共享KV缓存，三星同步宣布代工支持。"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "memory-pool",
-      "title": "众星微推出144 Lane PCIe 6.0交换芯片，支持CXL内存池化",
-      "url": "https://m.sohu.com/a/1089849927_114765",
-      "source": "搜狐",
-      "summary": "众星微发布PCIe 6.0 Switch，单Lane 64GT/s，支持Fabric组网与CXL内存扩展池化，瞄准十万卡集群。"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "memory-pool",
-      "title": "存储的黄金时代，存储厂商却在失去定义权",
-      "url": "https://news.pedaily.cn/202610/570346.shtml",
-      "source": "投资界",
-      "summary": "报道称三星、SK海力士、美光同步叫停CXL控制器自研商业化，以免池化蚕食自家DRAM模组业务。"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "storage",
-      "title": "从HBM到512TB SSD，存储迎来新风向",
-      "url": "https://www.163.com/dy/article/L9JUTKDO05199TU1.html",
-      "source": "网易",
-      "summary": "OCP上形成HBM守带宽、HBF补容量、SSD做缓存卸载的多层体系，大普微展出512TB SSD与液冷企业级盘。"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "storage",
-      "title": "SK海力士拟在SSD主控内置H-TPU小核，分担主CPU负载",
-      "url": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-place-custom-tiny-cpu-cores-in-its-ssd-controllers-to-ease-arm-load-as-drive-speeds-rocket-each-h-tpu-reportedly-draws-2-5-percent-of-a-cpu-cores-power",
-      "source": "Tom's Hardware",
-      "summary": "SK海力士计划把H-TPU嵌入下一代企业级SSD主控，单核功耗约为CPU核心的2.5%，以卸载盘内计算。"
     }
   ]
 }
