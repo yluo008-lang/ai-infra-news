@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-11-04T08:38:20+08:00",
+  "updatedAt": "2026-11-05T08:37:57+08:00",
   "items": [
+    {
+      "date": "2026-11-05",
+      "category": "ai-infra",
+      "title": "中期选举投票：10 州 41 项数据中心议案，仅 1 项获选民放行",
+      "url": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
+      "source": "CNBC",
+      "summary": "美国 10 州 41 项数据中心相关议案付诸表决，选民几乎全部选择限制或否决，AI 基建政治阻力显性化。"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "ai-infra",
+      "title": "Reuters：华尔街押注「拥有基础设施、收取租金」，2030 年前 AI 资本开支需求超 5 万亿美元",
+      "url": "https://www.reuters.com/business/finance/wall-streets-ai-bet-own-infrastructure-collect-rent-2026-10-29/",
+      "source": "Reuters",
+      "summary": "Ares 估算到 2030 年 AI 相关资本开支需求略超 5 万亿美元，其中约 2 万亿用于数据中心建筑与配套。"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "ai-infra",
+      "title": "国盛证券：算力放量驱动液冷起势，国产供应商话语权加速提升",
+      "url": "https://finance.jrj.com.cn/2026/11/04111059007661.shtml",
+      "source": "金融界",
+      "summary": "国盛证券测算全球液冷数据中心市场 2030 年达 286.5 亿美元、年复合增速 26.8%，国产供应链份额抬升。"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "ai-infra",
+      "title": "浪潮信息牵头：我国首个服务器及存储液冷部件国家标准发布",
+      "url": "https://www.eet-china.com/mp/a535747.html",
+      "source": "EET-China",
+      "summary": "首个面向服务器与存储设备的液冷部件国家标准出台，统一冷板、浸没组件、连接系统与 CDU 技术要求。"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "ai-infra",
+      "title": "联合早报：新一代 AI 数据中心散热供电，直流电与冷却液缺一不可",
+      "url": "https://www.zaobao.com.sg/finance/singapore/story20261103-9941795",
+      "source": "联合早报",
+      "summary": "AI 机柜功率抬升令风冷触顶，新加坡业者称液冷成必选、800V 直流可减损耗，但改造成本仍待摊薄。"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "ai-infra",
+      "title": "奥迪威切入服务器液冷供应链，超声波流量计用于 CDU 干路与支路监测",
+      "url": "http://finance.eastmoney.com/a/202611023919102923.html",
+      "source": "东方财富",
+      "summary": "奥迪威称已间接进入知名服务器厂商供应链，以超声、涡街与外夹式流量监测覆盖 CDU 干路与支路。"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "memory-pool",
+      "title": "云尖信息发布 2U AI Agent 服务器：88 条 PCIe 6.0，支持 CXL 3.1 跨节点内存池化",
+      "url": "https://www.163.com/dy/article/LATFSJ3E05509EKV.html",
+      "source": "网易",
+      "summary": "云尖信息 R8260 N8 以 3TB 内存与 CXL 3.1 跨节点池化扩容 KV Cache，配双 800G 网卡面向智能体推理。"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "memory-pool",
+      "title": "从 CPU 到超节点，RISC-V 换道 AI 算力：LX500 以统一内存架构共享 2TB 内存池",
+      "url": "https://www.163.com/dy/article/LATTKB4A0552IBJ1.html",
+      "source": "网易",
+      "summary": "LX500 采用统一内存架构让 CPU 与 AI 加速引擎共享内存池，并通过 CXL 扩展至最高 2TB 物理内存。"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "storage",
+      "title": "Blocks & Files：铠侠 SSD 营收同比暴增 5.5 倍，AI 服务器需求点燃企业级市场",
+      "url": "https://www.blocksandfiles.com/flash/2026/11/02/kioxias-ssd-revenues-explode/5306907",
+      "source": "Blocks & Files",
+      "summary": "铠侠季度营收创纪录，SSD 收入同比增 5.5 倍，AI 数据中心服务器需求成为企业级 SSD 主要拉动力。"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "storage",
+      "title": "长鑫 HBM3E 已向国内 AI 芯片厂送样，良率 20%–30% 仍推进小批量量产",
+      "url": "https://www.163.com/dy/article/LADSQR7G0511CPVM.html",
+      "source": "网易",
+      "summary": "长鑫已向多家国内 AI 芯片设计公司交付 HBM3E 样品，计划两个月内小批量生产，良率仍仅两到三成。"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "storage",
+      "title": "存储巨头密集交卷，华强北内存行情高位盘整，NAND 合约价季增收敛至 15%–20%",
+      "url": "https://news.qq.com/rain/a/20261030A081ON00",
+      "source": "腾讯新闻",
+      "summary": "原厂财报密集发布，NAND 合约价预计季增 15% 至 20%、涨幅较上季收敛，华强北现货进入高位盘整。"
+    },
     {
       "date": "2026-11-04",
       "category": "memory-pool",
@@ -1512,94 +1600,6 @@
       "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
       "source": "NVIDIA",
       "summary": "英伟达在GTC柏林发布DSX POD参考设计，以预制集装箱交付Vera Rubin AI工厂，现场部署由数月缩短至数天。"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "ai-infra",
-      "title": "CNBC：英伟达Vera Rubin机柜可用卡车运输，14天开始产出Token",
-      "url": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
-      "source": "CNBC",
-      "summary": "DSX POD约一个标准集装箱大小、重约2.8万公斤，集成七个Vera Rubin机柜，约14天可上线产出Token。"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "ai-infra",
-      "title": "我国首个全国产十万卡AI超集群「曙光8000」真机亮相",
-      "url": "https://www.ithome.com/1/014/456.htm",
-      "source": "IT之家",
-      "summary": "曙光8000在CCF HPC 2026亮相，十万张国产加速卡高速互联，超算与智算在同一算力底座原生融合。"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "ai-infra",
-      "title": "沐曦曦景S600超节点：以系统协同提升算力供给与使用效率",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-10-20/doc-inivwitp6517115.shtml",
-      "source": "新浪财经",
-      "summary": "沐曦陈维良以曦景S600超节点为例，称系统级协同是提升算力供给能力与使用效率的关键路径。"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "ai-infra",
-      "title": "大金发布2.5MW液冷CDU，瞄准高密AI数据中心",
-      "url": "https://www.datacentre.solutions/news/24388-daikin-unveils-25mw-liquid-cooling-cdus-for-ai-data-centres",
-      "source": "Data Centre Solutions",
-      "summary": "大金推出新一代Coolant Distribution Unit，单机容量最高2.5MW，应对AI机柜热量持续攀升。"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "ai-infra",
-      "title": "机构：AI数据中心液冷市场2032年将达203.9亿美元",
-      "url": "https://www.prnewswire.com/news-releases/ai-data-center-liquid-cooling-market-worth-20-39-billion-by-2032---exclusive-report-by-marketsandmarkets-302913151.html",
-      "source": "PR Newswire",
-      "summary": "MarketsandMarkets预计AI数据中心液冷市场由2026年35.2亿美元增至2032年203.9亿美元，年复合34%。"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "ai-infra",
-      "title": "范式智能推出「AI Infra+MaaS」战略，破解异构算力落地卡点",
-      "url": "https://finance.ifeng.com/c/8xOusIIMNw1",
-      "source": "凤凰财经",
-      "summary": "范式智能以AI Infra+MaaS战略切入算力调度、跨芯片适配、推理稳定与Token交付等落地难题。"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "ai-infra",
-      "title": "Apollo：若数据中心建设延迟，谁受益谁受损",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/winners-and-losers-if-the-data-center-buildout-is-delayed",
-      "source": "Apollo",
-      "summary": "Apollo分析指若数据中心建设放缓，收入受供给而非需求约束，AI实验室与初创承压、部分供应商受益。"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "memory-pool",
-      "title": "2026 CCF高性能计算大会：存算融合破解AI推理「内存墙」",
-      "url": "https://tech.gmw.cn/2026-10/20/content_39054541.htm",
-      "source": "光明网",
-      "summary": "CCF高性能计算大会聚焦存算融合与近存计算，探索破解AI推理内存墙的产业化路径。"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "memory-pool",
-      "title": "蓝芯算力发布智通融合超节点，统一内存架构支持CXL扩展",
-      "url": "https://m.163.com/dy/article/L9MBG761053469RG.html",
-      "source": "网易",
-      "summary": "蓝芯算力推出智通融合超节点，芯片采用统一内存架构共享DDR5并支持CXL扩展，拓展RISC-V推理场景。"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "memory-pool",
-      "title": "中国厂商杀向算力咽喉要道：PCIe 6.0交换与CXL内存池化",
-      "url": "https://c.m.163.com/news/a/L9AEDF070519D4UH.html",
-      "source": "网易",
-      "summary": "国产厂商布局PCIe 6.0交换、800G AI网卡与多模RAID，交换芯片支持CXL内存扩展与池化。"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "storage",
-      "title": "TrendForce：四季度DRAM合约价预计环比上涨20%",
-      "url": "https://www.trendforce.com/news/2026/10/20/news-dram-prices-seen-rising-20-qoq-in-4q26-despite-slower-gains-ai-demand-tight-supply-support-outlook/",
-      "source": "TrendForce",
-      "summary": "TrendForce预计四季度DRAM合约价环比涨约20%，AI需求与供给紧张支撑涨势延续。"
     }
   ]
 }
