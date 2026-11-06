@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-11-05T08:37:57+08:00",
+  "updatedAt": "2026-11-06T08:38:17+08:00",
   "items": [
+    {
+      "date": "2026-11-06",
+      "category": "memory-pool",
+      "title": "澜起科技一个季度赚 12 亿：CXL 接的是下一波服务器架构增量",
+      "url": "https://finance.sina.com.cn/cj/2026-11-04/doc-inixpmfi8229117.shtml",
+      "source": "新浪财经",
+      "summary": "澜起科技单季净利约 12 亿元，互连芯片放量，CXL 面向内存扩展与池化承接下一波服务器架构增量。"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "memory-pool",
+      "title": "全球首款 2nm 服务器 CPU：AMD EPYC 9006 Venice 支持 PCIe 6.0 与 CXL 3.1",
+      "url": "https://www.hpctop.com/uncategorized/8781/",
+      "source": "HPCTop",
+      "summary": "AMD EPYC 9006 Venice 采用 2nm 工艺、单路 96 条 PCIe 6.0 通道，并支持 CXL 3.1 内存扩展。"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "memory-pool",
+      "title": "澜起获机构调研：CXL 为 TPU/GPU 提供大容量内存，承接超长上下文推理",
+      "url": "https://www.163.com/dy/article/LAOTVKC90519QIKK.html",
+      "source": "网易",
+      "summary": "澜起称借助 CXL 内存扩展为 TPU/GPU 提供大容量高带宽内存，支撑超长上下文与静态知识库负载。"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "storage",
+      "title": "Sam Altman 赴韩会见三星高层抢内存：三星与 SK 海力士占 HBM 营收约 83%",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
+      "source": "Tom's Hardware",
+      "summary": "OpenAI CEO 赴韩会见三星高层争取更多 DRAM 供给，三星与 SK 海力士合计占 HBM 营收约 83%。"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "storage",
+      "title": "内存短缺或持续到 2030 年，SK 海力士、美光等股价集体大跌",
+      "url": "https://m.36kr.com/p/4056336356267140",
+      "source": "36氪",
+      "summary": "机构预计内存短缺延续至 2030 年，摩根大通预测 2027 年 HBM 均价再涨 54%，存储股集体大跌。"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "storage",
+      "title": "铠侠跌超 15% 创六个月新低，企业级 SSD 强、消费端弱的分化显性化",
+      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262263770-kioxia-shares-drop-over-15-six-month-low-not-drag-us-memory-stocks-micron-sandisk-skhynix-tradingkey",
+      "source": "TradingKey",
+      "summary": "铠侠股价跌超 15% 创六个月新低，企业级 SSD 需求仍强、消费类疲弱，未拖累美股存储股。"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "storage",
+      "title": "Counterpoint：三季度全球 DRAM 营收逼近 2000 亿美元，涨价而非出货驱动",
+      "url": "https://m.sohu.com/a/1097528495_114760",
+      "source": "搜狐",
+      "summary": "Counterpoint 称三季度全球 DRAM 营收逼近 2000 亿美元，出货量仅环比增约 4%，增长主要来自涨价。"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "storage",
+      "title": "从过剩到短缺，AI 正在「吞噬」存储芯片",
+      "url": "https://wallstreetcn.com/articles/3756710",
+      "source": "华尔街见闻",
+      "summary": "存储市场由价格暴跌逆转为全面短缺，AI 数据中心的吞噬式需求推高 DRAM 与 NAND，内存成本同比翻倍。"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "storage",
+      "title": "内存缺到 2030 年，手机越卖越贵：涨价压力向终端传导",
+      "url": "https://www.163.com/dy/article/LAV8D6GD05310LRK.html",
+      "source": "网易",
+      "summary": "内存短缺或延续至 2030 年，手机 BOM 采购价持续走高，二季度手机内存价格环比涨超 80%。"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "ai-infra",
+      "title": "进博会 2026：SK 电讯以 AI Inference Factory 打造全场景算力底座",
+      "url": "https://www.163.com/dy/article/LB01FTU80514R9OJ.html",
+      "source": "网易",
+      "summary": "SK 电讯展示 AI Inference Factory，整合算力、软件与浸没式液冷，按推理阶段特性配置资源。"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "ai-infra",
+      "title": "科慕发布 Faizeon 两相液冷工质，瞄准高功率 AI 机柜散热",
+      "url": "https://www.chemours.com/en/news-media-center/all-news/press-releases/2026/chemours-launches-faizeon",
+      "source": "Chemours",
+      "summary": "科慕推出 Faizeon 两相液冷工质，面向高功率 AI 机柜，称散热正成为数据中心扩张的关键约束。"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "ai-infra",
+      "title": "固态变压器与新型直流配电布局提速，筑牢 AI 算力供电底座",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixkzym8885293.shtml",
+      "source": "新浪财经",
+      "summary": "厂商加速布局固态变压器与新型直流配电，以中压一步直转直流支撑高密 AI 算力园区供电。"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "ai-infra",
+      "title": "新型储能护航算力：数据中心与算力储能订单加速兑现，园区迈向吉瓦级用电",
+      "url": "https://www.sohu.com/a/1096144075_120988576",
+      "source": "搜狐",
+      "summary": "三季报显示数据中心与算力储能订单加速兑现，算力园区迈向吉瓦级用电，算电协同生态成型。"
+    },
     {
       "date": "2026-11-05",
       "category": "ai-infra",
@@ -1496,110 +1600,6 @@
       "url": "https://caifuhao.eastmoney.com/news/20261021184513697757790",
       "source": "东方财富",
       "summary": "神州数码以自研AI Infra OS为核心，叠加异构智算调度平台与液冷高密组网，破解算力空转与利用率偏低。"
-    },
-    {
-      "date": "2026-10-23",
-      "category": "ai-infra",
-      "title": "光合组织集中亮牌，AI Infra进入系统决战",
-      "url": "https://www.163.com/dy/article/L9SDGAV8051195JE.html",
-      "source": "网易",
-      "summary": "光合组织围绕有效Token产出，整合海光CPU+DCU、曙光超节点、存储、高速网络与液冷能力。"
-    },
-    {
-      "date": "2026-10-23",
-      "category": "ai-infra",
-      "title": "113°F冷却液：AI数据中心学会「跑得更热」",
-      "url": "https://www.datacenters.com/news/113-f-coolant-ai-data-centers-are-learning-to-run-hotter",
-      "source": "Data Centers",
-      "summary": "新型液冷AI系统以约45℃更高温冷却液支撑更高密度GPU，同时降低排热所需能耗。"
-    },
-    {
-      "date": "2026-10-23",
-      "category": "ai-infra",
-      "title": "机构：全球AI数据中心供电与散热基础设施2035年将达1648亿美元",
-      "url": "https://finance.yahoo.com/technology/ai/articles/global-ai-data-center-power-090400740.html",
-      "source": "Yahoo Finance",
-      "summary": "报告称AI负载推动液冷与供电升级，该市场将从2025年528亿美元增至2035年1648亿美元。"
-    },
-    {
-      "date": "2026-10-23",
-      "category": "ai-infra",
-      "title": "Lumentum光器件售罄，订单排至2029年初",
-      "url": "https://m.sohu.com/a/1090620042_115362",
-      "source": "搜狐",
-      "summary": "Lumentum称光器件已完全售罄、订单排至2029年初，2027年仍有约70%的需求无法满足。"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "memory-pool",
-      "title": "2026全国高性能计算学术大会：联想首发三卷算力基础设施，CXL内存池扩展KV Cache分层",
-      "url": "https://finance.sina.com.cn/roll/2026-10-19/doc-inivueum6161158.shtml",
-      "source": "新浪财经",
-      "summary": "联想首发三卷算力基础设施，以CXL内存池扩展容量，让KV Cache分层存储并支持多推理实例共享公共前缀。"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "memory-pool",
-      "title": "从有效算力瓶颈看国产互连芯片的全栈破局：CXL跨节点内存池化需求上行",
-      "url": "https://www.21ic.com/a/1014638.html",
-      "source": "21ic电子网",
-      "summary": "长上下文与智能体系统推高KV-Cache，单卡显存受限带动CXL跨节点内存池化需求快速上升。"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "storage",
-      "title": "三星西安、SK海力士大连工厂升级NAND产线，目标200层以上",
-      "url": "https://www.guancha.cn/CaiJing/2026_10_21_905274.shtml",
-      "source": "观察者网",
-      "summary": "路透称三星与SK海力士升级在华NAND工厂至200层以上，兼顾AI需求与长江存储的竞争压力。"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "storage",
-      "title": "长江存储中国NAND市场份额超越三星，跃居出货第一",
-      "url": "https://www.163.com/dy/article/L9PSMK2805527PMU.html",
-      "source": "网易",
-      "summary": "机构数据显示2026年二季度长江存储超越三星，成为中国NAND闪存市场出货量最大供应商。"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "storage",
-      "title": "美光10月21日技术研讨会：披露DRAM、HBM与NAND多代路线图",
-      "url": "https://m.sohu.com/a/1089850258_121157270",
-      "source": "搜狐",
-      "summary": "美光总裁Scott DeBoer在10月21日技术研讨会介绍DRAM、HBM与NAND创新及未来多代技术路线。"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "storage",
-      "title": "TrendForce：英伟达推动台积电3nm代工NVHBM基础裸片",
-      "url": "https://www.trendforce.com/news/2026/10/19/news-nvidia-reportedly-pushes-tsmc-3nm-nvhbm-base-dies-for-samsung-sk-hynix-micron-in-unlikely-foundry-tie-up/",
-      "source": "TrendForce",
-      "summary": "英伟达要求三星、SK海力士与美光统一采用台积电3nm工艺生产定制NVHBM基础裸片。"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "storage",
-      "title": "SK海力士HBM4份额被三星追近，出货与良率成胜负关键",
-      "url": "https://www.163.com/dy/article/L9OF4PJL05527PMU.html",
-      "source": "网易",
-      "summary": "韩媒称HBM4切换关口SK海力士主导地位松动，三星份额追近，出货节奏与良率决定格局。"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "storage",
-      "title": "存储股别急着抄底：三星、SK海力士月内最大回撤超30%",
-      "url": "https://finance.sina.com.cn/money/fund/jjzl/2026-10-21/doc-inivyhkr6246993.shtml",
-      "source": "新浪财经",
-      "summary": "10月以来三星、SK海力士、美光分别回撤约24%、31%、15%，机构提示抄底仍需看涨价兑现。"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "ai-infra",
-      "title": "英伟达发布DSX POD：把Vera Rubin AI工厂装进集装箱",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
-      "source": "NVIDIA",
-      "summary": "英伟达在GTC柏林发布DSX POD参考设计，以预制集装箱交付Vera Rubin AI工厂，现场部署由数月缩短至数天。"
     }
   ]
 }
