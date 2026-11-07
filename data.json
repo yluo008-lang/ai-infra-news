@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-11-06T08:38:17+08:00",
+  "updatedAt": "2026-11-07T08:38:54+08:00",
   "items": [
+    {
+      "date": "2026-11-07",
+      "category": "memory-pool",
+      "title": "Astera Labs 三季度营收 5.85 亿美元同比增 154%，Leo 2 E/P 支持 CXL 3.2 且容量翻倍",
+      "url": "https://news.futunn.com/post/1003282528/astera-labs-reported-q3-2026-revenue-of-585-million-up",
+      "source": "富途牛牛",
+      "summary": "Astera Labs 三季度营收同比增 154%，新增 Leo 2 E/P 内存控制器支持 PCIe 6 与 CXL 3.2，容量带宽翻倍。"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "memory-pool",
+      "title": "英伟达：以全栈协同设计破解 AI 内存难题，逐层榨出每一字节带宽",
+      "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+      "source": "NVIDIA Blog",
+      "summary": "英伟达称 GPU、CPU、网络、存储与软件需一体设计，才能在 AI 工厂每一层内存上做出有效产出。"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "memory-pool",
+      "title": "晶铁计算申请 UMA 加 CXL 内存池化专利：光引擎把本地与远端内存映射为统一寻址",
+      "url": "https://www.163.com/dy/article/LAOL3S4O0519QIKK.html",
+      "source": "网易",
+      "summary": "晶铁计算专利融合 UMA 与 CXL，借光引擎跨节点互联，把本地与远端池化内存统一编址并按负载分配。"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "storage",
+      "title": "协创数据：DDR 极度短缺、HBM 吃掉产能，至少 3 年涨价，报价已提 30% 并被接受",
+      "url": "https://news.ifeng.com/c/8xlyJADaakf",
+      "source": "凤凰网",
+      "summary": "协创数据称存储 DDR 非常短缺、HBM 占用大量产能，未来至少 3 年涨价，最新报价上调 30% 已获客户接受。"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "storage",
+      "title": "Counterpoint：新一代 HBM 继续涨价，存储厂四季度营收将创新纪录，长鑫份额升至 9%",
+      "url": "https://www.163.com/dy/article/LB2H7UMC053469RG.html",
+      "source": "网易",
+      "summary": "Counterpoint 称新 HBM 涨价将推四季度存储厂营收创新高，三季度三星 DRAM 份额 38%、长鑫升至 9%。"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "storage",
+      "title": "存储涨价潮分化：产能扩张难解近渴，通用 DRAM 部分产品创近十年新高",
+      "url": "https://c.m.163.com/news/a/LB3IB1RG05199NPP.html",
+      "source": "网易",
+      "summary": "10 月通用型 DRAM 继续上涨、部分创近十年新高，但新增产能短期难补缺口，品类间供需分化加剧。"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "storage",
+      "title": "存储三季报最高暴增 324 倍：四季度涨价延续，但红利集中于 AI 服务器",
+      "url": "https://caifuhao.eastmoney.com/news/20261104135731813367670",
+      "source": "东方财富",
+      "summary": "存储板块三季报最高同比暴增 324 倍，四季度涨价延续但高度集中于 AI 服务器，消费级涨势明显减弱。"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "ai-infra",
+      "title": "兰洋科技亮相乌镇：全链条液冷破解十万卡级超集群与高密智算散热",
+      "url": "https://feng.ifeng.com/c/8xmUi1JmJ7F",
+      "source": "凤凰网",
+      "summary": "兰洋科技在乌镇展示全链条液冷技术，面向十万卡级 AI 超集群与高密度智算服务器的高功耗散热需求。"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "ai-infra",
+      "title": "国产类脑超节点站上新高地：类脑芯片给 GPU 推理「涡轮增压」",
+      "url": "https://timeline.sohu.com/news/AIsyplFhxm",
+      "source": "搜狐",
+      "summary": "世界互联网大会「互联网之光」发布国产类脑超节点，以类脑芯片加速 GPU 推理，为国产算力降本增效。"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "ai-infra",
+      "title": "天数智芯天垓 300 首次实机演示：AFD 分离与 IXL144 单柜 144 卡超节点同台",
+      "url": "https://finance.eastmoney.com/a/202611023919023688.html",
+      "source": "东方财富",
+      "summary": "天数智芯开放天垓 300 实机演示，配套 AFD 分离方案、IXL144 超节点与智算软件栈，并预告端侧新品。"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "ai-infra",
+      "title": "互联网大会的「硬件主场」：拼的不只是算力，更是计算存储互联与软件全栈能力",
+      "url": "https://www.moomoo.com/hans/news/post/1003760001",
+      "source": "Moomoo",
+      "summary": "乌镇世界互联网大会显示，AI 基础设施竞争已从单芯片性能转向计算、存储、通信互联与软件适配的全栈能力。"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "ai-infra",
+      "title": "116 亿元国产算力大单落地：大华股份子公司中标中国移动超节点集采 26.3 亿元",
+      "url": "https://www.sohu.com/a/1096284609_115978",
+      "source": "搜狐",
+      "summary": "大华股份子公司华启智慧中标中国移动超节点设备集采，金额 26.3 亿元，为本轮 116 亿元国产算力大单一部分。"
+    },
     {
       "date": "2026-11-06",
       "category": "memory-pool",
@@ -1504,102 +1600,6 @@
       "url": "https://www.163.com/dy/article/L9N9NSBU05568W0A.html",
       "source": "网易",
       "summary": "白云电器发布智算中心SST供电舱，10kV中压一步直转800VDC，支撑高密AI算力并接入新能源。"
-    },
-    {
-      "date": "2026-10-24",
-      "category": "ai-infra",
-      "title": "第23届中国计算机大会：以超节点+超集群提升Token生产效率",
-      "url": "https://www.jcgov.gov.cn/dtxx/gnyw/202610/t20261023_2404709.shtml",
-      "source": "晋城市政府网",
-      "summary": "CNCC 2026指出超节点加超集群的系统级创新可大幅提升Token生产效率，国产算力加速落地。"
-    },
-    {
-      "date": "2026-10-24",
-      "category": "ai-infra",
-      "title": "Google Cloud开源llm-d 1.0：缓存感知路由与分层KV卸载",
-      "url": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/",
-      "source": "MarkTechPost",
-      "summary": "Google Cloud发布llm-d 1.0分布式推理栈，以缓存感知路由、分层KV卸载与PD分离提升吞吐。"
-    },
-    {
-      "date": "2026-10-23",
-      "category": "memory-pool",
-      "title": "澜起科技三季度互连芯片增长，谷歌TPU v8p有望引入内存池化",
-      "url": "https://caifuhao.eastmoney.com/news/20261021085429497629730",
-      "source": "东方财富",
-      "summary": "澜起科技三季度互连类芯片如期增长，产业链称谷歌TPU v8p有望引入内存池化，每颗TPU可额外扩展数百GB内存。"
-    },
-    {
-      "date": "2026-10-23",
-      "category": "memory-pool",
-      "title": "SNS Insider：CXL内存扩展市场2035年将达165.5亿美元",
-      "url": "https://www.openpr.com/news/4669082/cxl-memory-expansion-market-to-reach-usd-16-55-billion-by-2035",
-      "source": "OpenPR",
-      "summary": "SNS Insider预计全球CXL内存扩展市场由2025年13.5亿美元增至2035年165.5亿美元，AI推理为主要驱动力。"
-    },
-    {
-      "date": "2026-10-23",
-      "category": "storage",
-      "title": "美光跳过G10直奔G11：400层NAND密度翻倍还更省电",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezr5258125.shtml",
-      "source": "新浪财经",
-      "summary": "美光技术研讨会预告G11 NAND，跳过G10直奔400层级，面积密度约为276层G9的两倍并降低功耗。"
-    },
-    {
-      "date": "2026-10-23",
-      "category": "storage",
-      "title": "三星电子季度营业利润超越英伟达，跻身全球第一",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3613299",
-      "source": "Investing.com",
-      "summary": "受HBM涨价推动，三星电子季度营业利润超过英伟达居全球第一，机构预计HBM4溢价将推高2027年盈利。"
-    },
-    {
-      "date": "2026-10-23",
-      "category": "storage",
-      "title": "费城半导体八连跌后存储领衔反攻，大摩高呼HDD超级周期",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3617088",
-      "source": "Investing.com",
-      "summary": "大摩称企业级SSD与近线HDD每TB价差或扩至约30倍，容量优先场景下HDD经济性凸显，带动存储股反弹。"
-    },
-    {
-      "date": "2026-10-23",
-      "category": "storage",
-      "title": "长鑫刺穿「存储泡沫」？",
-      "url": "https://k.sina.com.cn/article_5952915705_162d248f906703r7fk.html?from=finance",
-      "source": "新浪",
-      "summary": "报道指DRAM合约价环比涨幅由一季度93%-98%收窄至四季度10%-15%，长鑫扩产引发存储泡沫担忧。"
-    },
-    {
-      "date": "2026-10-23",
-      "category": "storage",
-      "title": "DDR5暴涨627%背后，AI正在「抢走」你的内存",
-      "url": "https://www.tmtpost.com/7983888.html",
-      "source": "钛媒体",
-      "summary": "产能向HBM倾斜后DDR4现货价由约3美元涨至27美元以上，DDR5、NOR Flash等品类全面跟涨。"
-    },
-    {
-      "date": "2026-10-23",
-      "category": "ai-infra",
-      "title": "Reuters：美国中期选举与数据中心反对声浪成AI交易新风险",
-      "url": "https://www.reuters.com/legal/transactional/investors-see-risk-us-midterms-ai-trade-data-center-backlash-builds-2026-10-22/",
-      "source": "Reuters",
-      "summary": "投资者担忧中期选举与社区反对令数据中心项目受阻，AI交易面临政治与审批层面的新风险。"
-    },
-    {
-      "date": "2026-10-23",
-      "category": "ai-infra",
-      "title": "英伟达：欧洲生态以DSX打造全球最高效AI工厂",
-      "url": "https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx",
-      "source": "NVIDIA",
-      "summary": "英伟达称欧洲伙伴以DSX平台建AI工厂，Vera Rubin支持全液冷与45℃进液，配合干冷器实现近零耗水。"
-    },
-    {
-      "date": "2026-10-23",
-      "category": "ai-infra",
-      "title": "神州数码以AI Infra OS与液冷高密组网构筑智算底座",
-      "url": "https://caifuhao.eastmoney.com/news/20261021184513697757790",
-      "source": "东方财富",
-      "summary": "神州数码以自研AI Infra OS为核心，叠加异构智算调度平台与液冷高密组网，破解算力空转与利用率偏低。"
     }
   ]
 }
