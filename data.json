@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-11-08T08:39:17+08:00",
+  "updatedAt": "2026-11-09T08:38:27+08:00",
   "items": [
+    {
+      "date": "2026-11-09",
+      "category": "memory-pool",
+      "title": "Penguin Solutions 将在 SC26 展出全栈 AI 工厂平台，含 CXL MemoryAI KV Cache 服务器",
+      "url": "https://www.businesswire.com/news/home/20261103070413/en/Penguin-Solutions-to-Showcase-Full-Stack-AI-Factory-Platform-Innovations-at-SC26",
+      "source": "BusinessWire",
+      "summary": "Penguin Solutions 将于 SC26 展出全栈 AI 工厂平台，并扩展面向推理的 CXL MemoryAI KV Cache 服务器产品线。"
+    },
+    {
+      "date": "2026-11-09",
+      "category": "memory-pool",
+      "title": "VLSI：HBM 守封装内带宽、CXL 在池中扩容量，二者分工而非替代",
+      "url": "https://www.vlsi.kr/en/hbm-vs-cxl-ai-memory-interconnect-en/",
+      "source": "VLSI Korea",
+      "summary": "VLSI 解析内存分层：HBM 提供封装内带宽，CXL 2.0 起以交换机汇聚共享容量，靠池化提升整机架利用率。"
+    },
+    {
+      "date": "2026-11-09",
+      "category": "storage",
+      "title": "UPI：三星、SK 海力士、美光同步扩产 AI 内存，长协锁定 HBM 产能",
+      "url": "https://www.upi.com/Top_News/World-News/2026/11/02/samsung-sk-hynix-micron-ai-chips/9561793657408/",
+      "source": "UPI",
+      "summary": "三星、SK 海力士与美光依托长期合约同步扩产 HBM，AI 需求推动存储基础设施投资持续加码。"
+    },
+    {
+      "date": "2026-11-09",
+      "category": "storage",
+      "title": "长鑫 2026 年设备采购超 50 亿美元，新产线国产设备占比升至四到五成",
+      "url": "https://news.qq.com/rain/a/20261104A08RN700",
+      "source": "腾讯新闻",
+      "summary": "长鑫新产线国产设备整体占比已达四到五成，长江存储武汉三期国产化率更高，扩产带动设备订单集中释放。"
+    },
+    {
+      "date": "2026-11-09",
+      "category": "storage",
+      "title": "Counterpoint：国产存储份额仍仅约韩国五分之一，长江存储 NAND 达 17%",
+      "url": "https://www.163.com/dy/article/LB73LGMI05119JRD.html",
+      "source": "网易",
+      "summary": "三季度长江存储 NAND 份额 17%，但三星 24%、SK 海力士更高，国产 DRAM 与 NAND 合计仍仅约韩国五分之一。"
+    },
+    {
+      "date": "2026-11-09",
+      "category": "ai-infra",
+      "title": "浪潮信息发布 CPU 原生液冷整机柜与多模融合开放超节点",
+      "url": "https://www.ieisystem.com/about/news/23147.html",
+      "source": "浪潮信息",
+      "summary": "浪潮信息推出面向 Agent 群智协同的 CPU 原生液冷整机柜，以及多模融合开放超节点 AI 服务器。"
+    },
+    {
+      "date": "2026-11-09",
+      "category": "ai-infra",
+      "title": "中国移动今年开工 3 个吉瓦级智算园区，首创 MT 统一算力计量",
+      "url": "https://m.sohu.com/a/1098570002_128075",
+      "source": "搜狐",
+      "summary": "中国移动今年开工 3 个吉瓦级智算园区、明年再建 2 个，并推出 MT 统一算力计量单位推进 Token 计费。"
+    },
+    {
+      "date": "2026-11-09",
+      "category": "ai-infra",
+      "title": "液冷三季报业绩分化：依米康前三季营收增 46%，Q3 单季 6.37 亿元",
+      "url": "https://caifuhao.eastmoney.com/news/20261103150338933142930",
+      "source": "东方财富",
+      "summary": "液冷产业链三季报分化，依米康精密温控受益 AIDC 建设，前三季营收 15.56 亿元同比增 46.28%。"
+    },
     {
       "date": "2026-11-08",
       "category": "memory-pool",
@@ -1536,70 +1600,6 @@
       "url": "https://www.nea.gov.cn/20261023/975015cebc4c41cfb1171e8c4e5945f4/c.html",
       "source": "国家能源局",
       "summary": "安徽完成算电协同填谷调度测试，合肥智算中心任务3分钟切至淮北，算力随电力灵活迁移。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "ai-infra",
-      "title": "晶科科技成立「AI Infra事业部」，统筹国内外智算业务",
-      "url": "https://news.qq.com/rain/a/20261021A06IK000",
-      "source": "腾讯新闻",
-      "summary": "晶科科技10月20日公告成立AI Infra事业部，统筹智算开发运维与商业化，推进海内外AIDC布局。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "ai-infra",
-      "title": "中信建投：超节点产品密集发布，整机与交换芯片率先受益",
-      "url": "https://36kr.com/newsflashes/4036294232151177",
-      "source": "36氪",
-      "summary": "中信建投称2026年为国产超节点落地元年，行业进入规模化交付，整机、交换芯片与连接器先受益。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "ai-infra",
-      "title": "WEC2026世界算力博览会：联想海神液冷把数据中心PUE降至1.04",
-      "url": "http://news.cyol.com/gb/keji/articles/2026-10/21/content_bm6nL2SdKg.html",
-      "source": "中国青年报",
-      "summary": "WEC2026上联想展示海神液冷方案，覆盖通算、超算、智算与超节点，数据中心PUE可降至1.04。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "ai-infra",
-      "title": "Token需求疯狂裂变，AI Infra却深陷四堵墙",
-      "url": "https://www.163.com/dy/article/L9VEH6QK0511VHB3.html",
-      "source": "网易",
-      "summary": "报道称Token需求爆发下AI Infra面临算力、内存、网络与能效四堵墙，曙光以超节点加超集群应对。"
-    },
-    {
-      "date": "2026-10-24",
-      "category": "memory-pool",
-      "title": "联想肖利民：内存池复用KV缓存，首Token延迟加速12至28倍",
-      "url": "https://timeline.sohu.com/news/mxYYcwlyKq?from=news",
-      "source": "搜狐",
-      "summary": "联想肖利民称以CXL内存池复用KV缓存，首Token延迟可加速12至28倍，并与近存计算互补。"
-    },
-    {
-      "date": "2026-10-24",
-      "category": "memory-pool",
-      "title": "券商：澜起扣非环比高增，智能体拉动CPU与内存互连需求",
-      "url": "https://news.qq.com/rain/a/20261021A03GQU00",
-      "source": "腾讯新闻",
-      "summary": "券商指澜起三季度扣非与互连收入环比高增，智能体推动内存互连需求，CXL池化将贡献新增量。"
-    },
-    {
-      "date": "2026-10-24",
-      "category": "memory-pool",
-      "title": "报道称Marvell或停止后续CXL交换芯片世代，仅维持现有产品",
-      "url": "https://itbrandpulse.com/marvell-may-halt-future-cxl-switch-generations/",
-      "source": "ITBrandPulse",
-      "summary": "报道称Marvell将继续供应现有CXL交换芯片，但不再规划下一代交换产品，内存池化生态添变数。"
-    },
-    {
-      "date": "2026-10-24",
-      "category": "storage",
-      "title": "西部数据：AI真正瓶颈在存储，SSD与HDD订单排至2028年",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-23/doc-iniweywu2622593.shtml",
-      "source": "新浪财经",
-      "summary": "西部数据称AI瓶颈在存储而非GPU，企业级SSD承接热数据、HDD存训练集，订单已排至2028年。"
     }
   ]
 }
