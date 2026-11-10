@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-11-09T08:38:27+08:00",
+  "updatedAt": "2026-11-10T08:38:13+08:00",
   "items": [
+    {
+      "date": "2026-11-10",
+      "category": "memory-pool",
+      "title": "极客网维申请 CXL Mesh 全局内存池内核调度专利，跨节点统一调度池化内存",
+      "url": "https://www.163.com/dy/article/LB1S1LQQ0519QIKK.html",
+      "source": "网易",
+      "summary": "极客网维申请适配 CXL Mesh 硬件的全局内存池操作系统内核调度优化专利，让 OS 跨节点统一调度池化内存。"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "memory-pool",
+      "title": "Google 推出 TPU Sync：快速搬运 KV Cache 与权重，缓存容量突破 HBM 限制",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-tpu-sync-fast-kv-cache-and-weight-transfer-on-tpu",
+      "source": "Google Cloud Blog",
+      "summary": "TPU Sync 在 TPU 间高速传输 KV Cache 与模型权重，当 MoE 权重占满 HBM 时用片外内存承接长上下文。"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "memory-pool",
+      "title": "DDR5 换代最赚钱的不在存储厂：接口与 CXL 互连芯片吃掉架构红利",
+      "url": "https://caifuhao.eastmoney.com/news/20261106191017670951870",
+      "source": "东方财富",
+      "summary": "DDR5 迭代红利集中于内存接口与 CXL 互连芯片，AI 集群内存扩展与池化需求成新增长点。"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "storage",
+      "title": "佰维存储、德明利净利创新高，A 股存储高景气或延续至四季度",
+      "url": "https://wap.eastmoney.com/a/202611103926628716.html",
+      "source": "东方财富",
+      "summary": "佰维存储、德明利等三季度净利创新高，NAND 合约价预计再涨 15% 至 20%，存储景气延续。"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "storage",
+      "title": "原厂长协锁定 AI 服务器存储：铠侠 2027 年 NAND 售罄、三星锁定 2027 年 HBM",
+      "url": "https://timeline.sohu.com/news/IUNy3EDFsd",
+      "source": "搜狐",
+      "summary": "铠侠称 2027 年 NAND 产能全部售罄、三星锁定 2027 年 HBM，多家原厂以长协锁定服务器存储供给。"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "storage",
+      "title": "存储股集体暴跌：美光与闪迪的逻辑变了吗",
+      "url": "https://www.163.com/dy/article/LBAB90EU05314VD3.html",
+      "source": "网易",
+      "summary": "存储股集体大跌引发涨价见顶担忧，但 AI 推理与智能体仍在推高企业级 SSD 容量与读取性能需求。"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "storage",
+      "title": "HBM 撞上 20 层堆叠墙，闪迪以 HBF 的写入短板切入后 HBM 内存层",
+      "url": "https://finance.biggo.com/news/4f76afa8438cc7a5",
+      "source": "BigGo 財經",
+      "summary": "HBM 堆叠层数逼近 20 层上限，高带宽闪存 HBF 以容量与成本优势被视作后 HBM 内存层候选。"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "ai-infra",
+      "title": "TrendForce：AMD 数据中心 AI 收入 2027Q4 首超服务器 CPU，全年营收增逾八成",
+      "url": "https://www.trendforce.com/news/2026/11/04/news-amd-defies-ai-bubble-fears-data-center-ai-revenue-to-top-server-cpus-for-first-time-in-4q-2027-sales-up-80/",
+      "source": "TrendForce",
+      "summary": "苏姿丰称 AMD 2027 年营收将增逾八成，数据中心 AI 收入将于 2027 年四季度首次超过服务器 CPU。"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "ai-infra",
+      "title": "施耐德与英伟达共研 800VDC sidecar，单柜供电能力达 1.2MW",
+      "url": "https://www.dutchdatacenters.nl/en/nieuws/schneider-electric-highlights-innovation-in-800-vdc-power-systems-in-support-of-nvidias-next-generation-gpus/",
+      "source": "Dutch Data Centers",
+      "summary": "施耐德电气展示为英伟达下一代 GPU 开发的 800VDC 旁挂供电方案，单柜可支撑 1.2 兆瓦负载。"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "ai-infra",
+      "title": "谷歌投 170 亿美元建怀俄明州首座数据中心，配套能源与人才培训",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+      "source": "Google Blog",
+      "summary": "谷歌宣布投资 170 亿美元在怀俄明州建设首座数据中心，同步投入能源、水资源与本地人才培训。"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "ai-infra",
+      "title": "特灵科技：以高效绿色温控应对高密算力，中国液冷服务器渗透率 2026 年将达 37%",
+      "url": "http://www.news.cn/tech/20261103/6c5c6249c3c942e5875c7e8f9264da59/c.html",
+      "source": "新华网",
+      "summary": "特灵科技称液冷已从可选变新建高密场景主流，机构预计中国液冷服务器渗透率 2026 年升至 37%。"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "ai-infra",
+      "title": "无问芯穹携手华环电子，推进国产异构算力 AI 基础设施落地",
+      "url": "https://k.sina.com.cn/article_5952915720_162d2490806704uuv4.html?from=tech",
+      "source": "新浪",
+      "summary": "无问芯穹与华环电子合作，推动 AI 基础设施从单一算力转向计算、网络、软件平台与模型服务协同。"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "ai-infra",
+      "title": "WSJ：社区敌意升温，明年最多 35% 美国规划数据中心建设面临风险",
+      "url": "https://www.wsj.com/tech/ai/ai-companies-scramble-to-navigate-a-world-hostile-to-data-centers-c6023a14",
+      "source": "Wall Street Journal",
+      "summary": "WSJ 称美国社区反对加剧，投资人估算明年最多 35% 的规划数据中心建设面临延期或取消风险。"
+    },
     {
       "date": "2026-11-09",
       "category": "memory-pool",
@@ -1496,110 +1600,6 @@
       "url": "https://news.qq.com/rain/a/20261021A06TVC00",
       "source": "腾讯新闻",
       "summary": "多架构算力并行令异构纳管与跨芯片适配成为刚需，第三方AI Infra中间层厂商价值被重估。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "memory-pool",
-      "title": "中兴微「珠峰200」曝光：智算中心RISC-V CPU支持PCIe 6.0与CXL 3",
-      "url": "https://feng.ifeng.com/c/8xM676M2KbX",
-      "source": "凤凰网",
-      "summary": "中兴微智算中心RISC-V CPU「珠峰200」曝光，支持PCIe 6.0与CXL 3，可用CPU侧内存承接显存缺口。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "memory-pool",
-      "title": "Marvell推光子内存模块剑指AI显存瓶颈，计划2027年推出",
-      "url": "https://m.sohu.com/a/1092205893_120333371",
-      "source": "搜狐",
-      "summary": "Marvell计划2027年推出光子内存模块，配合BlueField-4 STX与Enfabrica池化方案缓解AI显存瓶颈。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "storage",
-      "title": "美光称AI将其数据中心SSD开发时间缩短60%",
-      "url": "https://www.tikr.com/zh/blog/micron-says-ai-cut-its-data-center-ssd-development-time-by-60-heres-where-the-stock-could-go-by-2031",
-      "source": "TIKR",
-      "summary": "美光称AI工具已覆盖每位工程员工，最新数据中心SSD开发周期缩短60%，研发效率明显提升。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "storage",
-      "title": "韩媒：三星HBM4良率已接近80%，12层36GB进入量产爬坡",
-      "url": "https://stock.ltn.com.tw/article/jfqrkeurnbde",
-      "source": "自由时报财经",
-      "summary": "韩媒称三星HBM4良率接近80%，12层36GB产品量产爬坡，与SK海力士、美光的竞争升温。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "storage",
-      "title": "千元机存储成本占比接近五成，12GB+256GB采购价涨破300美元",
-      "url": "https://k.sina.com.cn/article_7879848900_1d5acf3c406803cjee.html",
-      "source": "新浪",
-      "summary": "千元机存储成本占比从一成多升至近五成，12GB+256GB组合采购价由约70美元涨破300美元。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "storage",
-      "title": "缺口缩小至5%以内，存储芯片可能真涨不动了",
-      "url": "https://www.163.com/dy/article/LA0IF80N05119JRD.html",
-      "source": "网易",
-      "summary": "报道称DRAM与NAND供需缺口已收窄至5%以内，存储涨价动能减弱，周期见顶讨论升温。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "storage",
-      "title": "产能不足，力积电预计明年逻辑代工报价再涨10%至20%",
-      "url": "https://i.ifeng.com/c/8xRNIUcPE6m",
-      "source": "凤凰网",
-      "summary": "力积电称产能持续紧张，预计明年逻辑代工报价再涨10%至20%，存储与代工涨价压力延续。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "ai-infra",
-      "title": "CNBC民调：63%美国选民反对住家10英里内建AI数据中心",
-      "url": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
-      "source": "CNBC",
-      "summary": "CNBC民调显示63%注册选民反对住家10英里内建AI数据中心，仅13%支持，成中期选举议题。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "ai-infra",
-      "title": "Reuters：AI数据中心带动燃料电池需求爆发",
-      "url": "https://www.reuters.com/business/energy/why-ai-data-centers-are-powering-boom-fuel-cell-demand-2026-10-23/",
-      "source": "Reuters",
-      "summary": "路透称AI数据中心抢电推动燃料电池需求激增，Bloom Energy与FuelCell Energy股价大幅上涨。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "ai-infra",
-      "title": "AI抛售重创数据中心建设链，相关公司中位跌幅达23%",
-      "url": "https://finance.yahoo.com/markets/article/the-ai-sell-off-is-crushing-stocks-of-companies-leading-the-data-center-build-out-175206076.html",
-      "source": "Yahoo Finance",
-      "summary": "自标普10月6日创新高以来，建设与装备AI数据中心的公司股价中位下跌23%，估值明显回调。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "ai-infra",
-      "title": "Forbes：AI数据中心不必超大规模，分布式与模块化可降低社区成本",
-      "url": "https://www.forbes.com/sites/monicasanders/2026/10/22/ai-data-centers-dont-have-to-be-hyperscale-new-designs-could--ease-community-costs/",
-      "source": "Forbes",
-      "summary": "报道称分布式边缘设施、柔性用电与模块化设计可降低AI数据中心对社区的电网与成本压力。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "ai-infra",
-      "title": "字节跳动加量采购国产芯片，互联网大厂竞速自建算力护城河",
-      "url": "https://www.yicai.com/news/103235049.html",
-      "source": "第一财经",
-      "summary": "字节跳动加量采购国产芯片并自建数据中心，反映AI算力需求结构性切换与训推硬件分工。"
-    },
-    {
-      "date": "2026-10-25",
-      "category": "ai-infra",
-      "title": "国家能源局：算电协同为何越来越重要",
-      "url": "https://www.nea.gov.cn/20261023/975015cebc4c41cfb1171e8c4e5945f4/c.html",
-      "source": "国家能源局",
-      "summary": "安徽完成算电协同填谷调度测试，合肥智算中心任务3分钟切至淮北，算力随电力灵活迁移。"
     }
   ]
 }
