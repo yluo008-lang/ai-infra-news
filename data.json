@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-11-11T08:38:19+08:00",
+  "updatedAt": "2026-11-12T08:38:09+08:00",
   "items": [
+    {
+      "date": "2026-11-12",
+      "category": "memory-pool",
+      "title": "Marvell 在 AI Infra Summit 展示端到端互连组合，含 CXL 内存扩展、压缩与池化",
+      "url": "https://www.hpcwire.com/off-the-wire/marvell-to-showcase-end-to-end-ai-data-center-connectivity-portfolio-at-ai-infra-summit-2026/",
+      "source": "HPCwire",
+      "summary": "Marvell 展示覆盖 CXL 内存扩展、压缩、池化与近存加速的互连组合，面向内存密集型 AI 负载。"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "memory-pool",
+      "title": "美光 CXL 全局虚拟地址专利解析：让多主机共享内存池像本地内存一样编址",
+      "url": "https://www.vlsi.kr/en/micron-cxl-global-address-patent-en/",
+      "source": "VLSI Korea",
+      "summary": "美光专利提出 CXL 全局虚拟地址方案，把多主机共享的内存池统一编址，降低池化访问的软件开销。"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "memory-pool",
+      "title": "AMD EPYC Embedded 9006 发布：256 核 Zen 6、PCIe 6，三星配套 CXL 内存模组",
+      "url": "https://www.storagereview.com/news/amd-epyc-embedded-9006-series-256-cores-pcie-gen-6?amp",
+      "source": "StorageReview",
+      "summary": "AMD 推出 256 核 Zen 6 的嵌入式 EPYC 9006，支持 PCIe 6，三星等伙伴配套 CXL 内存模组。"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "storage",
+      "title": "闪迪 11 月大幅上调 NAND 合约价 50%，为年内至少第三次涨价",
+      "url": "https://m.jiemian.com/article/15314648.html",
+      "source": "界面新闻",
+      "summary": "闪迪 11 月将 NAND 合约价上调 50%，为年内至少第三次涨价，AI 服务器需求持续挤压供给。"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "storage",
+      "title": "美银：四季度 DRAM 与 HBM 涨 10%–20%、NAND 涨 8%–13%，超级周期或延续至 2028 年",
+      "url": "https://m.cls.cn/detail/2531464",
+      "source": "财联社",
+      "summary": "美银预计四季度 DRAM 与 HBM 价格环比涨 10%–20%、NAND 涨 8%–13%，存储超级周期延续至 2028 年。"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "storage",
+      "title": "TrendForce：四季度企业级 SSD 合约价续涨 15%–20%，中国市场需求贡献仍有限",
+      "url": "https://www.jwview.com/jingwei/html/m/11-11/696593.shtml",
+      "source": "中新经纬",
+      "summary": "TrendForce 称北美客户追单带动四季度企业级 SSD 合约价再涨 15%–20%，中国市场需求贡献仍有限。"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "storage",
+      "title": "十铨与苹果警告：内存危机 2027 年见顶，供应要到 2028 年末才缓解",
+      "url": "https://www.tweaktown.com/news/114494/teamgroup-and-apple-warn-memory-crisis-could-peak-in-2027-with-no-relief-until-late-2028/index.html",
+      "source": "TweakTown",
+      "summary": "十铨与苹果均警告内存短缺将在 2027 年达到顶峰，新增供给要到 2028 年末才能缓解。"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "storage",
+      "title": "整机库存堆高，部分 PC OEM 调整 2027 年采购，Q4 PC DRAM 合约价涨 13%–18%",
+      "url": "https://www.eet-china.com/mp/a538458.html",
+      "source": "EET-China",
+      "summary": "整机库存走高令部分 PC OEM 调整 2027 年存储采购，四季度 PC DRAM 合约价预计仍季增 13%–18%。"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "storage",
+      "title": "SK 海力士 HBM4 已量产出货，预计 AI 数据中心建设 2030 年前年增约 40%",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MU/pressreleases/8785706/sk-hynix-rides-the-ai-data-center-boom-and-hbm4-ramp-up/",
+      "source": "Globe and Mail",
+      "summary": "SK 海力士三季度启动 HBM4 量产出货，预计 AI 数据中心建设到 2030 年前保持约 40% 年增速。"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "ai-infra",
+      "title": "台达在 SC26 展出「从电网到芯片」冷却方案，覆盖 800VDC 与 ±400VDC 架构",
+      "url": "https://www.prnewswire.com/news-releases/delta-unveils-from-grid-to-chip-cooling-innovations-for-ai-infrastructure-and-for-new-800-vdc-400-vdc-architectures-at-sc26-302935999.html",
+      "source": "PR Newswire",
+      "summary": "台达在 SC26 发布从电网到芯片的液冷与散热方案，专为 800VDC 与 ±400VDC 新型供电架构设计。"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "ai-infra",
+      "title": "超聚变：从 12 个实验室到 10 万个液冷节点，算力基础设施走向全栈自研",
+      "url": "https://www.163.com/dy/article/LBEQQ7TC0550DNB5.html",
+      "source": "网易",
+      "summary": "超聚变累计交付 10 万个液冷节点，围绕算力芯片、高速互连与整机柜承担十余项重点研发任务。"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "ai-infra",
+      "title": "远景 800V 高压直流供电系统在乌兰察布 3GW 星河基地端到端贯通，为全球首套",
+      "url": "http://www.tanjiaoyi.com/article-112880-1.html",
+      "source": "碳交易网",
+      "summary": "远景一体化 800V 高压直流系统在乌兰察布 3GW 星河基地端到端贯通，绿电直连比例将超 80%。"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "ai-infra",
+      "title": "中国移动明年算力投资预计逾千亿元，吉瓦级计算园区将增至 7 个",
+      "url": "https://news.qq.com/rain/a/20261106A0FGL900",
+      "source": "腾讯新闻",
+      "summary": "中国移动称明年算力投资预计逾千亿元，今年新开工 3 个吉瓦级园区，明年再建 2 个、总数达 7 个。"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "ai-infra",
+      "title": "维谛：800VDC 带来电弧、保护与暂态难题，交流电经验难以直接套用",
+      "url": "https://www.vertiv.com/en-us/insights/articles/blog-posts/engineering-problems-that-stand-between-ai-and-800-vdc-power/",
+      "source": "Vertiv",
+      "summary": "维谛指出 800VDC 虽解决机柜密度问题，但电弧行为、保护配合与暂态动态远超交流电经验范围。"
+    },
     {
       "date": "2026-11-11",
       "category": "memory-pool",
@@ -1488,118 +1600,6 @@
       "url": "https://www.blocksandfiles.com/architecture/2026/10/26/breaking-the-kv-cache-memory-wall-using-dynamo-and-liqid-cxl-shared-memory/5305130",
       "source": "Blocks & Files",
       "summary": "实测显示用 Liqid 的 CXL 内存池扩大 DRAM 缓存后，可显著削弱 GPU 服务器上 KV Cache 的内存墙限制。"
-    },
-    {
-      "date": "2026-10-27",
-      "category": "memory-pool",
-      "title": "Linux 7.4 为 CXL 动态容量设备（DCD）铺路，机架级内存池化提速",
-      "url": "https://www.phoronix.com/news/Linux-7.4-CXL",
-      "source": "Phoronix",
-      "summary": "Linux 7.4 加入 CXL DCD 支持，可跨机架多主机共享内存并按负载动态扩容，减少闲置与超配内存。"
-    },
-    {
-      "date": "2026-10-27",
-      "category": "memory-pool",
-      "title": "EE Times：CXL 挂载 MRAM 内存池，破解 AI 存储时延难题",
-      "url": "https://www.eetimes.com/cxl-connected-mram-address-ai-storage-latency/",
-      "source": "EE Times",
-      "summary": "Everspin 用 MRAM 模块搭配 CXL 控制器构建持久内存池，以 CXL.mem 语义提供低时延共享访问。"
-    },
-    {
-      "date": "2026-10-27",
-      "category": "storage",
-      "title": "VLSI：321 层 NAND 竞速，企业级 SSD 已占 NAND 出货 48%",
-      "url": "https://www.vlsi.kr/en/nand-321-layer-china-race-ai-storage-en/",
-      "source": "VLSI Korea",
-      "summary": "NAND 需求中心转向企业级 SSD，2026年二季度占比达48%（去年同期26%），中国厂商加速冲刺321层。"
-    },
-    {
-      "date": "2026-10-27",
-      "category": "storage",
-      "title": "大普微详解 KV Cache 下沉 NVMe SSD：避免重算带来的时延惩罚",
-      "url": "https://www.blocksandfiles.com/flash/2026/10/26/dapustors-kv-cache-nvme-ssd-offload-explainer/5305417",
-      "source": "Blocks & Files",
-      "summary": "大普微发布5页技术说明，阐述把被逐出的 KV Cache 分层写入 NVMe SSD 如何解决重算延迟问题。"
-    },
-    {
-      "date": "2026-10-27",
-      "category": "storage",
-      "title": "三星 HBM 报价比对手高约 25%，HBM4 溢价更明显",
-      "url": "https://www.eeworld.com.cn/manufacture/eic738756.html",
-      "source": "EEWorld",
-      "summary": "业内估算三星 HBM 报价约每Gb 4.5美元，高于美光约4美元，HBM4 溢价幅度更大且客户仍抢单。"
-    },
-    {
-      "date": "2026-10-27",
-      "category": "storage",
-      "title": "韩媒：三星与 SK 海力士将于 2027Q2 起向英伟达量产 8 层 HBM4",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwqarp9269153.shtml",
-      "source": "新浪财经",
-      "summary": "韩媒称两家计划2027年二季度起向英伟达大规模出货8层HBM4，当前主力仍为12层产品。"
-    },
-    {
-      "date": "2026-10-27",
-      "category": "storage",
-      "title": "三星与 SK 海力士三季度利润合计超 180 万亿韩元",
-      "url": "https://news.qq.com/rain/a/20261026A075GW00",
-      "source": "腾讯新闻",
-      "summary": "DRAM 供给紧张推高通用存储价格、HBM 销量放大，三星三季度营业利润同比增近8倍、营收195万亿韩元。"
-    },
-    {
-      "date": "2026-10-27",
-      "category": "storage",
-      "title": "野村：市场对 AI 投资担忧「反应过度」，存储短缺将持续至 2028 年",
-      "url": "https://www.21jingji.com/article/20261026/herald/8b0a9c14e0e3a561931ee785ac5ddbf6.html",
-      "source": "21世纪经济报道",
-      "summary": "野村研报点评存储板块剧烈抛售，认为市场对AI投资前景担忧过度，芯片短缺局面将延续至2028年。"
-    },
-    {
-      "date": "2026-10-27",
-      "category": "storage",
-      "title": "长江存储补短板：企业级 SSD 用 NAND 出货量暴增 800%",
-      "url": "https://www.163.com/dy/article/LA6120K805119JRD.html",
-      "source": "网易",
-      "summary": "长江存储全球NAND份额由二季度14%升至三季度17%居第三，企业级SSD用NAND出货量同比暴增800%。"
-    },
-    {
-      "date": "2026-10-27",
-      "category": "storage",
-      "title": "黄仁勋回应「2029 存储红海论」：出现供应过剩可能性不大",
-      "url": "https://www.esmchina.com/news/14716.html",
-      "source": "国际电子商情",
-      "summary": "黄仁勋在柏林GTC称到2029年内存供应过剩可能性不大，并指数据中心内存需求正扩展到LPDDR等移动规格。"
-    },
-    {
-      "date": "2026-10-27",
-      "category": "ai-infra",
-      "title": "CNBC：Meta 启动 950 亿美元股票发行，为 AI 基建输血",
-      "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-      "source": "CNBC",
-      "summary": "Meta 拟通过950亿美元股票发行募资加码AI，2026至2031年AI资本开支（算力、数据中心、电力）或达7.6万亿美元。"
-    },
-    {
-      "date": "2026-10-27",
-      "category": "ai-infra",
-      "title": "美银：AI 驱动建设潮下，数据中心市场规模 2028 年将破 2 万亿美元",
-      "url": "https://www.techtimes.com/articles/329486/20261026/bank-america-data-center-market-will-top-2-trillion-2028-ai-driven-build.htm",
-      "source": "Tech Times",
-      "summary": "美银预计数据中心市场2028年超2万亿美元，2026年前5个月建设支出已达581亿美元、约为往年四倍。"
-    },
-    {
-      "date": "2026-10-27",
-      "category": "ai-infra",
-      "title": "Google 签下 1GW 虚拟电厂：付钱让用户少用电，好让数据中心多用",
-      "url": "https://www.networkworld.com/article/4239864/google-will-pay-people-to-use-less-electricity-so-its-data-centers-can-use-more-2.html",
-      "source": "Network World",
-      "summary": "Google 以1GW虚拟电厂协议付费引导用户削减用电，为AI数据中心腾出电网容量，凸显电力成首要约束。"
-    },
-    {
-      "date": "2026-10-27",
-      "category": "ai-infra",
-      "title": "钛媒体：AI 数据中心正撞上一堵比芯片更硬的墙",
-      "url": "https://www.tmtpost.com/8173933.html",
-      "source": "钛媒体",
-      "summary": "英伟达GPU积压订单已至2027年、金额达1万亿美元，三家HBM厂2026年产能售罄，缺口仍达50%至60%。"
     }
   ]
 }
