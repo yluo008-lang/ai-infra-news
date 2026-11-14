@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-11-13T08:37:53+08:00",
+  "updatedAt": "2026-11-14T08:38:13+08:00",
   "items": [
+    {
+      "date": "2026-11-14",
+      "category": "memory-pool",
+      "title": "AMD 展示 MEXT：以闪存加 CXL 的预测式内存分层替代部分 DRAM",
+      "url": "https://www.dram.com.cn/page/views.asp?menuid=39&id=86779",
+      "source": "中国存储网",
+      "summary": "AMD 展示 MEXT 方案，以闪存加 CXL 的预测式内存分层把冷数据移出 DRAM，降低服务器总持有成本。"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "memory-pool",
+      "title": "Marvell 在 SC26 展示 Structera CXL 扩展卡与近存计算方案",
+      "url": "https://stockhouse.com/news/press-releases/2026/11/13/marvell-scales-connectivity-to-address-ai-infrastructure-s-next-bottleneck-at",
+      "source": "Stockhouse",
+      "summary": "Marvell 将在 SC26 展出 Structera CXL 扩展卡与近存计算，单控制器支持 9TB DDR4 或 6TB DDR5。"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "memory-pool",
+      "title": "LIQID 与 AMD 在 SC26 演示内存池化，推理负载留在 DRAM",
+      "url": "https://www.liqid.com/blog/liqid-amd-sc26",
+      "source": "LIQID",
+      "summary": "LIQID 与 AMD 在 SC26 演示内存池化，让推理负载留在 DRAM，并按需独立扩展内存容量。"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "memory-pool",
+      "title": "宜鼎推出 64/96/128GB CXL 内存模组，无需 DIMM 插槽即可池化",
+      "url": "https://www.unite.ai/innodisk-targets-ai-servers-with-customizable-ssds-and-cxl-memory/",
+      "source": "Unite.AI",
+      "summary": "宜鼎推出 64/96/128GB CXL 内存模组，无需 DIMM 插槽即可扩容并支持跨服务器内存池化。"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "storage",
+      "title": "华为启动新型磁电存储试商用，瞄准低成本温冷数据",
+      "url": "https://www.trendforce.com/news/2026/11/13/news-huawei-begins-trials-of-new-magnetoelectric-storage-targets-lower-cost-warm-data-solutions/",
+      "source": "TrendForce",
+      "summary": "华为启动新型磁电存储试商用，面向低成本温冷数据，机构预计该市场 2030 年超 200 亿美元。"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "storage",
+      "title": "闪迪：HBF 高带宽闪存进展顺利，已握 8 份 NBM 长期协议",
+      "url": "https://www.cls.cn/detail/2446991",
+      "source": "财联社",
+      "summary": "闪迪称 HBF 高带宽闪存进展顺利、已握 8 份 NBM 长约，将在投资者日披露更多细节。"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "storage",
+      "title": "存储市场冰火两重天：原厂产能卖到 2029 年，消费级却涨不动",
+      "url": "https://feng.ifeng.com/c/8xzfJZQJ1ag",
+      "source": "凤凰网",
+      "summary": "原厂先进产能已被长约锁定至 2029 年，消费级内存却涨不动，存储市场冰火两重天。"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "storage",
+      "title": "闪迪 NAND 合约价单月涨 50%，涨价传导至晶圆扩产与设备采购",
+      "url": "https://www.163.com/dy/article/LBHFM01G05568W0A.html",
+      "source": "网易",
+      "summary": "闪迪 NAND 合约价单月上调 50% 远超预期，涨价正传导至晶圆扩产与半导体设备采购。"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "ai-infra",
+      "title": "液冷重塑 AI 数据中心机架：从细分技术变为基础设施刚需",
+      "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/liquid-cooling-redesigns-data-center-racks-for-ai-workloads/135751080",
+      "source": "ET DataCenters",
+      "summary": "xPU 功耗与机柜密度持续攀升，液冷已从细分技术变为 AI 数据中心的基础设施刚需。"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "ai-infra",
+      "title": "中信建投：2027 年 AI 投资主线转向 ROI 兑现，国产芯片与算力系统受益",
+      "url": "https://feng.ifeng.com/c/8xvnXrXCHG8",
+      "source": "凤凰网",
+      "summary": "中信建投称 2027 年 AI 投资主线转向 ROI 兑现，国产芯片与算力系统迎来机会。"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "ai-infra",
+      "title": "亚湾超算：AIDC 全面采用液冷，效率指标从 PUE 转向每瓦 Token",
+      "url": "https://today.line.me/tw/v3/article/JPyL00J",
+      "source": "LINE TODAY",
+      "summary": "亚湾超算称 AIDC 部署已全面采用液冷，行业效率指标正从 PUE 转向每瓦 Token 数。"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "ai-infra",
+      "title": "美国新增 740 亿美元、6GW 数据中心计划，含亚利桑那 500 亿美元超算园区",
+      "url": "https://www.datacenters.com/news/74-billion-and-6-gw-america-s-ai-data-center-ambitions-reach-a-new-scale",
+      "source": "Datacenters.com",
+      "summary": "美国新增 740 亿美元、6GW 数据中心计划，含亚利桑那 500 亿美元超算园区。"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "ai-infra",
+      "title": "阿里平头哥递表港交所，国产 AI 芯片进入资本化与规模化双拐点",
+      "url": "https://news.qq.com/rain/a/20261111A05C6Z00",
+      "source": "腾讯新闻",
+      "summary": "阿里平头哥递表港交所，国产 AI 芯片同时进入资本化与规模化拐点，利好智算供应链。"
+    },
     {
       "date": "2026-11-13",
       "category": "memory-pool",
@@ -1496,110 +1600,6 @@
       "url": "https://news.qq.com/rain/a/20261023A09WXL00",
       "source": "腾讯新闻",
       "summary": "业界讨论超节点除单柜卡数外的系统能力，沐曦曦景 S600 Lite 以 16 卡轻量形态整机交付。"
-    },
-    {
-      "date": "2026-10-29",
-      "category": "memory-pool",
-      "title": "澜起科技率先试产 CXL 3.2 MXC 内存扩展控制器，已导入三星与 SK 海力士",
-      "url": "https://www.toutiao.com/article/7701504510975279651/",
-      "source": "今日头条",
-      "summary": "澜起率先试产 CXL 3.2 MXC 控制器，速率 64GT/s，已导入三星与 SK 海力士下一代 CXL 产品。"
-    },
-    {
-      "date": "2026-10-29",
-      "category": "memory-pool",
-      "title": "ScaleFlux：AI 真正的约束是「数据墙」而非电力，CXL 池化将复制 HBM 的爆发曲线",
-      "url": "https://app.dealroom.co/news/note/the-data-wall-not-power-is-ai-s-real-constraint-scaleflux-s-cxl-bet",
-      "source": "Dealroom",
-      "summary": "ScaleFlux 称 AI 真正瓶颈是数据墙，跨节点内存池化将在超大规模客户带动下规模落地。"
-    },
-    {
-      "date": "2026-10-29",
-      "category": "storage",
-      "title": "SK 海力士三季度营收首破 100 万亿韩元，判断存储短缺持续至 2030 年",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-28/doc-iniwtxyc9643470.shtml",
-      "source": "新浪财经",
-      "summary": "SK 海力士三季度营收 104.62 万亿韩元同比增 328%，预计供不应求格局延续至 2030 年。"
-    },
-    {
-      "date": "2026-10-29",
-      "category": "storage",
-      "title": "SK 海力士：2029 年前 DRAM 与 HBM 产能全部售罄，已与 14 家主要客户签长约",
-      "url": "https://money.udn.com/money/story/5599/9843342",
-      "source": "经济日报",
-      "summary": "SK 海力士称到 2029 年的 DRAM 与 HBM 产能已售罄，并与 14 家主要客户签订长期合约。"
-    },
-    {
-      "date": "2026-10-29",
-      "category": "storage",
-      "title": "美光宣布跳过 4F² 直接转向 3D DRAM，瞄准物理 AI",
-      "url": "https://www.163.com/dy/article/L9R78OAN0511CPMT.html",
-      "source": "网易",
-      "summary": "美光发布面向物理 AI 的下一代存储路线，跳过 4F² 架构直接推进 3D DRAM。"
-    },
-    {
-      "date": "2026-10-29",
-      "category": "storage",
-      "title": "存储成为 AI 核心基石，产业迎来「历史性拐点」",
-      "url": "https://k.sina.com.cn/article_5952915705_162d248f906703rvzy.html?from=tech",
-      "source": "新浪",
-      "summary": "报道称企业级容量占全部介质出货已达 69%，存储景气周期或延续至 2027 甚至 2028 年。"
-    },
-    {
-      "date": "2026-10-29",
-      "category": "ai-infra",
-      "title": "SiliconANGLE：AI 基础设施硬件已成「系统级」竞争，CXL 内存池化重获生机",
-      "url": "https://siliconangle.com/2026/10/27/ai-infrastructure-hardware-now-systems-game-10-insights-caspa/",
-      "source": "SiliconANGLE",
-      "summary": "CASPA 大会十点洞察指内存墙或五年难解，硬件竞争转向系统级集成，CXL 池化重新受捧。"
-    },
-    {
-      "date": "2026-10-29",
-      "category": "ai-infra",
-      "title": "全球高密算力兴起，液冷厂商同飞股份加速海外突围",
-      "url": "https://finance.sina.com.cn/tjhz/2026-10-28/doc-iniwukpz5992715.shtml",
-      "source": "新浪财经",
-      "summary": "单柜功率密度持续攀升令风冷触顶，同飞股份以液冷温控方案加速拓展海外智算集群市场。"
-    },
-    {
-      "date": "2026-10-29",
-      "category": "ai-infra",
-      "title": "德州仪器布局次世代液冷与边缘 AI 散热，切入 CDU 市场",
-      "url": "https://www.mem.com.tw/%E7%A0%B4%E8%A7%A3ai%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E9%81%8E%E7%86%B1%E5%8D%B1%E6%A9%9F%E3%80%80%E5%BE%B7%E5%B7%9E%E5%84%80%E5%99%A8%E5%B8%83%E5%B1%80%E6%AC%A1%E4%B8%96%E4%BB%A3%E6%B6%B2%E5%86%B7/",
-      "source": "新电子",
-      "summary": "德州仪器以完整冷却液路径方案切入 CDU 与边缘 AI 散热，应对 AI 数据中心过热危机。"
-    },
-    {
-      "date": "2026-10-29",
-      "category": "ai-infra",
-      "title": "暖通三巨头「变频」切入千亿液冷赛道",
-      "url": "https://www.sohu.com/a/1093650080_120988576",
-      "source": "搜狐",
-      "summary": "三大暖通巨头从一次侧冷源切入液冷，把热管理能力平移至算力温控，行业格局生变。"
-    },
-    {
-      "date": "2026-10-29",
-      "category": "ai-infra",
-      "title": "OCP 定义下一代 AI 机柜：2030 年液冷市场约 230 亿美元、800VDC 电源链约 150 亿美元",
-      "url": "https://caifuhao.eastmoney.com/news/20261023175940492225200",
-      "source": "东方财富",
-      "summary": "OCP 新规范明确电源架与柜内 CDU 形态，机构测算 2030 年液冷与 800VDC 电源链价值量。"
-    },
-    {
-      "date": "2026-10-28",
-      "category": "memory-pool",
-      "title": "Marvell 与阿里云深化合作：CXL 内存回收扩展与 Pod 级内存池化",
-      "url": "https://www.163.com/dy/article/LA712L3O0518E0HL.html",
-      "source": "网易",
-      "summary": "Marvell 与阿里云在 CXL 内存回收扩展、光子内存设备 PFMA 等方向联合创新，缓解 AI 内存瓶颈。"
-    },
-    {
-      "date": "2026-10-28",
-      "category": "memory-pool",
-      "title": "EE Times：Astera Labs 更新 Leo 控制器，智能体推理首 Token 时延降 62%",
-      "url": "https://www.eetimes.com/astera-labs-leo-controller-update-targets-memory-constraints/",
-      "source": "EE Times",
-      "summary": "Astera Labs 扩展 Leo X 与 Leo 2 系列 CXL 控制器，多轮智能体测试首 Token 时延降 62%、吞吐升 22%。"
     }
   ]
 }
