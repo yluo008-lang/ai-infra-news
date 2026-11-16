@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-11-15T08:38:37+08:00",
+  "updatedAt": "2026-11-16T08:38:05+08:00",
   "items": [
+    {
+      "date": "2026-11-16",
+      "category": "memory-pool",
+      "title": "山西证券给予澜起科技买入评级：DDR5 放量叠加 CXL 内存池化打开空间",
+      "url": "https://feng.ifeng.com/c/8xw7cR4TqkO",
+      "source": "凤凰网",
+      "summary": "山西证券给予澜起科技买入评级，看好 DDR5 高子代放量与 CXL 内存池化带来的长期成长空间。"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "memory-pool",
+      "title": "AI 基础设施瓶颈从原始算力转向内存协调",
+      "url": "https://www.indexbox.io/zh-hans/blog/ai-infrastructure-moves-beyond-raw-compute-to-a-memory-coordination-challenge/",
+      "source": "IndexBox",
+      "summary": "AI 基础设施竞争已从原始算力转向内存协调，长上下文与多用户并发推高系统级设计难度。"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "storage",
+      "title": "SK 海力士 HBM4 良率突破 70%，量产爬坡加速迎战三星与美光",
+      "url": "https://tech.ifeng.com/c/8xzgPGTnTln",
+      "source": "凤凰科技",
+      "summary": "SK 海力士 HBM4 良率已突破 70%，量产爬坡明显加速，与三星、美光的竞争进一步升温。"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "storage",
+      "title": "美银：DRAM 涨价逻辑未破，NAND 现货端已悄然松动",
+      "url": "https://www.163.com/dy/article/LBPPROSJ05198NMR.html",
+      "source": "网易",
+      "summary": "美银称 DRAM 涨价逻辑尚未被打破，而 NAND 现货价已明显松动，存储行情由齐涨转向分化。"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "storage",
+      "title": "存储芯片新一轮涨价来袭，NAND 均价环比涨幅收窄至约 20%",
+      "url": "https://feng.ifeng.com/c/8xyVx2vEJG6",
+      "source": "凤凰网",
+      "summary": "存储芯片开启新一轮涨价，但 NAND 均价环比涨幅已从约 70% 收窄至约 20%。"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "ai-infra",
+      "title": "IDC：上半年中国 AI 加速器市场英伟达份额降至 34%，华为升至 28%",
+      "url": "https://wap.eastmoney.com/a/202611123929358323.html",
+      "source": "东方财富",
+      "summary": "IDC 数据显示上半年中国数据中心 AI 加速器市场英伟达份额降至 34%，华为接近翻倍至 28%。"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "ai-infra",
+      "title": "家电三巨头的计算中心新对决：液冷温控成第二增长曲线",
+      "url": "https://www.chinaventure.com.cn/news/113-20261112-394016.html",
+      "source": "投中网",
+      "summary": "美的、格力、海尔以液冷与温控切入智算中心，中金预计今年全球液冷市场达 1147 亿元。"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "ai-infra",
+      "title": "力致 2.5MW 冷却液分配装置进入英伟达白名单，兼容 800VDC",
+      "url": "https://today.line.me/tw/v3/article/ZapMq1L",
+      "source": "LINE TODAY",
+      "summary": "力致 2.5MW CDU 入列英伟达白名单，同步推出 800VDC 机型，数据中心最快 2027 年改用该架构。"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "ai-infra",
+      "title": "英伟达推进液冷前置预装，Vera Rubin 支持 45℃ 冷却液进水",
+      "url": "http://www.chinaiol.com/News/Content/202611/21_69524.html",
+      "source": "中国空调制冷网",
+      "summary": "英伟达推进液冷前置预装，Vera Rubin 可支持 45℃ 进水，改变数据中心制冷用水与换热模式。"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "ai-infra",
+      "title": "AI 工厂时代：800VDC 与液冷重塑数据中心电力与散热",
+      "url": "https://inews.hket.com/article/4213083/AI%E6%87%89%E7%94%A8%EF%BD%9CAI%E5%B7%A5%E5%BB%A0%E6%99%82%E4%BB%A3%E4%BE%86%E8%87%A8%E3%80%80%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E8%BF%8E%E4%BE%86%E9%9B%BB%E5%8A%9B%E8%88%87%E6%95%A3%E7%86%B1%E9%9D%A9%E5%91%BD",
+      "source": "香港经济日报",
+      "summary": "800VDC 大幅降低转换损耗与铜用量，配合液冷与带电抽换，重塑 AI 工厂供配电与散热架构。"
+    },
     {
       "date": "2026-11-15",
       "category": "memory-pool",
@@ -1520,86 +1600,6 @@
       "url": "https://finance.biggo.com.tw/news/69273bea-1ca9-4306-8b05-dab04f47a896",
       "source": "BigGo 財經",
       "summary": "SK 海力士终止对 Solidigm 美国 IPO 的审查，原拟引入外部资本扩产，权衡融资成本后选择暂缓上市。"
-    },
-    {
-      "date": "2026-10-31",
-      "category": "storage",
-      "title": "三星公布 zHBM 3D 内存路线图：性能约为 HBM5 的 8 倍、密度超 10 倍",
-      "url": "https://timeline.sohu.com/news/gED8a65cid",
-      "source": "搜狐",
-      "summary": "三星 zHBM 把高带宽内存垂直堆叠在 AI 加速器之上，接口性能约 HBM5 的 8 倍、密度超 10 倍、能效提升 3 倍。"
-    },
-    {
-      "date": "2026-10-31",
-      "category": "storage",
-      "title": "基辛格押注新 AI 内存 Z2RAM：绕开 EUV，用标准后段工艺堆叠",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-28/doc-iniwuefy3375816.shtml",
-      "source": "新浪财经",
-      "summary": "前英特尔 CEO 基辛格投资 Z2RAM，以标准 BEOL 工艺单次曝光形成多层存储，无需 EUV 即可提升密度并降本。"
-    },
-    {
-      "date": "2026-10-31",
-      "category": "storage",
-      "title": "机构：全球存储芯片市场 2035 年将达 7394.6 亿美元，年复合增速 12.5%",
-      "url": "https://www.openpr.com/news/4671836/memory-chip-market-forecast-to-reach-us-739-46-billion-as-ai",
-      "source": "OpenPR",
-      "summary": "机构预计全球存储芯片市场由 2025 年 2270 亿美元增至 2035 年 7394.6 亿美元，AI 服务器为主要驱动力。"
-    },
-    {
-      "date": "2026-10-31",
-      "category": "ai-infra",
-      "title": "全国首个昇腾 950DT 1024 卡液冷超节点集群在武汉上线",
-      "url": "https://m.sohu.com/a/1095083234_161105",
-      "source": "搜狐",
-      "summary": "湖北科投建设的昇腾 Atlas 950 SuperPoD 集群点亮，单集群 1024 张 NPU、FP8 算力 1EFLOPS，计算柜与互联柜全液冷。"
-    },
-    {
-      "date": "2026-10-31",
-      "category": "ai-infra",
-      "title": "宝德计算中标京东鲲鹏超节点服务器项目，订单超 7 亿元",
-      "url": "http://www.xinhuanet.com/info/20261029/87d6630943a44400916c944b0d8e0441/c.html",
-      "source": "新华网",
-      "summary": "宝德计算中标京东鲲鹏超节点服务器项目，金额超 7 亿元，标志鲲鹏超节点进入规模化商用交付阶段。"
-    },
-    {
-      "date": "2026-10-31",
-      "category": "ai-infra",
-      "title": "百度智能云重构 AI 云基础设施，百舸算力平台升级为「智能工厂」",
-      "url": "https://news.zol.com.cn/1266/12667732.html",
-      "source": "ZOL",
-      "summary": "百度智能云称 AI Infra 层面算力平台已升级为「智能工厂」，以百舸支撑产业智能体在企业场景落地。"
-    },
-    {
-      "date": "2026-10-31",
-      "category": "ai-infra",
-      "title": "Enphase 固态变压器潜在客户突破 50 家，为云厂商开发 800VDC 供电",
-      "url": "https://news.cnyes.com/news/id/6639369",
-      "source": "钜亨网",
-      "summary": "Enphase 固态变压器意向客户已超 50 家，正为云端大厂开发 800VDC 高压直流架构，减少多级变换损耗。"
-    },
-    {
-      "date": "2026-10-31",
-      "category": "ai-infra",
-      "title": "Design News：AI 数据中心同时撞上散热与电力两堵墙，液冷成必选项",
-      "url": "https://www.designnews.com/electronics/ai-data-centers-struggle-with-cooling-and-power-issues-amidst-community-concerns",
-      "source": "Design News",
-      "summary": "报道称 AI 机柜功率攀升迫使运营商从风冷转向复杂液冷系统，同时电力接入与社区反对成为新约束。"
-    },
-    {
-      "date": "2026-10-30",
-      "category": "memory-pool",
-      "title": "TechInsights：CXL 内存池化已进入量产，三星与 SK 海力士争的是 KV Cache 而非容量",
-      "url": "https://www.techinsights.com/behind-the-headlines/cxl-memory-pooling-samsung-sk-hynix",
-      "source": "TechInsights",
-      "summary": "CXL 池化已进入量产，三星与 SK 海力士在 OCP 2026 围绕智能体 AI 的 KV Cache 展开竞赛。"
-    },
-    {
-      "date": "2026-10-30",
-      "category": "memory-pool",
-      "title": "机构：CXL 内存市场 2035 年将达 164.6 亿美元，年复合增速 29.2%",
-      "url": "https://www.openpr.com/news/4676789/cxl-memory-market-to-reach-us-16-46-billion-by-2035-as-ai",
-      "source": "OpenPR",
-      "summary": "机构预计全球 CXL 内存市场由 2025 年 12.7 亿美元增至 2035 年 164.6 亿美元，年复合增速 29.2%。"
     }
   ]
 }
