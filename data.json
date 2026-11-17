@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-11-16T08:38:05+08:00",
+  "updatedAt": "2026-11-17T08:38:05+08:00",
   "items": [
+    {
+      "date": "2026-11-17",
+      "category": "memory-pool",
+      "title": "Penguin 推出业界首款硅光 HBM 级内存设备，打破 GPU 内存墙",
+      "url": "https://ir.penguinsolutions.com/news/news-details/2026/Penguin-Solutions-Unveils-Industrys-First-Photonics-Based-HBM-Class-Memory-Appliance-to-Break-the-GPU-Memory-Wall-for-Agentic-AI/default.aspx",
+      "source": "Penguin Solutions",
+      "summary": "Penguin 在 SC26 发布首款硅光 HBM 级内存设备，单机最高 16TB DDR5 与 576GB HBM3E，可让 GPU 共享远端内存。"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "memory-pool",
+      "title": "Marvell 联手 Penguin：CXL 内存扩展加光子池化破解 AI 内存瓶颈",
+      "url": "https://www.marvell.com/company/newsroom/marvell-penguin-solutions-data-center-ai-memory-inference.html",
+      "source": "Marvell",
+      "summary": "Marvell 与 Penguin 合作推出 CXL 内存扩展与光子池化方案，可把存量 DDR4 回收组成共享内存池支撑推理。"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "memory-pool",
+      "title": "佰维推出 CXL 2.0 DRAM 模组与 245TB QLC SSD，进军 AMD EPYC 生态",
+      "url": "https://m.163.com/dy/article/LBS97EI60511CPVM.html",
+      "source": "网易",
+      "summary": "佰维发布 CXL 2.0 DRAM 模组，带宽 32GB/s 支持内存池化，并推出 245TB QLC SSD 接入 AMD EPYC 生态。"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "memory-pool",
+      "title": "澜起科技率先试产 CXL 3.2 内存扩展控制器，三季度业绩加速",
+      "url": "https://news.futunn.com/hk/post/1004323942",
+      "source": "富途资讯",
+      "summary": "澜起科技率先试产 CXL 3.2 内存扩展控制器，可将存量 DDR4 接入服务器作扩展内存，三季度业绩加速。"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "storage",
+      "title": "花旗：传统 DRAM 紧缺延续至明年，HBM 与 NAND 景气分化",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3669040",
+      "source": "英为财情",
+      "summary": "花旗专家称 AI 结构性紧缺主导存储市场，四季度 NAND 合约价环比涨 15-20%，企业级 SSD 涨幅超 20%。"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "storage",
+      "title": "SK 海力士五年投 10 亿美元扩产，三星 HBM4 产量拟增两倍",
+      "url": "https://caifuhao.eastmoney.com/news/20261116183710498686170",
+      "source": "东方财富",
+      "summary": "SK 海力士计划五年投 10 亿美元扩产，三星明年 HBM4 产量至少翻两倍，美光 HBM 产能亦翻番。"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "storage",
+      "title": "铠侠与闪迪联盟的 5 万亿日元投资陷两难",
+      "url": "https://cn.nikkei.com/columnviewpoint/column/64495-2026-11-13-05-00-22.html",
+      "source": "日经中文网",
+      "summary": "日经报道铠侠与闪迪联盟 5 万亿日元扩产投资陷入两难，涨价红利与需求不确定性并存。"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "storage",
+      "title": "存储涨价潮延续但需求分化，10 月 DRAM 合约均价环比涨 5.77%",
+      "url": "https://i.ifeng.com/c/8xzwujh7hKe",
+      "source": "凤凰网",
+      "summary": "集邦咨询称 10 月通用 DRAM 合约均价环比涨 5.77%，涨价潮仍在延续，但不同产品需求明显分化。"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "storage",
+      "title": "涨价潮蔓延至影像行业，大疆 11 月 18 日起上调部分产品售价",
+      "url": "https://news.qq.com/rain/a/20261113A09WN300",
+      "source": "腾讯新闻",
+      "summary": "受存储等关键零部件成本大涨影响，大疆宣布 11 月 18 日起上调部分产品建议零售价。"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "ai-infra",
+      "title": "Aviemore 推出无轴封磁力泵平台，面向 800VDC 液冷 AI 数据中心",
+      "url": "https://www.streetinsider.com/PRNewswire/Aviemore+Launches+Seal-Less+Magnetic+Coupling+Pump+Platform+for+Liquid-Cooled+AI+Data+Centers/27351949.html",
+      "source": "StreetInsider",
+      "summary": "Aviemore 发布无轴封磁力耦合泵平台，集成驱动、面向 800VDC 液冷 AI 数据中心，在弗吉尼亚本土制造。"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "ai-infra",
+      "title": "SC26 存储、内存与连接新品集中发布，指向下一代 AI 基础设施",
+      "url": "https://www.scientific-computing.com/article/sc26-storage-memory-connectivity-announcements",
+      "source": "Scientific Computing",
+      "summary": "SC26 上 HPC 与 AI 厂商集中发布存储、内存与连接新技术，多款产品面向未来基础设施部署。"
+    },
     {
       "date": "2026-11-16",
       "category": "memory-pool",
@@ -1512,94 +1600,6 @@
       "url": "https://caifuhao.eastmoney.com/news/20261029121833746520900",
       "source": "东方财富",
       "summary": "HBF 以 8 至 16 倍 HBM 容量切入推理存储层级，Bernstein 认为其与 HBM 互补，并打开 NAND 新增需求。"
-    },
-    {
-      "date": "2026-11-01",
-      "category": "storage",
-      "title": "闪迪财报超预期却隔夜暴跌：NAND 现货与合约价走势背离引发周期分歧",
-      "url": "https://www.163.com/dy/article/LAJ173A805198NMR.html",
-      "source": "网易",
-      "summary": "闪迪财报超预期仍隔夜大跌，NAND 现货价先行回落、合约价滞后调整，市场对存储周期见顶分歧加大。"
-    },
-    {
-      "date": "2026-11-01",
-      "category": "storage",
-      "title": "渠道 SSD 报价下调、合约市场仍坚挺，存储行情出现分化",
-      "url": "https://finance.eastmoney.com/a/202610313917523682.html",
-      "source": "东方财富",
-      "summary": "渠道 SSD 报价松动，但 NAND 合约价预计环比仍涨 10% 至 15%，AI 推理与数据中心需求继续托底。"
-    },
-    {
-      "date": "2026-11-01",
-      "category": "ai-infra",
-      "title": "集微咨询《2026 年液冷行业研究报告》：中国液冷数据中心 2028 年将破 470 亿元",
-      "url": "https://www.163.com/dy/article/LA3F3BVI0511RIVP.html",
-      "source": "网易",
-      "summary": "集微咨询称中国液冷数据中心规模 2026 年达 232.5 亿元、2028 年破 470 亿元，国产供应链随华为链放量。"
-    },
-    {
-      "date": "2026-11-01",
-      "category": "ai-infra",
-      "title": "广正达液冷发布全系产品：UQD 快接头、冷板、Manifold、CDU 到液冷机柜",
-      "url": "https://m.sohu.com/a/1095121957_100053070",
-      "source": "搜狐",
-      "summary": "广正达液冷发布 UQD 快接头、液冷板、Manifold、CDU 与液冷机柜全栈方案，全面切入 AI 算力散热。"
-    },
-    {
-      "date": "2026-11-01",
-      "category": "ai-infra",
-      "title": "万国数据等一批智算项目在和林格尔密集开工，呼和浩特算力达 16.5 万 P",
-      "url": "https://www.163.com/dy/article/LA5LT1PV05346936.html",
-      "source": "网易",
-      "summary": "和林格尔新区多个头部智算项目开工，万国数据园区投资 51 亿元、规划 3.7 万 P，当地智算占比超 97%。"
-    },
-    {
-      "date": "2026-11-01",
-      "category": "ai-infra",
-      "title": "三个月 12 家 Token 中心扎堆长三角：算力租赁近满租，重复建设争议再起",
-      "url": "https://news.qq.com/rain/a/20261028A03O5200",
-      "source": "腾讯新闻",
-      "summary": "长三角三月内落地 12 家 Token 中心，部分算力中心出租率近 99%，业内争论是否已现重复建设。"
-    },
-    {
-      "date": "2026-11-01",
-      "category": "ai-infra",
-      "title": "黄仁勋：十年 AI 性能提升约 100 万倍，下一步是个人智能体与 AI 工厂",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwvwra6120946.shtml",
-      "source": "新浪财经",
-      "summary": "黄仁勋称十年间 AI 性能提升约百万倍、远超摩尔定律，源于系统级协同，并押注个人智能体与 AI 工厂。"
-    },
-    {
-      "date": "2026-10-31",
-      "category": "memory-pool",
-      "title": "澜起科技前三季度净利增 98%，CXL 3.2 MXC 芯片已进入试产",
-      "url": "https://m.sohu.com/a/1094965950_120000222",
-      "source": "搜狐",
-      "summary": "澜起前三季度净利润同比增 98%，互连芯片进入兑现期，CXL 3.2 MXC 已于 7 月试产并面向内存扩展与池化。"
-    },
-    {
-      "date": "2026-10-31",
-      "category": "memory-pool",
-      "title": "OCP 2026 回顾：CXL 内存扩展控制器支持四主机共享与后量子加密",
-      "url": "https://nextgeninfra.io/2026-ocp-global-summit/",
-      "source": "NextGenInfra",
-      "summary": "OCP 2026 展出新一代 CXL 内存扩展控制器，单卡可连四台主机并内置后量子加密，提升机架级内存利用率。"
-    },
-    {
-      "date": "2026-10-31",
-      "category": "storage",
-      "title": "SK 海力士：四季度 HBM4 出货与营收将超 HBM3E，321 层 NAND 占本土产能过半",
-      "url": "https://feng.ifeng.com/c/8xaLwSzsIjO",
-      "source": "凤凰网",
-      "summary": "SK 海力士预计存储短缺持续至 2030 年并加快扩产，四季度 HBM4 出货超 HBM3E，321 层 NAND 占本土产能逾五成。"
-    },
-    {
-      "date": "2026-10-31",
-      "category": "storage",
-      "title": "SK 海力士搁置 Solidigm 赴美 IPO，NAND 扩产风险消退",
-      "url": "https://finance.biggo.com.tw/news/69273bea-1ca9-4306-8b05-dab04f47a896",
-      "source": "BigGo 財經",
-      "summary": "SK 海力士终止对 Solidigm 美国 IPO 的审查，原拟引入外部资本扩产，权衡融资成本后选择暂缓上市。"
     }
   ]
 }
