@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-11-17T08:38:05+08:00",
+  "updatedAt": "2026-11-18T08:38:04+08:00",
   "items": [
+    {
+      "date": "2026-11-18",
+      "category": "memory-pool",
+      "title": "美光博客：Abaco 在机架内建高容量共享内存池，就近服务 AI 工厂",
+      "url": "https://www.micron.com/about/blog/applications/ai/abaco-breaking-the-memory-wall-for-hpc-and-ai",
+      "source": "Micron",
+      "summary": "美光介绍 Abaco 机架内共享内存池方案，把大容量内存贴近算力，面向 AI 工厂、Neocloud 与 HPC 集群。"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "memory-pool",
+      "title": "韩国 TheElec：Marvell 与 Penguin 的内存池可跨机架扩至 PB 级",
+      "url": "https://www.thelec.net/news/articleView.html?idxno=15690",
+      "source": "TheElec",
+      "summary": "双方以 CXL 加光互连做跨机架分布式内存池，可扩展至 PB 级容量，面向智能体 AI 的长上下文负载。"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "memory-pool",
+      "title": "西安紫光国芯获存储扩展装置专利，可外挂扩展服务器内存容量",
+      "url": "https://www.163.com/dy/article/LBP4ABNH05568W0A.html",
+      "source": "网易",
+      "summary": "西安紫光国芯取得存储扩展装置专利，通过外挂装置突破服务器内存插槽限制，提升单机内存容量。"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "storage",
+      "title": "美银：NAND 现货两周暴跌 20%，存储涨价潮现裂痕",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-17/doc-iniyznqi2260273.shtml",
+      "source": "新浪财经",
+      "summary": "512Gb NAND 晶圆现货跌至 14.30 美元，单周跌 12%、较上季跌 32%，PC 与手机厂砍配置是主因。"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "storage",
+      "title": "兆易创新回应涨价持续性：NAND 现货领先合约，2027Q1 或再跌 5%–10%",
+      "url": "https://m.sohu.com/a/1102889516_122014422",
+      "source": "搜狐",
+      "summary": "兆易创新称 NAND 现货价领先合约约一个季度，2027 年一季度合约谈判或推迟，价格可能先于 DRAM 见顶。"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "storage",
+      "title": "花旗内存专家：传统 DRAM 紧缺延续至明年，HBM 短缺最严峻",
+      "url": "https://feng.ifeng.com/c/8y6FWxuclT2",
+      "source": "凤凰网",
+      "summary": "花旗称四季度 DRAM 合约价环比涨 10%–15%，HBM 价格由 600 美元升至 1300 美元，高点在 2027 年二三季度。"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "storage",
+      "title": "市调：通用 NAND 走弱但 AI 数据中心企业级 SSD 需求仍强",
+      "url": "https://www.nstechnology.com/insights/commodity-nand-weakens-essd-demand-ai-data-center/",
+      "source": "NS Technology",
+      "summary": "Counterpoint 数据显示企业级 SSD 已占 NAND 需求的 48%，北美 AI 数据中心项目继续支撑 eSSD 出货。"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "storage",
+      "title": "SK 海力士与美光 DRAM 限供案在美进入实体审理",
+      "url": "https://www.digitaltoday.co.kr/cn/view/126424/samsung-electronics-sk-hynix-dram-price-fixing-lawsuit-us-proceeds",
+      "source": "Digital Today",
+      "summary": "美国法院允许针对三星、SK 海力士与美光的 DRAM 价格操纵诉讼进入实体审理，涉及合约价连年暴涨。"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "ai-infra",
+      "title": "FT：亚马逊 170 亿美元俄亥俄 AI 数据中心计划遭选民反噬",
+      "url": "https://www.ft.com/content/e95adad4-b428-477d-9716-92172bbd199f",
+      "source": "Financial Times",
+      "summary": "俄亥俄州选民通过限制开发的议案，亚马逊 170 亿美元 AI 数据中心枢纽计划面临延期或缩减风险。"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "ai-infra",
+      "title": "中兴通讯建成巴基斯坦最大智算中心，冷板液冷加预制电力模块",
+      "url": "https://hk.finance.yahoo.com/news/aidc-%E8%83%BD%E6%95%88%E4%B9%8B%E6%88%B0-%E4%B8%AD%E8%88%88%E9%80%9A%E8%A8%8A%E5%A6%82%E4%BD%95%E9%87%8D%E6%A7%8B%E7%AE%97%E5%8A%9B-%E8%83%BD%E9%87%8F%E5%BA%95%E5%BA%A7-005700961.html",
+      "source": "Yahoo 財經",
+      "summary": "中兴通讯携手伙伴建成喀喇昆仑一号数据中心，用冷板液冷、预制电力模块与智能母线重构算力能量底座。"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "ai-infra",
+      "title": "台达电推 800VDC 预制电源系统，德州 PCS 产线 2027 年底投产",
+      "url": "https://news.cnyes.com/news/id/6661771",
+      "source": "钜亨网",
+      "summary": "台达电将以固态变压器为核心的 800VDC 直流电源方案推向美国市场，并扩产德州电力转换系统产线。"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "ai-infra",
+      "title": "维谛扩展 800VDC 电源产品线：60kW 模块化、200kW 电池柜效率 98%",
+      "url": "https://hk.investing.com/news/company-news/article-93CH-1763039",
+      "source": "英为财情",
+      "summary": "维谛 800VDC 系统以 60kW 为单位扩展、支持 27 个热插拔电源模块，配 200kW 电池柜备电。"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "ai-infra",
+      "title": "36 氪：老旧机房改造跟不上供电，AI 算力建设进入「垃圾时间」了吗",
+      "url": "https://www.36kr.com/p/4072322824705161",
+      "source": "36氪",
+      "summary": "报道称大量老旧数据中心只能小改上马，电路与供电跟不上机柜功率，算力扩张从拼规模转向拼电力。"
+    },
     {
       "date": "2026-11-17",
       "category": "memory-pool",
@@ -1496,110 +1600,6 @@
       "url": "https://www.163.com/dy/article/LABM4R1505318XR6.html",
       "source": "网易",
       "summary": "SK 海力士三季度净利同比增 216%、内存订单排到 2029 年，并在研发 SALT-KV 软件与 CXL 混合内存 CMM-Hybrid。"
-    },
-    {
-      "date": "2026-11-02",
-      "category": "storage",
-      "title": "机构：服务器存储规模 2029 年将达 2503 亿元，占比升至 25.4%",
-      "url": "https://k.sina.com.cn/article_5953740931_162dee083067043heu.html",
-      "source": "新浪",
-      "summary": "机构预计服务器存储规模由 2025 年 810 亿元增至 2029 年 2503 亿元，云端训练推理拉动 HBM、DDR5 与企业级 SSD。"
-    },
-    {
-      "date": "2026-11-02",
-      "category": "storage",
-      "title": "HBM 景气外溢：香农芯创前三季营收破千亿，企业级 SSD 成涨价主力",
-      "url": "https://m.caizhongshe.cn/news-1665789673573027776.html",
-      "source": "中财社",
-      "summary": "北美云厂商扩大采购，AI 需求从 HBM 扩散至服务器内存与企业级 SSD，香农芯创前三季营收突破千亿元。"
-    },
-    {
-      "date": "2026-11-02",
-      "category": "storage",
-      "title": "铠侠、闪迪业绩爆发，存储芯片公司集体「赚翻」",
-      "url": "https://news.qq.com/rain/a/20261031A068NP00",
-      "source": "腾讯新闻",
-      "summary": "铠侠与闪迪业绩爆发，DRAM、NAND 价格维持高位，服务器需求扩大推动存储行业盈利显著增长。"
-    },
-    {
-      "date": "2026-11-02",
-      "category": "storage",
-      "title": "存储产业进入利润兑现期：AI 需求托底，消费端承压引发分化",
-      "url": "https://www.163.com/dy/article/LADC70K90519A6FP.html",
-      "source": "网易",
-      "summary": "三季度 DRAM 合约价环比涨 13% 至 18%、NAND 涨 10% 至 15%，AI 需求托底但消费端承压，行业分化加剧。"
-    },
-    {
-      "date": "2026-11-02",
-      "category": "storage",
-      "title": "机构：四季度 NAND 售价环比仍涨 15%–20%，DRAM 涨 10%–15%",
-      "url": "https://caifuhao.eastmoney.com/news/20261026092207909468900",
-      "source": "东方财富",
-      "summary": "测算显示四季度 NAND 均价环比涨 15% 至 20%、DRAM 涨 10% 至 15%，NAND 涨幅处于近 15 年第 90 至 95 百分位。"
-    },
-    {
-      "date": "2026-11-02",
-      "category": "ai-infra",
-      "title": "经济参考报：呼和浩特万卡智算集群达 2 万卡，冷板液冷把 PUE 压到 1.15",
-      "url": "http://jjckb.xinhuanet.com/20261030/1fa21e8453a444b8aec8450a4f346598/c.html",
-      "source": "经济参考报",
-      "summary": "中国移动呼和浩特节点部署约 2 万张 AI 加速卡，线性加速比超 90%，冷板液冷使 PUE 低至 1.15。"
-    },
-    {
-      "date": "2026-11-02",
-      "category": "ai-infra",
-      "title": "液冷从「可选项」变「必选项」：神州数码预中标中国移动 116.66 亿元超节点集采",
-      "url": "https://caifuhao.eastmoney.com/news/20261030141820943507160",
-      "source": "东方财富",
-      "summary": "昇腾 950DT 千卡液冷超节点落地武汉，神州数码预中标中国移动 116.66 亿元超节点集采，液冷成 AIDC 刚需。"
-    },
-    {
-      "date": "2026-11-02",
-      "category": "ai-infra",
-      "title": "上海证券：高功耗算力时代，液冷重构智算绿色底座",
-      "url": "https://hk.investing.com/news/stock-market-news/article-1725367",
-      "source": "英为财情",
-      "summary": "中国移动呼和浩特部署 2390 台液冷服务器、PUE 低至 1.15，中国电信韶关 30 个国产超节点 90 天完成上线。"
-    },
-    {
-      "date": "2026-11-02",
-      "category": "ai-infra",
-      "title": "华硕推出液冷英伟达 HGX Rubin NVL8 服务器，四季度上市",
-      "url": "https://refindustry.com/news/asus-introduces-liquid-cooled-nvidia-hgx-rubin-servers-for-ai-data-centers/",
-      "source": "Refindustry",
-      "summary": "华硕发布混合与全液冷两款 HGX Rubin NVL8 服务器，支持 800VDC 供电与整机柜交付，四季度上市。"
-    },
-    {
-      "date": "2026-11-02",
-      "category": "ai-infra",
-      "title": "800VDC 正在重塑 AI 数据中心供电：机柜功率迈向兆瓦级",
-      "url": "https://www.environmentenergyleader.com/articles/45331-why-800v-dc-is-reshaping-ai-data-center-power",
-      "source": "Environment Energy Leader",
-      "summary": "AI 机柜功率向兆瓦级攀升，800VDC 高压直流成为必选项，可显著降低电流与多级变换损耗。"
-    },
-    {
-      "date": "2026-11-01",
-      "category": "memory-pool",
-      "title": "2TB CXL 内存模块亮相，Meta 已在数百万台服务器用 CXL 扩展并复用退役 DDR4",
-      "url": "https://timeline.sohu.com/news/zt1yrvpax7?from=news",
-      "source": "搜狐",
-      "summary": "2TB CXL 内存模块亮相，Meta 已在数百万台服务器以 CXL 扩展内存、复用退役 DDR4 模块降本。"
-    },
-    {
-      "date": "2026-11-01",
-      "category": "memory-pool",
-      "title": "三星与 AMD 在 OCP 2026 联合演示 CXL 内存池化，用 CMM-D 模组跨节点共享内存",
-      "url": "https://www.163.com/dy/article/LAJLERG405383ZUN.html",
-      "source": "网易",
-      "summary": "三星与 AMD 在 OCP 2026 联合演示 CXL 内存池化，以 CMM-D 模组让内存跨计算节点灵活扩展共享。"
-    },
-    {
-      "date": "2026-11-01",
-      "category": "storage",
-      "title": "Bernstein：HBF 以 8–16 倍 HBM 容量切入推理层级，与 HBM 互补而非替代",
-      "url": "https://caifuhao.eastmoney.com/news/20261029121833746520900",
-      "source": "东方财富",
-      "summary": "HBF 以 8 至 16 倍 HBM 容量切入推理存储层级，Bernstein 认为其与 HBM 互补，并打开 NAND 新增需求。"
     }
   ]
 }
