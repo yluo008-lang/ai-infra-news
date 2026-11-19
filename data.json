@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-11-18T08:38:04+08:00",
+  "updatedAt": "2026-11-19T08:38:31+08:00",
   "items": [
+    {
+      "date": "2026-11-19",
+      "category": "memory-pool",
+      "title": "英特尔韩国与 Panmnesia 签 CXL 合作，用融合交换机做机架级内存池",
+      "url": "https://finance.biggo.com/news/7c0142ec-f51a-43d7-81b1-588dc3fd920c",
+      "source": "BigGo 財經",
+      "summary": "双方将验证 PCIe 6.4-CXL 3.2 融合交换机与至强服务器互操作，并研究机架级 CXL Fabric 内存共享架构。"
+    },
+    {
+      "date": "2026-11-19",
+      "category": "storage",
+      "title": "迈威尔：定制 HBM 要按系统设计，基底芯片可释放加速器裸片面积",
+      "url": "https://www.marvell.com/blogs/custom-hbm-system-base-die-power-thermals-ai-accelerators.html",
+      "source": "Marvell",
+      "summary": "HBM 已占加速器面积约 30%、成本过半，把逻辑移入定制基底芯片可腾出算力面积，但须与封装散热协同设计。"
+    },
+    {
+      "date": "2026-11-19",
+      "category": "ai-infra",
+      "title": "润泽廊坊 B-1 智算中心完成 GCC-OAII AIDC 认证挂牌",
+      "url": "https://tech.ifeng.com/c/8y9EcjawqGX",
+      "source": "凤凰科技",
+      "summary": "单体 200MW 智算中心获 AIDC 认证，按最高 300kW 单柜液冷规范建设，首批 14 座园区年内认证规模超 1.5GW。"
+    },
+    {
+      "date": "2026-11-19",
+      "category": "storage",
+      "title": "AIC 在 SC26 展出支持 DPU 的 JBOF 与高密度 AI 存储",
+      "url": "https://money.udn.com/money/story/123828/9885344",
+      "source": "經濟日報",
+      "summary": "迎 30 周年的 AIC 展出 GPU 服务器、支持 DPU 的 JBOF 与高密度 AI 存储，瞄准推理上下文超出 GPU 内存的痛点。"
+    },
+    {
+      "date": "2026-11-19",
+      "category": "storage",
+      "title": "存储涨价进入结构分化：企业级坚挺，10 月通用 MLC NAND 均价止涨",
+      "url": "https://caifuhao.eastmoney.com/news/20261117164151917337940",
+      "source": "东方财富",
+      "summary": "四季度企业级 SSD 合约价续涨 15%–20%，但 10 月通用 MLC NAND 均价环比持平，结束长达 21 个月的连涨。"
+    },
+    {
+      "date": "2026-11-19",
+      "category": "ai-infra",
+      "title": "SpaceX 投逾 740 亿美元建德州与亚利桑那两座 AI 超算园区",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262308638-spacex-post-ipo-ai-investment-740-billion-ai-supercomputer-tradingkey",
+      "source": "TradingKey",
+      "summary": "Starbase 园区投资超 240 亿美元并自建天然气发电，亚利桑那 Cochise 县约 500 亿美元项目仍待地方政府审批。"
+    },
+    {
+      "date": "2026-11-19",
+      "category": "ai-infra",
+      "title": "36 氪：KV Cache 外溢催热 DPU，CXL 内存池吞吐达 RDMA 基线 2.1 倍",
+      "url": "https://www.36kr.com/p/4075200113153157",
+      "source": "36氪",
+      "summary": "百万 Token 上下文让 KV Cache 动辄数十 GB，DPU 承接数据搬运；北大测试显示 CXL 内存池吞吐为 RDMA 的 2.1 倍。"
+    },
     {
       "date": "2026-11-18",
       "category": "memory-pool",
@@ -1544,62 +1600,6 @@
       "url": "https://news.qq.com/rain/a/20261029A0E4C800",
       "source": "腾讯新闻",
       "summary": "AI 芯片级金刚石热沉片启动 50 万片招标，金刚石铜复合材料已在超算节点使模组传热能力提升 80%。"
-    },
-    {
-      "date": "2026-11-03",
-      "category": "ai-infra",
-      "title": "海尔数据中心 Q3 销售额翻近 5 倍，暖通巨头抢食液冷",
-      "url": "https://www.163.com/dy/article/LANQ2H3A055619ZC.html",
-      "source": "网易",
-      "summary": "海尔数据中心三季度销售额同比增长近 5 倍，暖通厂商借磁悬浮冷源与 CDU 切入液冷市场。"
-    },
-    {
-      "date": "2026-11-03",
-      "category": "ai-infra",
-      "title": "神州数码三季报双增，KunTai PoD 2000 A5 液冷超节点支持 1024 卡与 256TB 统一内存",
-      "url": "https://m.sohu.com/a/1093541688_115433",
-      "source": "搜狐",
-      "summary": "神州数码营收净利双增，KunTai PoD 2000 A5 液冷超节点支持 1024 卡集群与 256TB 统一内存编址。"
-    },
-    {
-      "date": "2026-11-03",
-      "category": "ai-infra",
-      "title": "东元联手鸿海展出 40 呎货柜 MDC，基于英伟达 DSX POD 一站交付",
-      "url": "https://udn.com/news/story/7240/9847795",
-      "source": "联合报",
-      "summary": "东元与鸿海在科技日展出基于 NVIDIA DSX POD 的 40 呎货柜模块化数据中心，整合算力、冷却与电力。"
-    },
-    {
-      "date": "2026-11-03",
-      "category": "ai-infra",
-      "title": "微软 Azure 营收飙 48%，全年 1700 亿美元扩产押注 800VDC 与液冷",
-      "url": "https://today.line.me/tw/v3/article/3N17xEW",
-      "source": "LINE TODAY",
-      "summary": "微软 Azure 营收同比增长 48%，全年资本开支达 1700 亿美元，以自研芯片、800VDC 与液冷压低单位算力成本。"
-    },
-    {
-      "date": "2026-11-02",
-      "category": "memory-pool",
-      "title": "OCP 2026 定调存储分层：HBM 守带宽、HBF 补容量、CXL 做池化、SSD 当底座",
-      "url": "https://news.qq.com/rain/a/20261031A0CRKG00",
-      "source": "腾讯新闻",
-      "summary": "OCP 2026 显示存储竞争转向分层系统，SK 海力士 MARS 机架级 CXL 内存池让首 Token 延迟降 3.5 至 5.2 倍。"
-    },
-    {
-      "date": "2026-11-02",
-      "category": "memory-pool",
-      "title": "一文读懂 PCIe 与 CXL：从 GPU 互连到跨机内存池化",
-      "url": "https://caifuhao.eastmoney.com/news/20261029191209753730490",
-      "source": "东方财富",
-      "summary": "CXL 让多台机器共享同一内存池实现存算解耦，澜起 CXL 3.2 控制器已试产并导入三星、SK 海力士下一代产品。"
-    },
-    {
-      "date": "2026-11-02",
-      "category": "memory-pool",
-      "title": "SK 海力士净利同比增 216%，正开发 SALT-KV 软件与 CXL 混合内存 CMM-Hybrid",
-      "url": "https://www.163.com/dy/article/LABM4R1505318XR6.html",
-      "source": "网易",
-      "summary": "SK 海力士三季度净利同比增 216%、内存订单排到 2029 年，并在研发 SALT-KV 软件与 CXL 混合内存 CMM-Hybrid。"
     }
   ]
 }
