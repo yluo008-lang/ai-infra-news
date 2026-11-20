@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-11-19T08:38:31+08:00",
+  "updatedAt": "2026-11-20T08:37:56+08:00",
   "items": [
+    {
+      "date": "2026-11-20",
+      "category": "memory-pool",
+      "title": "Intel Diamond Rapids 首现 SC26 实机，与至强 6 共享 256GB CXL 内存池",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-diamond-rapids-shows-signs-of-life-in-sc26-demo-running-live-server-next-gen-xeon-7-cpu-breaks-cover-at-partner-booths-no-showcase-from-intel",
+      "source": "Tom's Hardware",
+      "summary": "澜起 MXC 控制器把至强 6 与下一代 Diamond Rapids 接到同一 CXL 内存池，容量 256GB，英特尔未公布最终规格。"
+    },
+    {
+      "date": "2026-11-20",
+      "category": "memory-pool",
+      "title": "晶铁计算再申 CXL 专利：池化内存加光互联降低 MoE 远端权重访问延迟",
+      "url": "https://www.163.com/dy/article/LC46B24S0519QIKK.html",
+      "source": "网易",
+      "summary": "新专利公开「内存访问方法及基于 CXL 池化内存与光互联的推理系统」，避免远端专家权重访问阻塞推理关键路径。"
+    },
+    {
+      "date": "2026-11-20",
+      "category": "memory-pool",
+      "title": "LIQID 推单租户 AI 内存基础设施服务，单机最高 160TB CXL 内存",
+      "url": "https://www.liqid.com/press-releases/liqid-announces-liqid-as-a-service",
+      "source": "LIQID",
+      "summary": "托管式服务单台服务器最高 30 张 GPU 与 160TB CXL 内存，专供单租户独占，计划 2027 年一季度商用。"
+    },
+    {
+      "date": "2026-11-20",
+      "category": "storage",
+      "title": "国内首款 PCIe Gen6 企业级 SSD 量产，重算 AI 存储经济账",
+      "url": "https://www.163.com/dy/article/LC44FHMM05118O92.html",
+      "source": "网易",
+      "summary": "报道称 GPU 算力两年增约 3 倍而 HBM 带宽仅增 2 倍，Gen6 SSD 以更高带宽和能效缓解算力等数据。"
+    },
+    {
+      "date": "2026-11-20",
+      "category": "storage",
+      "title": "TrendForce：2027 年 NAND 供需反转，一季度起合约价转跌",
+      "url": "https://finance.ifeng.com/c/8yBH5bemT3O",
+      "source": "凤凰财经",
+      "summary": "集邦咨询预估 2027 年全球 NAND 供给高速增长、供需反转，一季度起合约价转向下跌且跌幅或逐季扩大。"
+    },
+    {
+      "date": "2026-11-20",
+      "category": "storage",
+      "title": "机构：HBM4 明年价格最高涨 2.7 倍，占 DRAM 营收近三成",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281671",
+      "source": "BusinessKorea",
+      "summary": "HBM4 因制造工艺更复杂，明年价格最高涨至 2.7 倍，HBM 占 DRAM 营收比重 2027 年将逼近 30%。"
+    },
+    {
+      "date": "2026-11-20",
+      "category": "storage",
+      "title": "慧荣在 SC26 推面向智能体的企业级存储平台，QLC 容量达 256TB",
+      "url": "https://www.embedded.com/silicon-motion-unveils-enterprise-storage-platforms-for-agentic-ai/",
+      "source": "Embedded.com",
+      "summary": "新平台以 PCIe Gen5/Gen6 控制器配 QLC 做到 256TB，主打 AI 推理的 KV Cache 卸载与可预期延迟。"
+    },
+    {
+      "date": "2026-11-20",
+      "category": "ai-infra",
+      "title": "全国一体化算力网建设观察：国产智算中心加速卡近满载",
+      "url": "https://news.ifeng.com/c/8y9rnIiO3Gl",
+      "source": "凤凰网",
+      "summary": "无锡国产智算中心 2000 张加速卡几乎满载运行，模块化液冷机柜支撑长三角模型与应用团队算力需求。"
+    },
+    {
+      "date": "2026-11-20",
+      "category": "ai-infra",
+      "title": "AI 数据中心扩张入深水区：电力、液冷与储能接棒算力基建",
+      "url": "https://news.qq.com/rain/a/20261116A07SND00",
+      "source": "腾讯新闻",
+      "summary": "智算机房功率密度抬升后，液冷从可选项变为规划阶段必定的散热路线，运营商集采转向部件级可靠性。"
+    },
     {
       "date": "2026-11-19",
       "category": "memory-pool",
@@ -1528,78 +1600,6 @@
       "url": "https://www.sohu.com/a/1096269151_114984",
       "source": "搜狐",
       "summary": "澜起称 AI 推理与 Agent 推高服务器 CPU 及内存互连需求，四季度互连芯片在手订单达 25 至 27.9 亿元。"
-    },
-    {
-      "date": "2026-11-03",
-      "category": "memory-pool",
-      "title": "本土 HBM 溢价与分级内存策略：CXL 把低成本 LPDDR 拉进内存池",
-      "url": "https://www.eefocus.com/article/2110486.html",
-      "source": "与非网",
-      "summary": "分析称国产 HBM 存在溢价，Marvell 等以 CXL 将低成本 LPDDR 接入内存池，构建分级内存以降低成本。"
-    },
-    {
-      "date": "2026-11-03",
-      "category": "storage",
-      "title": "EE Times：铠侠量产 332 层 NAND，接口速率 4.8Gb/s 反超三大原厂",
-      "url": "https://www.eetimes.com/kioxia-all-set-to-raise-the-nand-game-in-ai-ssds/",
-      "source": "EE Times",
-      "summary": "铠侠推出 332 层 NAND、接口速率 4.8Gb/s，在 AI SSD 的堆叠层数与接口速度上反超三星、美光与 SK 海力士。"
-    },
-    {
-      "date": "2026-11-03",
-      "category": "storage",
-      "title": "Blocks & Files：三星存储「几乎印钞」，单季营收逼近 200 万亿韩元",
-      "url": "https://www.blocksandfiles.com/flash/2026/10/30/samsung-memory-virtually-printing-money/5306688",
-      "source": "Blocks & Files",
-      "summary": "HBM、DRAM 与 NAND 需求齐涨，三星三季度营收逼近 200 万亿韩元，存储业务利润率大幅抬升。"
-    },
-    {
-      "date": "2026-11-03",
-      "category": "storage",
-      "title": "三星 HBM 份额从 20% 追至 33%，2 纳米代工订单目标同比翻倍",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwywts5471248.shtml",
-      "source": "新浪财经",
-      "summary": "三星 HBM4 量产后份额由一季度约 20% 升至二季度 33%，并计划把 2 纳米代工订单做到同比翻倍。"
-    },
-    {
-      "date": "2026-11-03",
-      "category": "storage",
-      "title": "迎超级周期：AI 重构存储万亿赛道，国产厂商多强并立",
-      "url": "https://www.163.com/dy/article/LAND8F8M0511CSHM.html",
-      "source": "网易",
-      "summary": "AI 拉动 HBM 与企业级 SSD，存储从算力附属升级为独立基础设施，国产厂商形成多强并立格局。"
-    },
-    {
-      "date": "2026-11-03",
-      "category": "storage",
-      "title": "三星警告：AI 存储短缺 2027 年可能进一步加剧",
-      "url": "https://em360tech.com/tech-articles/samsung-ai-chip-shortages-2027",
-      "source": "EM360Tech",
-      "summary": "三星称即便半导体利润创纪录，AI 内存供不应求在 2027 年仍可能恶化，并继续加码资本开支。"
-    },
-    {
-      "date": "2026-11-03",
-      "category": "ai-infra",
-      "title": "从 OCP 2026 看 AI 基础设施脉络：Scale-Across 网络、800VDC 与液冷一体化",
-      "url": "https://www.163.com/dy/article/LANJ2CSH0511CPMT.html",
-      "source": "网易",
-      "summary": "OCP 2026 显示集群网络走向 Scale-Across、800VDC 成供电共识，1MW 机架必须与液冷一体设计。"
-    },
-    {
-      "date": "2026-11-03",
-      "category": "ai-infra",
-      "title": "液冷一日多消息：北京存量机房 PUE 压至 1.35，维谛订单翻倍、LG 冷却订单破 3 万亿韩元",
-      "url": "https://caifuhao.eastmoney.com/news/20261029152108238450170",
-      "source": "东方财富",
-      "summary": "北京要求存量数据中心 PUE 降至 1.35 以下，维谛订单翻倍、LG 冷却累计订单超 3 万亿韩元。"
-    },
-    {
-      "date": "2026-11-03",
-      "category": "ai-infra",
-      "title": "50 万片金刚石热沉片订单引爆散热，AI 芯片级材料加速落地",
-      "url": "https://news.qq.com/rain/a/20261029A0E4C800",
-      "source": "腾讯新闻",
-      "summary": "AI 芯片级金刚石热沉片启动 50 万片招标，金刚石铜复合材料已在超算节点使模组传热能力提升 80%。"
     }
   ]
 }
