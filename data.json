@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-11-20T08:37:56+08:00",
+  "updatedAt": "2026-11-21T08:38:06+08:00",
   "items": [
+    {
+      "date": "2026-11-21",
+      "category": "memory-pool",
+      "title": "SK 海力士在 SC26 展出内存中心机架 MARS 与 CXL 池化内存",
+      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition/",
+      "source": "SK hynix Newsroom",
+      "summary": "SK 海力士展示内存中心 AI 服务器机架 MARS、CXL 池化与算力型内存，以及 KV Cache 与 Token 共享技术。"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "memory-pool",
+      "title": "跨机柜内存池化浮出水面：Marvell 与 Penguin 合作背后的 AI 基建竞赛",
+      "url": "https://news.qq.com/rain/a/20261117A0ASSK00",
+      "source": "腾讯新闻",
+      "summary": "Marvell 控制器加 Penguin 扩展卡把退役 DDR4 变成跨机柜可调度内存池，缓解 AI 内存容量缺口。"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "memory-pool",
+      "title": "Penguin 推 PCIe 5.0 CXL 扩展卡：8 条 DDR4 RDIMM、单卡扩容 1TB",
+      "url": "https://news.qq.com/rain/a/20261117A0DD2C00",
+      "source": "腾讯新闻",
+      "summary": "该卡基于 CXL 2.0 与 Marvell Structera X 控制器，最大支持 8 条 DDR4 RDIMM，单卡注入 1TB 内存。"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "storage",
+      "title": "Supermicro 出货首批全闪存储服务器，PCIe Gen6 面向 AI 训推",
+      "url": "https://www.prnewswire.com/news-releases/supermicro-ships-first-all-flash-storage-servers-delivering-pcie-gen-6-performance-and-broad-software-defined-storage-support-for-ai-training-and-inference-302943275.html",
+      "source": "PR Newswire",
+      "summary": "Supermicro 首批全闪存储服务器以 PCIe Gen6 性能配软件定义存储，面向 AI 训练与推理的数据管道。"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "storage",
+      "title": "Hammerspace 发布统一数据系统，把服务器本地 NVMe 汇成 Tier 0 共享层",
+      "url": "https://www.hpcwire.com/2026/11/17/hammerspace-debuts-unified-data-system-launches-storage-hardware/",
+      "source": "HPCwire",
+      "summary": "Hammerspace 以 DPU 驱动闪存把集群内本地 NVMe 汇成共享 Tier 0，直接承载推理 KV Cache。"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "storage",
+      "title": "TRUSTA 在 SC26 升级 AI Scaler：vLLM 把 KV Cache 卸载到 SSD",
+      "url": "https://www.prnewswire.com/news-releases/trusta-debuts-at-supercomputing-2026-with-upgraded-ai-scaler-toolkit-302943335.html",
+      "source": "PR Newswire",
+      "summary": "TRUSTA 升级 AI Scaler 工具包，支持 vLLM 将 KV Cache 卸载到企业级 SSD，降低推理显存压力。"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "storage",
+      "title": "TrendForce：HBM4 每 Gb 涨至 3–5.5 美元，明年涨幅超 100%",
+      "url": "https://caifuhao.eastmoney.com/news/20261118222757378866230",
+      "source": "东方财富",
+      "summary": "集邦预计 HBM4 每 Gb 价格从今年 2.05 美元升至明年 3–5.5 美元，HBM4E 报价已超 5 美元。"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "storage",
+      "title": "集邦：全球闪存合约价累涨 350%–400%，企业级与消费级走势分化",
+      "url": "http://finance.eastmoney.com/a/202611213936561581.html",
+      "source": "东方财富",
+      "summary": "集邦分析师称闪存合约价自 2025 年 9 月起累涨约 350%–400%，厂商正把握结构性分化机会。"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "storage",
+      "title": "存储在线：HBM 产能被锁死、PCIe 5.0 触顶，PCIe 6.0 成 AI 训推必然选择",
+      "url": "https://www.dostor.com/p/101625.html",
+      "source": "存储在线",
+      "summary": "HBM 供给已被产能锁死，PCIe 5.0 SSD 在并发拉满时触瓶颈，PCIe 6.0 成为 AI 训推的现实解。"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "ai-infra",
+      "title": "2026 世界计算大会：2030 年智算占算力规模超九成",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=20261120d89aa9e291c54aeda0c01e198632fa7d",
+      "source": "新华网",
+      "summary": "大会预测 2030 年智算占总算力比重超 90%，算力交易额增至 1200–1300 亿元，用算成本降一半。"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "ai-infra",
+      "title": "中国算力发展十大趋势发布：超节点走向舞台中央",
+      "url": "https://m.sohu.com/a/1104280571_123753/",
+      "source": "搜狐",
+      "summary": "中国电子信息产业发展研究院发布十大趋势，称超节点加速落地、单节点纵向规模持续扩张。"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "ai-infra",
+      "title": "2026 算力互联网大会在武汉召开，国家算力互联互通行业节点名单发布",
+      "url": "https://hb.chinadaily.com.cn/a/202611/20/WS6affb27ce4b0e14252fcc544.html",
+      "source": "中国日报",
+      "summary": "大会发布国家算力互联互通行业节点培育名单，湖北区域节点同步启动，千余名代表参会。"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "ai-infra",
+      "title": "SMM 大会：源储荷多方协同，才是智算中心供能的可持续路径",
+      "url": "https://wap.eastmoney.com/a/202611213936558255.html",
+      "source": "东方财富",
+      "summary": "与会嘉宾认为单一设备无法解决智算中心供能难题，源、储、荷协同才构成算电协同商业模式。"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "ai-infra",
+      "title": "nVent 在 SC26 展出液冷与 800VDC 方案，累计部署超 4GW 液冷",
+      "url": "https://www.everythingpe.com/news/details/12387-nvent-showcases-liquid-cooling-and-800-v-dc-power-solutions-for-ai-data-centers-at-sc26",
+      "source": "Everything PE",
+      "summary": "nVent 称已部署超过 4GW 液冷容量，并在 SC26 展出面向下一代 AI 基础设施的 800VDC 供电方案。"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "ai-infra",
+      "title": "华创证券：超节点沿差异化路线推进产品化，互联域向多机柜延伸",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3673530",
+      "source": "英为财情",
+      "summary": "华创证券称超节点以高带宽低时延互联耦合并行芯片，高速互联域从单机扩至整机柜乃至多机柜。"
+    },
     {
       "date": "2026-11-20",
       "category": "memory-pool",
@@ -1480,126 +1600,6 @@
       "url": "https://pytorch.org/blog/kvcache-meetup-korea-2026-event-recap/",
       "source": "PyTorch",
       "summary": "PyTorch 韩国 KV Cache 聚会展示 DRAM 与 SSD 组合的 CXL 内存池，按热度分层存放推理缓存。"
-    },
-    {
-      "date": "2026-11-04",
-      "category": "memory-pool",
-      "title": "TechInsights：内存进入「超周期」，CXL 池化已量产，竞争转向 KV Cache",
-      "url": "https://www.techinsights.com/blog/insight-beyond-supercycle-enter-memory-hypercycle",
-      "source": "TechInsights",
-      "summary": "TechInsights 称内存进入超周期，CXL 池化已量产，三星与 SK 海力士转向争夺智能体 KV Cache。"
-    },
-    {
-      "date": "2026-11-04",
-      "category": "storage",
-      "title": "首款 HBF 流片：闪迪称高带宽闪存明年交付首批样品",
-      "url": "https://timeline.sohu.com/news/B9ZM02il4O?from=news",
-      "source": "搜狐",
-      "summary": "闪迪披露首款 HBF 高带宽闪存已完成流片，预计明年向客户交付样品，为 AI 推理补上容量层。"
-    },
-    {
-      "date": "2026-11-04",
-      "category": "storage",
-      "title": "Blocks & Files：同一座工厂，铠侠与闪迪在 HBF 路线上分道扬镳",
-      "url": "https://www.blocksandfiles.com/flash/2026/11/03/same-fab-different-paths-kioxia-and-sandisk-diverge-on-hbf/5307156",
-      "source": "Blocks & Files",
-      "summary": "同厂制造的铠侠与闪迪对 HBF 路线出现分歧，标准化推进与量产节奏各走一边。"
-    },
-    {
-      "date": "2026-11-04",
-      "category": "storage",
-      "title": "汇丰：存储行情远未结束，「周期见顶论」为时过早",
-      "url": "http://k.sina.com.cn/article_5952915720_162d2490806704goyk.html",
-      "source": "新浪",
-      "summary": "汇丰称 AI 服务器持续拉动 NAND 与企业级 SSD，存储行情远未结束，周期见顶论为时过早。"
-    },
-    {
-      "date": "2026-11-04",
-      "category": "storage",
-      "title": "经济日报：当 AI「吞噬」内存，涨价已从合约价传导到整机 BOM",
-      "url": "http://m.ce.cn/bwzg/202611/t20261101_3279010.shtml",
-      "source": "中国经济网",
-      "summary": "HBM 挤占通用产能，内存合约价几近翻番、闪存涨超五成，涨价已传导至手机与 PC 整机成本。"
-    },
-    {
-      "date": "2026-11-04",
-      "category": "storage",
-      "title": "深夜大涨、机构集体上调目标价：NAND 合约价环比涨 18%–23%",
-      "url": "https://www.163.com/dy/article/LADGF8PM0556299F.html",
-      "source": "网易",
-      "summary": "NAND 合约价环比上涨 18% 至 23%，机构判断周期拉长并集体上调目标价，A 股存储板块再度走强。"
-    },
-    {
-      "date": "2026-11-04",
-      "category": "storage",
-      "title": "36 氪：存储股为何成了最先被抛弃的 AI 资产",
-      "url": "http://www.36kr.com/p/4053977240802180",
-      "source": "36氪",
-      "summary": "10 月 MLC、TLC、QLC 三类 NAND 晶圆合约价全部停涨，存储股从 AI 核心资产变为最先被抛售的板块。"
-    },
-    {
-      "date": "2026-11-04",
-      "category": "ai-infra",
-      "title": "TrendForce：AI 网络互连产值 2027 年将达 2798 亿美元，价值重心转向 Scale-up",
-      "url": "https://news.qq.com/rain/a/20261102A09SSH00",
-      "source": "腾讯新闻",
-      "summary": "TrendForce 预计全球 AI 网络与互连产值从 2024 年 379 亿美元增至 2027 年 2798 亿美元，Scale-up 成重心。"
-    },
-    {
-      "date": "2026-11-04",
-      "category": "ai-infra",
-      "title": "CNBC：Brookfield 拟投 270 亿美元，在英国旧电站建 1GW 以上 AI 数据中心",
-      "url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
-      "source": "CNBC",
-      "summary": "Brookfield 计划在英国约克郡旧电站地块建设逾 1GW 的 AI 数据中心，潜在投资约 270 亿美元。"
-    },
-    {
-      "date": "2026-11-04",
-      "category": "ai-infra",
-      "title": "SpaceX 加速布局 AI 基础设施：Colossus 领跑，马斯克押注轨道算力",
-      "url": "https://news.futunn.com/post/1003062093/spacex-spcxus-accelerates-its-expansion-into-ai-infrastructure-colossus-leads",
-      "source": "富途牛牛",
-      "summary": "SpaceX 加速切入 AI 基础设施，马斯克预计 2028 年底轨道部署算力可能超过新增地面算力。"
-    },
-    {
-      "date": "2026-11-04",
-      "category": "ai-infra",
-      "title": "液冷链现金流拉警报：曙光数创三季度经营现金流净额 -4.71 亿元",
-      "url": "https://money.udn.com/money/story/5603/9843396",
-      "source": "经济日报",
-      "summary": "AI 带动液冷成必选项，但曙光数创三季度经营活动现金流净额为 -4.71 亿元，回款压力引发担忧。"
-    },
-    {
-      "date": "2026-11-04",
-      "category": "ai-infra",
-      "title": "光宝科 AI 营收占比破 30%，800VDC 电源柜本季出样机",
-      "url": "https://www.ftnn.com.tw/news/591557",
-      "source": "FTNN",
-      "summary": "光宝科今年 AI 营收占比突破 30%，800VDC 电源柜本季出样，液冷散热与高速光通讯同步推进。"
-    },
-    {
-      "date": "2026-11-04",
-      "category": "ai-infra",
-      "title": "社区反对升温，OpenAI 考虑把数据中心改称「AI 算力园区」",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue",
-      "source": "Tom's Hardware",
-      "summary": "面对社区反对，OpenAI 拟将数据中心更名为「AI 算力园区」，并以社区协议争取项目落地。"
-    },
-    {
-      "date": "2026-11-03",
-      "category": "memory-pool",
-      "title": "EE Times：Marvell 发布内存解耦组合，从 SSD 主控到机架级 CXL 池化",
-      "url": "https://www.eetimes.com/marvell-targets-ai-bottlenecks-with-memory-disaggregation-portfolio/",
-      "source": "EE Times",
-      "summary": "Marvell 推出 Bravera SC6 主控、Structera CXL 与光子互连三层方案，Meta 已用 CXL 扩展复用 DDR4。"
-    },
-    {
-      "date": "2026-11-03",
-      "category": "memory-pool",
-      "title": "澜起科技获 324 家机构调研：四季度互连芯片在手订单 25–27.9 亿元",
-      "url": "https://www.sohu.com/a/1096269151_114984",
-      "source": "搜狐",
-      "summary": "澜起称 AI 推理与 Agent 推高服务器 CPU 及内存互连需求，四季度互连芯片在手订单达 25 至 27.9 亿元。"
     }
   ]
 }
