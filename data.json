@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-11-21T08:38:06+08:00",
+  "updatedAt": "2026-11-22T08:38:19+08:00",
   "items": [
+    {
+      "category": "memory-pool",
+      "title": "GPU 吃不饱、CPU 忙不过来：DPU 能否抢班夺权",
+      "url": "https://news.qq.com/rain/a/20261118A0FU1T00",
+      "source": "腾讯新闻",
+      "summary": "KV Cache 外溢让 DPU 承接数据搬运，CXL 内存池化成为 SSD 卸载之外的第二条扩容路径。",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "memory-pool",
+      "title": "Marvell 与 Penguin 拟推 CXL 优先的光子内存设备，池化 DDR5 与 HBM3E",
+      "url": "https://www.supercomputing.news/emerging/marvell-penguin-photonic-memory-appliance-cxl-first",
+      "source": "Supercomputing News",
+      "summary": "双方计划推出机架式内存设备，用光链路池化 DDR5 与 HBM3E，供多机架共享 PB 级容量。",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "storage",
+      "title": "美光警告 2027 年供需更紧，NAND 晶圆现货单月跌 24%",
+      "url": "https://m.cnyes.com/news/id/6668800",
+      "source": "钜亨网",
+      "summary": "美光称 2027 年供需更紧，但 512Gb TLC NAND 晶圆现货单月跌 24%，传统 NAND 未享 HBM 式紧缺。",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "storage",
+      "title": "存储的热潮，还能持续多久？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34490528",
+      "source": "澎湃新闻",
+      "summary": "HBM 紧缺叠加 DRAM、NAND 大涨，原厂利润快速修复，市场关注这轮存储热潮还能走多远。",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "storage",
+      "title": "SK 海力士 HBM4 扩产加速，明年上半年投产、月增逾 2 万片",
+      "url": "https://statementdog.com/news/18080",
+      "source": "StatementDog",
+      "summary": "SK 海力士追加 HBM4 设备投资，清州 P&T6 工厂明年上半年投产，月增逾 2 万片晶圆。",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "storage",
+      "title": "群联推出本地化 AI 数据平台，打包私有推理与企业级存储",
+      "url": "https://www.afp.com/en/external-communications/phison-ai-data-platform-brings-sovereign-premises-generative-bi-enterprises",
+      "source": "AFP",
+      "summary": "群联推出本地化 AI 数据平台，把私有推理、生成式 BI 与企业级持久存储打包成一体机。",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "storage",
+      "title": "韩媒回顾中国存储「双长」十年：NAND 追近，HBM 仍有差距",
+      "url": "https://china.hani.co.kr/arti/international/17683.html",
+      "source": "韩民族日报",
+      "summary": "韩媒回顾中国双长十年：长江存储 NAND 份额提升，长鑫 HBM3E 仍处低良率小批量阶段。",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "ai-infra",
+      "title": "维谛推出 PowerDirect 9000：单套 1.5MW 把 480V 交流转 800VDC",
+      "url": "https://www.prnewswire.com/news-releases/vertiv-advances-800-vdc-power-architectures-to-support-growing-ai-data-center-demands-302942192.html",
+      "source": "PR Newswire",
+      "summary": "维谛推出 PowerDirect 9000，单套 1.5MW 把 480V 交流转 800V 直流，整排整舱供电。",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "ai-infra",
+      "title": "英飞凌与麦格米特合作，用 CoolSiC 打造 800VDC AI 电源架",
+      "url": "https://www.semiconductor-today.com/news_items/2026/nov/infineon-191126.shtml",
+      "source": "Semiconductor Today",
+      "summary": "英飞凌与麦格米特合作，用 CoolSiC MOSFET 打造面向 AI 的 800VDC 三相电源架。",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "ai-infra",
+      "title": "零水耗、pPUE 1.03：AI 数据中心冷却进入新阶段",
+      "url": "https://www.datacenters.com/news/zero-water-and-1-03-ppue-ai-data-center-cooling-enters-a-new-era",
+      "source": "Datacenters.com",
+      "summary": "新型无水冷却设计把 pPUE 压到 1.03、冷却能耗降 74%，面向高密度 AI 机房。",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "ai-infra",
+      "title": "CoolIT 3MW CDU 亮相：智能监测加无风扇冷却",
+      "url": "https://www.datacenterfrontier.com/cooling/video/55419829/dcf-video-coolits-3-mw-cdu-brings-smart-monitoring-and-fanless-cooling-to-ai-infrastructure",
+      "source": "Data Center Frontier",
+      "summary": "CoolIT 3MW CDU 面向 AI 基础设施，集成智能监测与无风扇冷却，单柜散热能力再上台阶。",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "ai-infra",
+      "title": "万卡级智算中心陆续投产，算力集群进入规模化时代",
+      "url": "https://news.qq.com/rain/a/20261118A0BUMK00",
+      "source": "腾讯新闻",
+      "summary": "万卡级智算中心陆续投产，新建项目普遍配冷板液冷与源网荷储算联动，集群进入规模化时代。",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "ai-infra",
+      "title": "湖南计算产业成果亮相世界计算大会：风液融合支持 140kW 全液冷整机柜",
+      "url": "http://hn.people.com.cn/n2/2026/1121/c336521-41757207.html",
+      "source": "人民网湖南",
+      "summary": "湖南计算产业成果亮相世界计算大会，智算中心以风液融合支持 140kW 全液冷整机柜。",
+      "date": "2026-11-22"
+    },
     {
       "date": "2026-11-21",
       "category": "memory-pool",
@@ -1496,110 +1600,6 @@
       "url": "https://www.sohu.com/a/1096144075_120988576",
       "source": "搜狐",
       "summary": "三季报显示数据中心与算力储能订单加速兑现，算力园区迈向吉瓦级用电，算电协同生态成型。"
-    },
-    {
-      "date": "2026-11-05",
-      "category": "ai-infra",
-      "title": "中期选举投票：10 州 41 项数据中心议案，仅 1 项获选民放行",
-      "url": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
-      "source": "CNBC",
-      "summary": "美国 10 州 41 项数据中心相关议案付诸表决，选民几乎全部选择限制或否决，AI 基建政治阻力显性化。"
-    },
-    {
-      "date": "2026-11-05",
-      "category": "ai-infra",
-      "title": "Reuters：华尔街押注「拥有基础设施、收取租金」，2030 年前 AI 资本开支需求超 5 万亿美元",
-      "url": "https://www.reuters.com/business/finance/wall-streets-ai-bet-own-infrastructure-collect-rent-2026-10-29/",
-      "source": "Reuters",
-      "summary": "Ares 估算到 2030 年 AI 相关资本开支需求略超 5 万亿美元，其中约 2 万亿用于数据中心建筑与配套。"
-    },
-    {
-      "date": "2026-11-05",
-      "category": "ai-infra",
-      "title": "国盛证券：算力放量驱动液冷起势，国产供应商话语权加速提升",
-      "url": "https://finance.jrj.com.cn/2026/11/04111059007661.shtml",
-      "source": "金融界",
-      "summary": "国盛证券测算全球液冷数据中心市场 2030 年达 286.5 亿美元、年复合增速 26.8%，国产供应链份额抬升。"
-    },
-    {
-      "date": "2026-11-05",
-      "category": "ai-infra",
-      "title": "浪潮信息牵头：我国首个服务器及存储液冷部件国家标准发布",
-      "url": "https://www.eet-china.com/mp/a535747.html",
-      "source": "EET-China",
-      "summary": "首个面向服务器与存储设备的液冷部件国家标准出台，统一冷板、浸没组件、连接系统与 CDU 技术要求。"
-    },
-    {
-      "date": "2026-11-05",
-      "category": "ai-infra",
-      "title": "联合早报：新一代 AI 数据中心散热供电，直流电与冷却液缺一不可",
-      "url": "https://www.zaobao.com.sg/finance/singapore/story20261103-9941795",
-      "source": "联合早报",
-      "summary": "AI 机柜功率抬升令风冷触顶，新加坡业者称液冷成必选、800V 直流可减损耗，但改造成本仍待摊薄。"
-    },
-    {
-      "date": "2026-11-05",
-      "category": "ai-infra",
-      "title": "奥迪威切入服务器液冷供应链，超声波流量计用于 CDU 干路与支路监测",
-      "url": "http://finance.eastmoney.com/a/202611023919102923.html",
-      "source": "东方财富",
-      "summary": "奥迪威称已间接进入知名服务器厂商供应链，以超声、涡街与外夹式流量监测覆盖 CDU 干路与支路。"
-    },
-    {
-      "date": "2026-11-05",
-      "category": "memory-pool",
-      "title": "云尖信息发布 2U AI Agent 服务器：88 条 PCIe 6.0，支持 CXL 3.1 跨节点内存池化",
-      "url": "https://www.163.com/dy/article/LATFSJ3E05509EKV.html",
-      "source": "网易",
-      "summary": "云尖信息 R8260 N8 以 3TB 内存与 CXL 3.1 跨节点池化扩容 KV Cache，配双 800G 网卡面向智能体推理。"
-    },
-    {
-      "date": "2026-11-05",
-      "category": "memory-pool",
-      "title": "从 CPU 到超节点，RISC-V 换道 AI 算力：LX500 以统一内存架构共享 2TB 内存池",
-      "url": "https://www.163.com/dy/article/LATTKB4A0552IBJ1.html",
-      "source": "网易",
-      "summary": "LX500 采用统一内存架构让 CPU 与 AI 加速引擎共享内存池，并通过 CXL 扩展至最高 2TB 物理内存。"
-    },
-    {
-      "date": "2026-11-05",
-      "category": "storage",
-      "title": "Blocks & Files：铠侠 SSD 营收同比暴增 5.5 倍，AI 服务器需求点燃企业级市场",
-      "url": "https://www.blocksandfiles.com/flash/2026/11/02/kioxias-ssd-revenues-explode/5306907",
-      "source": "Blocks & Files",
-      "summary": "铠侠季度营收创纪录，SSD 收入同比增 5.5 倍，AI 数据中心服务器需求成为企业级 SSD 主要拉动力。"
-    },
-    {
-      "date": "2026-11-05",
-      "category": "storage",
-      "title": "长鑫 HBM3E 已向国内 AI 芯片厂送样，良率 20%–30% 仍推进小批量量产",
-      "url": "https://www.163.com/dy/article/LADSQR7G0511CPVM.html",
-      "source": "网易",
-      "summary": "长鑫已向多家国内 AI 芯片设计公司交付 HBM3E 样品，计划两个月内小批量生产，良率仍仅两到三成。"
-    },
-    {
-      "date": "2026-11-05",
-      "category": "storage",
-      "title": "存储巨头密集交卷，华强北内存行情高位盘整，NAND 合约价季增收敛至 15%–20%",
-      "url": "https://news.qq.com/rain/a/20261030A081ON00",
-      "source": "腾讯新闻",
-      "summary": "原厂财报密集发布，NAND 合约价预计季增 15% 至 20%、涨幅较上季收敛，华强北现货进入高位盘整。"
-    },
-    {
-      "date": "2026-11-04",
-      "category": "memory-pool",
-      "title": "CXL 与 QLC 的「节奏差」：规范已写到 4.0，企业级 SSD 订单排到 2028",
-      "url": "https://www.163.com/dy/article/LAQT8LF305568W0A.html",
-      "source": "网易",
-      "summary": "CXL 规范推进至 4.0，QLC 企业级 SSD 订单已排到 2028 年，两者节奏错位凸显分层存储价值。"
-    },
-    {
-      "date": "2026-11-04",
-      "category": "memory-pool",
-      "title": "PyTorch 韩国 KV Cache Meetup：用 CXL 内存池把热缓存留 DRAM、冷缓存下沉 SSD",
-      "url": "https://pytorch.org/blog/kvcache-meetup-korea-2026-event-recap/",
-      "source": "PyTorch",
-      "summary": "PyTorch 韩国 KV Cache 聚会展示 DRAM 与 SSD 组合的 CXL 内存池，按热度分层存放推理缓存。"
     }
   ]
 }
