@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-11-24T08:38:18+08:00",
+  "updatedAt": "2026-11-25T08:37:57+08:00",
   "items": [
+    {
+      "date": "2026-11-25",
+      "category": "memory-pool",
+      "title": "SC26 实测四台服务器共享同一 CXL 内存池：每把软件锁多耗 3–5 微秒",
+      "url": "https://www.tomshardware.com/pc-components/dram/shared-cxl-memory-pools-come-with-steep-software-tax-that-could-stall-multi-server-scaling-ut-arlington-shares-real-world-test-that-measured-four-servers-sharing-the-same-pool-at-sc26",
+      "source": "Tom's Hardware",
+      "summary": "得州大学团队实测四台服务器共享 CXL 内存池，每把软件锁增加 3–5 微秒，跨机扩展被软件开销拖住。"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "memory-pool",
+      "title": "澜起科技 DDR5 第三至第五子代 RCD 出货大增，CXL 3.2 MXC 已试产",
+      "url": "https://caifuhao.eastmoney.com/news/20261119115441689699910",
+      "source": "东方财富",
+      "summary": "澜起 DDR5 多子代 RCD 出货大增，CXL 3.2 MXC 率先试产，内存扩展与池化叠加存量复用打开新空间。"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "storage",
+      "title": "群联展示自带 NPU 的企业级 SSD：盘内跑 AI 框架，数据传输最多降百倍",
+      "url": "https://www.techpowerup.com/355089/phison-previews-an-ssd-that-runs-ai-frameworks-on-its-own-npu",
+      "source": "TechPowerUp",
+      "summary": "群联企业级 SSD 集成 NPU 与 64GB 内存，可在盘内运行 AI 框架，数据传输量最多降低 100 倍。"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "storage",
+      "title": "虎嗅：存储市场分化，AI 相关产品还在涨、传统存储撑不住了",
+      "url": "https://www.huxiu.com/article/4907691.html",
+      "source": "虎嗅",
+      "summary": "三星、SK 海力士与美光把产能压向 HBM 与服务器 DRAM，通用 DRAM 转紧而传统 NAND 已显疲态。"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "storage",
+      "title": "国产 NAND 产能明年增约 24%，机构预计 SSD 价格结束 15 个月涨势",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizvzia8941415.shtml",
+      "source": "新浪财经",
+      "summary": "国产 NAND 产能明年增约 24%，DRAM 或还有半年涨幅，但 SSD 价格预计自明年起逐季回落。"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "storage",
+      "title": "美光新加坡与台湾双线扩产 HBM4，加码后段封装追赶三星与 SK 海力士",
+      "url": "https://www.163.com/dy/article/LCGFUAQC05527PMU.html",
+      "source": "网易",
+      "summary": "美光以新加坡与台湾为中心扩建 HBM4 产能，并提前投资后段封装，追赶三星与 SK 海力士。"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "storage",
+      "title": "谷歌拟绕过博通直接采购 TPU 用 HBM，采购模式生变",
+      "url": "https://feng.ifeng.com/c/8yCsdwsH94S",
+      "source": "凤凰网",
+      "summary": "谷歌转向直接向原厂采购 TPU 用 HBM，绕开博通，或改变供应格局并压制内存厂利润。"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "ai-infra",
+      "title": "中信证券：从算力到 Token，重构 AI 基础设施的投资价值",
+      "url": "https://finance.eastmoney.com/a/202611243938013032.html",
+      "source": "东方财富",
+      "summary": "中信证券称 Token 工厂以模型部署与推理优化为核心，是连接算力、模型与应用的关键基础设施。"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "ai-infra",
+      "title": "中国移动第二批超节点集采 5.216 万卡、近 300 亿元，两批累计 7.26 万卡",
+      "url": "https://m.sohu.com/a/1104662203_128075",
+      "source": "搜狐",
+      "summary": "中国移动启动第二批超节点集采 5.216 万卡、近 300 亿元，两批累计 7.26 万卡，采购转向系统级。"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "ai-infra",
+      "title": "上海浦东黎明智算中心试运行：首个万卡级集群叠加国家级算电协同试点",
+      "url": "https://finance.sina.com.cn/roll/2026-11-18/doc-inizcrpf4883980.shtml",
+      "source": "新浪财经",
+      "summary": "上海浦东黎明智算中心启动算电协同平台试运行，为浦东北首个万卡级集群与国家级试点项目。"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "ai-infra",
+      "title": "CNBC：AI 数据中心与电力需求正把数千亿美元私人资本引入基础设施",
+      "url": "https://www.cnbc.com/2026/11/23/infrastructure-assets-inflation-investors-ai.html",
+      "source": "CNBC",
+      "summary": "CNBC 称 AI 数据中心、电力需求与能源安全正把巨额私人资本引入基础设施资产，热度延续至 2027 年。"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "ai-infra",
+      "title": "券商：GPU 升级路径提速提振液冷赛道，液冷成 AI 基建确定性环节",
+      "url": "https://finance.eastmoney.com/a/202611243938303180.html",
+      "source": "东方财富",
+      "summary": "券商认为英伟达 GPU 迭代提速将带动液冷需求，液冷已成为 AI 基础设施建设中确定性最高的环节之一。"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "ai-infra",
+      "title": "特朗普称将禁止美企在海外建 AI 数据中心，违规拟征高额税",
+      "url": "https://www.bbc.com/news/articles/cmde1lw9y54ko",
+      "source": "BBC",
+      "summary": "特朗普表示将禁止美国企业在海外建设 AI 数据中心，违规者面临高额征税，出海算力布局承压。"
+    },
     {
       "date": "2026-11-24",
       "category": "memory-pool",
@@ -1496,110 +1600,6 @@
       "url": "https://www.vlsi.kr/en/hbm-vs-cxl-ai-memory-interconnect-en/",
       "source": "VLSI Korea",
       "summary": "VLSI 解析内存分层：HBM 提供封装内带宽，CXL 2.0 起以交换机汇聚共享容量，靠池化提升整机架利用率。"
-    },
-    {
-      "date": "2026-11-09",
-      "category": "storage",
-      "title": "UPI：三星、SK 海力士、美光同步扩产 AI 内存，长协锁定 HBM 产能",
-      "url": "https://www.upi.com/Top_News/World-News/2026/11/02/samsung-sk-hynix-micron-ai-chips/9561793657408/",
-      "source": "UPI",
-      "summary": "三星、SK 海力士与美光依托长期合约同步扩产 HBM，AI 需求推动存储基础设施投资持续加码。"
-    },
-    {
-      "date": "2026-11-09",
-      "category": "storage",
-      "title": "长鑫 2026 年设备采购超 50 亿美元，新产线国产设备占比升至四到五成",
-      "url": "https://news.qq.com/rain/a/20261104A08RN700",
-      "source": "腾讯新闻",
-      "summary": "长鑫新产线国产设备整体占比已达四到五成，长江存储武汉三期国产化率更高，扩产带动设备订单集中释放。"
-    },
-    {
-      "date": "2026-11-09",
-      "category": "storage",
-      "title": "Counterpoint：国产存储份额仍仅约韩国五分之一，长江存储 NAND 达 17%",
-      "url": "https://www.163.com/dy/article/LB73LGMI05119JRD.html",
-      "source": "网易",
-      "summary": "三季度长江存储 NAND 份额 17%，但三星 24%、SK 海力士更高，国产 DRAM 与 NAND 合计仍仅约韩国五分之一。"
-    },
-    {
-      "date": "2026-11-09",
-      "category": "ai-infra",
-      "title": "浪潮信息发布 CPU 原生液冷整机柜与多模融合开放超节点",
-      "url": "https://www.ieisystem.com/about/news/23147.html",
-      "source": "浪潮信息",
-      "summary": "浪潮信息推出面向 Agent 群智协同的 CPU 原生液冷整机柜，以及多模融合开放超节点 AI 服务器。"
-    },
-    {
-      "date": "2026-11-09",
-      "category": "ai-infra",
-      "title": "中国移动今年开工 3 个吉瓦级智算园区，首创 MT 统一算力计量",
-      "url": "https://m.sohu.com/a/1098570002_128075",
-      "source": "搜狐",
-      "summary": "中国移动今年开工 3 个吉瓦级智算园区、明年再建 2 个，并推出 MT 统一算力计量单位推进 Token 计费。"
-    },
-    {
-      "date": "2026-11-09",
-      "category": "ai-infra",
-      "title": "液冷三季报业绩分化：依米康前三季营收增 46%，Q3 单季 6.37 亿元",
-      "url": "https://caifuhao.eastmoney.com/news/20261103150338933142930",
-      "source": "东方财富",
-      "summary": "液冷产业链三季报分化，依米康精密温控受益 AIDC 建设，前三季营收 15.56 亿元同比增 46.28%。"
-    },
-    {
-      "date": "2026-11-08",
-      "category": "memory-pool",
-      "title": "ResearchAndMarkets：CXL 内存市场 2036 年将达 167 亿美元，机架级池化驱动 27% 复合增速",
-      "url": "https://www.globenewswire.com/news-release/2026/11/06/3397811/0/en/compute-express-link-cxl-memory-market-size-share-trends-and-global-forecast-2026-2036-ai-infrastructure-and-rack-scale-pooling-fuel-27-cagr-and-a-16-7-billion-opportunity.html",
-      "source": "GlobeNewswire",
-      "summary": "报告称 CXL 内存市场 2025 年 8.5 亿美元、2036 年达 167 亿美元，AI 推理与机架级池化成主驱动。"
-    },
-    {
-      "date": "2026-11-08",
-      "category": "memory-pool",
-      "title": "EET Asia：内存缺货下的「少建多」——CXL 扩展与池化补齐内存层级",
-      "url": "https://www.eetasia.com/embeddedblog-building-more-with-less-how-to-navigate-the-memory-chip-shortage/",
-      "source": "EET Asia",
-      "summary": "EET Asia 称短缺期企业以 CXL 扩展与池化新增内存层级，在保持缓存一致前提下用更少容量跑更大负载。"
-    },
-    {
-      "date": "2026-11-08",
-      "category": "storage",
-      "title": "进博探「芯」：三星、SK 海力士、美光同台，算力从参数比拼转向可交付系统",
-      "url": "https://www.163.com/dy/article/LB0FECAH0550B1DU.html",
-      "source": "网易",
-      "summary": "进博会上存储三巨头集中亮出 HBM4、LPDDR6 与 eSSD，SK 海力士展出 256GB DDR5 与 192GB SOCAMM2。"
-    },
-    {
-      "date": "2026-11-08",
-      "category": "storage",
-      "title": "MLQ：存储原厂毛利高达 80%，涨价压力蔓延到苹果、PC 与英伟达供应链",
-      "url": "https://mlq.ai/news/memory-makers-earn-80-margins-as-the-ai-crunch-reaches-apple-pcs-and-nvidias-supply-chain/",
-      "source": "MLQ.ai",
-      "summary": "AI 服务器吞噬产能，存储原厂毛利率达 80%，DRAM 与 NAND 合约价本季预计再涨 10% 至 20%。"
-    },
-    {
-      "date": "2026-11-08",
-      "category": "ai-infra",
-      "title": "21 世纪经济报道：液冷需求起势，美的等国内温控厂商估值待重估",
-      "url": "https://www.21jingji.com/article/20261106/herald/698dfe9b7638e79d46bc86c7ac22ec3d.html",
-      "source": "21世纪经济报道",
-      "summary": "中金预测 2026 年全球智算液冷市场达 1147 亿元、同比增 273%，国内暖通厂商动态 PE 仅 8 至 15 倍。"
-    },
-    {
-      "date": "2026-11-08",
-      "category": "ai-infra",
-      "title": "格力中标中国移动、中国铁塔温控集采，金额超 3 亿元",
-      "url": "http://www.chinaiol.com/News/Content/202611/21_69509.html",
-      "source": "中国空调制冷网",
-      "summary": "格力中标中国移动与中国铁塔温控设备集采，金额超 3 亿元，覆盖氟泵、列间与干湿复合机房空调。"
-    },
-    {
-      "date": "2026-11-08",
-      "category": "ai-infra",
-      "title": "华鲲振宇以 30% 份额居中国移动 117 亿元超节点集采首位",
-      "url": "https://www.c114.com.cn/news/118/a1320528.html",
-      "source": "C114通信网",
-      "summary": "华鲲振宇成为中移动 117 亿元 AI 超节点集采第一中标候选人、份额 30%，年内双方合作达数十亿元。"
     }
   ]
 }
