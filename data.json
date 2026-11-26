@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-11-25T08:37:57+08:00",
+  "updatedAt": "2026-11-26T08:38:02+08:00",
   "items": [
+    {
+      "date": "2026-11-26",
+      "category": "memory-pool",
+      "title": "三星明年年初交付 CXL 3.2 样品，数十模块可拼 10–80TB 内存池",
+      "url": "https://www.thelec.net/news/articleView.html?idxno=15904",
+      "source": "The Elec",
+      "summary": "三星计划 2027 年初交付 CXL 3.2 内存模块样品、下半年量产，并把数十个模块组成 10–80TB 内存池按 GPU 需求分配。"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "memory-pool",
+      "title": "Marvell 与 Penguin 联手：用 CXL 加光互连做机架级内存池",
+      "url": "https://www.eenewseurope.com/en/marvell-and-penguin-solutions-target-ai-memory-bottlenecks-with-cxl-and-photonics/",
+      "source": "eeNews Europe",
+      "summary": "双方规划从服务器内 CXL 扩展逐步走向光互连内存共享，把 DDR5 与 HBM3E 池化成机架级资源。"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "memory-pool",
+      "title": "紫光国芯 CXL 内存扩展主控亮相中国数据与存储峰会，获年度创新奖",
+      "url": "https://www.163.com/dy/article/LCKD9OOF05381G5P.html",
+      "source": "网易",
+      "summary": "紫光国芯在 2026 中国数据与存储峰会展示 CXL 内存扩展主控芯片及池化应用方案，获年度 CXL 产品技术创新奖。"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "storage",
+      "title": "三星加速西安厂 V9 NAND 升级，目标 2027 年底完成以应对 AI SSD 需求",
+      "url": "https://www.trendforce.com/news/2026/11/24/news-samsung-reportedly-to-complete-xian-fab-upgrade-for-v9-nand-by-late-2027-amid-rising-ai-ssd-demand/",
+      "source": "TrendForce",
+      "summary": "AI 数据中心拉动企业级存储，三星推动西安厂向 V9 NAND 过渡，升级预计 2027 年底完成。"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "storage",
+      "title": "CXMT 与长江存储扩张迅猛，HBM 仍是国产存储最大短板",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-chinas-memory-industry-in-2026-cxmt-and-ymtc-are-booming-but-hbm-remains-a-headache",
+      "source": "Tom's Hardware",
+      "summary": "长鑫与长存产能与份额快速提升，但受出口管制与工艺限制，HBM 短期内难以自给。"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "storage",
+      "title": "芯展速量产国内首款 PCIe 6.0 SSD，卡位 HBM 与容量层之间",
+      "url": "https://www.moomoo.com/hans/news/post/1005155623",
+      "source": "moomoo",
+      "summary": "国内首款 Gen6 SSD 量产，厂方称其既非替代 HBM 也非单纯扩容，而是重算 AI 存储经济账的新层级。"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "storage",
+      "title": "三星存储产能据称已排到 2029 年，客户谋求签至 2031 年长约",
+      "url": "https://wccftech.com/samsungs-memory-production-reportedly-almost-fully-booked-through-2029-as-customers-seek-supply-deals-until-2031/",
+      "source": "Wccftech",
+      "summary": "AI 需求推动下三星存储产能近乎排满至 2029 年，部分客户开始寻求 2031 年前的长期供货协议。"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "storage",
+      "title": "高盛：2027 年 DRAM 与 HBM 仍严重缺货，但下调两家韩厂目标价",
+      "url": "https://feng.ifeng.com/c/8yHtTbV3867",
+      "source": "凤凰网",
+      "summary": "高盛认为 2027 年 DRAM、HBM 供给依然紧张，但对 2028 年转趋谨慎，下调三星与 SK 海力士目标价。"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "ai-infra",
+      "title": "联想天津服务器产线落成，启动超节点项目并签约智算制造中心",
+      "url": "https://www.163.com/dy/article/LCJJN9G60519QIKK.html",
+      "source": "网易",
+      "summary": "联想天津高性能服务器产线落成、超节点项目启动，并与天津港保税区签约建智能算力研发制造中心。"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "ai-infra",
+      "title": "高盛上修美国数据中心用电预测，2028 年新增容量可达 52 吉瓦",
+      "url": "https://m.sohu.com/a/1106131580_639898",
+      "source": "搜狐",
+      "summary": "高盛在最新研报中把美国数据中心新增最大用电容量预测由 18 吉瓦上修至 2028 年 52 吉瓦。"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "ai-infra",
+      "title": "美出口管制从芯片延伸到算力，韩国迎来数据中心投资新机遇",
+      "url": "https://www.zaobao.com.sg/news/world/story20261125-10045358",
+      "source": "联合早报",
+      "summary": "美 BIS 新规自 11 月 19 日起把管制范围扩至芯片所提供的算力，部分数据中心投资转向韩国。"
+    },
     {
       "date": "2026-11-25",
       "category": "memory-pool",
@@ -1512,94 +1600,6 @@
       "url": "https://wap.eastmoney.com/a/202611103926628716.html",
       "source": "东方财富",
       "summary": "佰维存储、德明利等三季度净利创新高，NAND 合约价预计再涨 15% 至 20%，存储景气延续。"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "storage",
-      "title": "原厂长协锁定 AI 服务器存储：铠侠 2027 年 NAND 售罄、三星锁定 2027 年 HBM",
-      "url": "https://timeline.sohu.com/news/IUNy3EDFsd",
-      "source": "搜狐",
-      "summary": "铠侠称 2027 年 NAND 产能全部售罄、三星锁定 2027 年 HBM，多家原厂以长协锁定服务器存储供给。"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "storage",
-      "title": "存储股集体暴跌：美光与闪迪的逻辑变了吗",
-      "url": "https://www.163.com/dy/article/LBAB90EU05314VD3.html",
-      "source": "网易",
-      "summary": "存储股集体大跌引发涨价见顶担忧，但 AI 推理与智能体仍在推高企业级 SSD 容量与读取性能需求。"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "storage",
-      "title": "HBM 撞上 20 层堆叠墙，闪迪以 HBF 的写入短板切入后 HBM 内存层",
-      "url": "https://finance.biggo.com/news/4f76afa8438cc7a5",
-      "source": "BigGo 財經",
-      "summary": "HBM 堆叠层数逼近 20 层上限，高带宽闪存 HBF 以容量与成本优势被视作后 HBM 内存层候选。"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "ai-infra",
-      "title": "TrendForce：AMD 数据中心 AI 收入 2027Q4 首超服务器 CPU，全年营收增逾八成",
-      "url": "https://www.trendforce.com/news/2026/11/04/news-amd-defies-ai-bubble-fears-data-center-ai-revenue-to-top-server-cpus-for-first-time-in-4q-2027-sales-up-80/",
-      "source": "TrendForce",
-      "summary": "苏姿丰称 AMD 2027 年营收将增逾八成，数据中心 AI 收入将于 2027 年四季度首次超过服务器 CPU。"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "ai-infra",
-      "title": "施耐德与英伟达共研 800VDC sidecar，单柜供电能力达 1.2MW",
-      "url": "https://www.dutchdatacenters.nl/en/nieuws/schneider-electric-highlights-innovation-in-800-vdc-power-systems-in-support-of-nvidias-next-generation-gpus/",
-      "source": "Dutch Data Centers",
-      "summary": "施耐德电气展示为英伟达下一代 GPU 开发的 800VDC 旁挂供电方案，单柜可支撑 1.2 兆瓦负载。"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "ai-infra",
-      "title": "谷歌投 170 亿美元建怀俄明州首座数据中心，配套能源与人才培训",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
-      "source": "Google Blog",
-      "summary": "谷歌宣布投资 170 亿美元在怀俄明州建设首座数据中心，同步投入能源、水资源与本地人才培训。"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "ai-infra",
-      "title": "特灵科技：以高效绿色温控应对高密算力，中国液冷服务器渗透率 2026 年将达 37%",
-      "url": "http://www.news.cn/tech/20261103/6c5c6249c3c942e5875c7e8f9264da59/c.html",
-      "source": "新华网",
-      "summary": "特灵科技称液冷已从可选变新建高密场景主流，机构预计中国液冷服务器渗透率 2026 年升至 37%。"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "ai-infra",
-      "title": "无问芯穹携手华环电子，推进国产异构算力 AI 基础设施落地",
-      "url": "https://k.sina.com.cn/article_5952915720_162d2490806704uuv4.html?from=tech",
-      "source": "新浪",
-      "summary": "无问芯穹与华环电子合作，推动 AI 基础设施从单一算力转向计算、网络、软件平台与模型服务协同。"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "ai-infra",
-      "title": "WSJ：社区敌意升温，明年最多 35% 美国规划数据中心建设面临风险",
-      "url": "https://www.wsj.com/tech/ai/ai-companies-scramble-to-navigate-a-world-hostile-to-data-centers-c6023a14",
-      "source": "Wall Street Journal",
-      "summary": "WSJ 称美国社区反对加剧，投资人估算明年最多 35% 的规划数据中心建设面临延期或取消风险。"
-    },
-    {
-      "date": "2026-11-09",
-      "category": "memory-pool",
-      "title": "Penguin Solutions 将在 SC26 展出全栈 AI 工厂平台，含 CXL MemoryAI KV Cache 服务器",
-      "url": "https://www.businesswire.com/news/home/20261103070413/en/Penguin-Solutions-to-Showcase-Full-Stack-AI-Factory-Platform-Innovations-at-SC26",
-      "source": "BusinessWire",
-      "summary": "Penguin Solutions 将于 SC26 展出全栈 AI 工厂平台，并扩展面向推理的 CXL MemoryAI KV Cache 服务器产品线。"
-    },
-    {
-      "date": "2026-11-09",
-      "category": "memory-pool",
-      "title": "VLSI：HBM 守封装内带宽、CXL 在池中扩容量，二者分工而非替代",
-      "url": "https://www.vlsi.kr/en/hbm-vs-cxl-ai-memory-interconnect-en/",
-      "source": "VLSI Korea",
-      "summary": "VLSI 解析内存分层：HBM 提供封装内带宽，CXL 2.0 起以交换机汇聚共享容量，靠池化提升整机架利用率。"
     }
   ]
 }
