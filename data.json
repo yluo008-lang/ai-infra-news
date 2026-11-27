@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-11-26T08:38:02+08:00",
+  "updatedAt": "2026-11-27T08:39:58+08:00",
   "items": [
+    {
+      "date": "2026-11-27",
+      "category": "memory-pool",
+      "title": "2026 中国数据与存储峰会：设高速互联论坛，内存池化与超节点成焦点",
+      "url": "https://www.36kr.com/p/4085002028690048",
+      "source": "36氪",
+      "summary": "峰会在京召开，灵衢、海光、新华三、Arm 等围绕高速互联、内存池化与超节点架构展开研讨。"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "storage",
+      "title": "铠侠联手英伟达：144 块 SSD 把 GPU 有效内存扩至 PB 级",
+      "url": "https://www.kioxia.com/en-jp/business/news/2026/20261126-1.html",
+      "source": "Kioxia",
+      "summary": "借英伟达 SCADA 软件配 144 块 XD8 SSD，在 GB200 NVL72 上把有效 GPU 内存扩至 PB 级，可处理 2 万亿向量库。"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "storage",
+      "title": "HBF 深度解析：用 HBM 的形装 NAND 的芯，量产要等 2028–2029 年",
+      "url": "https://news.qq.com/rain/a/20261126A04QON00",
+      "source": "腾讯新闻",
+      "summary": "8 层 HBF 每 GB 成本约 0.64 美元、仅为 HBM4 十分之一，但晶圆消耗是 TLC 的 6.5 倍，量产窗口在 2028–2029 年。"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "storage",
+      "title": "三星 HBM 基底裸片产能告急，2027 年 4nm 需求翻倍至每月 3 万片",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizxiai9628131.shtml",
+      "source": "新浪科技",
+      "summary": "三星拟把器兴研发线与平泽 P5 部分产能转做 HBM 基底裸片，泰勒 P2 工厂规划生产 HBM5 基底裸片。"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "ai-infra",
+      "title": "两大运营商超节点集采超 550 亿元，中国电信单笔限价 257.88 亿元",
+      "url": "https://finance.eastmoney.com/a/202611263940478598.html",
+      "source": "东方财富",
+      "summary": "中国移动第二批采购 5.216 万卡、累计 7.26 万卡，中国电信超节点集采限价 257.88 亿元，投入节奏未放缓。"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "ai-infra",
+      "title": "6 家电网企业导入固态变压器，SiC 迎来落地潮",
+      "url": "https://www.eet-china.com/mp/a541320.html",
+      "source": "EET-China",
+      "summary": "南瑞继保 10kV 转 800V 直流 SST 示范项目投运、效率 98.6%，杰瑞、维谛等已推兆瓦级新品，单机最高 10MW。"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "ai-infra",
+      "title": "丹佛斯亮相中国数据中心标准大会，展示从冷源到芯片侧液冷方案",
+      "url": "https://www.21ic.com/a/1016941.html",
+      "source": "21ic 电子工程专辑",
+      "summary": "丹佛斯展出覆盖冷源、CDU、二次侧流体网络与机柜连接的液冷产品，主打高功率密度机房的换热与精准控制。"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "ai-infra",
+      "title": "东方算芯 DF1000：国内首颗 DRAM-Logic 混合键合 3D 封装 AI 芯片",
+      "url": "https://tech.ifeng.com/c/8yMpQyxdEvb",
+      "source": "凤凰科技",
+      "summary": "14nm 下做到 520 TFLOPS@BF16、6.4TB/s 访存带宽，以 3D 近存堆叠绕开先进制程与 HBM 限制。"
+    },
     {
       "date": "2026-11-26",
       "category": "memory-pool",
@@ -1536,70 +1600,6 @@
       "url": "https://www.36kr.com/p/4062351932085382",
       "source": "36氪",
       "summary": "超节点从样机走向规模交付，中信研报称 2026 年为国产落地元年，昇腾 960 面向十万亿参数模型。"
-    },
-    {
-      "date": "2026-11-11",
-      "category": "ai-infra",
-      "title": "1000 多套昇腾超节点规模部署，算力架构从堆服务器转向系统级",
-      "url": "https://www.163.com/dy/article/LB0DJMTS0511AKQE.html",
-      "source": "网易",
-      "summary": "昇腾超节点已部署超 1000 套，以系统级架构而非堆叠服务器提升效率，并在多行业形成规模渗透。"
-    },
-    {
-      "date": "2026-11-11",
-      "category": "ai-infra",
-      "title": "维谛技术：从 PUE 到 Tokenomics，800VDC 与 MV BESS 应对 AI 脉冲负载",
-      "url": "http://www.dcworld.cn/news/dc/2026/1105/3571.html",
-      "source": "数据中心世界",
-      "summary": "维谛以 800VDC 减少转换级数、MV BESS 平抑 AI 脉冲负载，把 AI 工厂评价标准从 PUE 推向每 Token 成本。"
-    },
-    {
-      "date": "2026-11-11",
-      "category": "ai-infra",
-      "title": "英维克三季报：订单增长、回款真实但验收滞后，液冷利润待兑现",
-      "url": "https://news.qq.com/rain/a/20261108A04QK000",
-      "source": "腾讯新闻",
-      "summary": "英维克前三季营收 49.5 亿元同比增 22.94%、净利降 7.62%，液冷订单增长但项目验收滞后拖累利润释放。"
-    },
-    {
-      "date": "2026-11-11",
-      "category": "ai-infra",
-      "title": "第七届国际液冷数据中心大会在东莞召开，聚焦建设运维与关键部件创新",
-      "url": "https://caifuhao.eastmoney.com/news/20261106084332331497980",
-      "source": "东方财富",
-      "summary": "第七届国际液冷数据中心大会在东莞虎门举行，60 余位专家聚焦液冷建设运维与关键部件创新。"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "memory-pool",
-      "title": "极客网维申请 CXL Mesh 全局内存池内核调度专利，跨节点统一调度池化内存",
-      "url": "https://www.163.com/dy/article/LB1S1LQQ0519QIKK.html",
-      "source": "网易",
-      "summary": "极客网维申请适配 CXL Mesh 硬件的全局内存池操作系统内核调度优化专利，让 OS 跨节点统一调度池化内存。"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "memory-pool",
-      "title": "Google 推出 TPU Sync：快速搬运 KV Cache 与权重，缓存容量突破 HBM 限制",
-      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-tpu-sync-fast-kv-cache-and-weight-transfer-on-tpu",
-      "source": "Google Cloud Blog",
-      "summary": "TPU Sync 在 TPU 间高速传输 KV Cache 与模型权重，当 MoE 权重占满 HBM 时用片外内存承接长上下文。"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "memory-pool",
-      "title": "DDR5 换代最赚钱的不在存储厂：接口与 CXL 互连芯片吃掉架构红利",
-      "url": "https://caifuhao.eastmoney.com/news/20261106191017670951870",
-      "source": "东方财富",
-      "summary": "DDR5 迭代红利集中于内存接口与 CXL 互连芯片，AI 集群内存扩展与池化需求成新增长点。"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "storage",
-      "title": "佰维存储、德明利净利创新高，A 股存储高景气或延续至四季度",
-      "url": "https://wap.eastmoney.com/a/202611103926628716.html",
-      "source": "东方财富",
-      "summary": "佰维存储、德明利等三季度净利创新高，NAND 合约价预计再涨 15% 至 20%，存储景气延续。"
     }
   ]
 }
