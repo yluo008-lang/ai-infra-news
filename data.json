@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-11-27T08:39:58+08:00",
+  "updatedAt": "2026-11-28T08:38:08+08:00",
   "items": [
+    {
+      "date": "2026-11-28",
+      "category": "memory-pool",
+      "title": "三星：数十块 CXL 模块拼成 10–80TB 内存池，每秒 Token 处理提升 5.6 倍",
+      "url": "https://news.qq.com/rain/a/20261125A08M3U00",
+      "source": "腾讯新闻",
+      "summary": "三星称数十块 CXL 内存模块可拼成 10–80TB 内存池并按 GPU 需求分配，Token 处理性能提升 5.6 倍。"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "memory-pool",
+      "title": "三星 CXL 内存路线图：2028 年用 LPDDR5X 替代 DDR5 做高容量池化",
+      "url": "https://www.memorymarket.com/a/15001",
+      "source": "MemoryMarket",
+      "summary": "三星规划 2028 年在 CXL 内存模块中以 LPDDR5X 取代 DDR5，兼顾容量、能效与内存池化需求。"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "memory-pool",
+      "title": "铠侠 Flash-for-DRAM：CXL 模块替换部分 DRAM，同成本容量翻倍、性能增三成",
+      "url": "https://www.eetimes.com/kioxias-flash-for-dram-initiative-eyes-ai-workloads/",
+      "source": "EE Times",
+      "summary": "铠侠称以 CXL 闪存模块替换部分 DRAM，可在同等成本下把内存容量翻倍、性能提升约 30%。"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "memory-pool",
+      "title": "紫光国芯：CXL 进入成熟期，内存池化做「内存新基建」",
+      "url": "https://www.163.com/dy/article/LCJODE860511CPMT.html",
+      "source": "网易",
+      "summary": "紫光国芯称 CXL 技术已迈入成熟期，以内存池化方案统一调度分散内存，提升集群整体利用率。"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "storage",
+      "title": "TrendForce：DRAM 仍供不应求，NAND 合约价最早 2027 年一季度转跌",
+      "url": "https://finance.eastmoney.com/a/202611263940472261.html",
+      "source": "东方财富",
+      "summary": "集邦称 DRAM 与 NAND 前景明显分化：DRAM 持续供不应求，NAND 合约价最早明年一季度下跌。"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "storage",
+      "title": "韩媒：NAND 之后连 DRAM 也现见顶信号，存储价格见顶论抬头",
+      "url": "https://www.mk.co.kr/cn/business/12218453",
+      "source": "每日经济",
+      "summary": "机构预计 NAND 明年前两季各跌至多 5%，长江存储份额快速提升，DRAM 见顶论随之升温。"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "storage",
+      "title": "DIGITIMES：年底结算承压，消费级 SSD 价格开始分化",
+      "url": "https://feng.ifeng.com/c/8yMZ9LectKa",
+      "source": "凤凰网",
+      "summary": "DIGITIMES 称 2026 年底存储市场上下游分化，上游原厂受益于涨价、下游消费电子承压明显。"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "storage",
+      "title": "36 氪：HBM 单价逼近 560 美元，英伟达开始压缩单机用量",
+      "url": "https://m.36kr.com/p/4082044662715266",
+      "source": "36氪",
+      "summary": "HBM 单颗价格已近 560 美元，比同重黄金更贵，英伟达转而控制单机 HBM 用量以压整机成本。"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "storage",
+      "title": "IDC：2027 年 HBM4 每 Gb 最高 5.5 美元，较今年基准涨约 170%",
+      "url": "https://m.sohu.com/a/1105567626_120111001",
+      "source": "搜狐",
+      "summary": "IDC 预测 2027 年 HBM4 每 Gb 达 3–5.5 美元，较 2026 年 2.05 美元基准最高涨约 170%。"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "ai-infra",
+      "title": "英伟达财报后的 AI 基建：投资未降温，中国云从算力底座走向企业生产力",
+      "url": "https://news.qq.com/rain/a/20261123A08WU300",
+      "source": "腾讯新闻",
+      "summary": "英伟达三季度财报显示全球 AI 基建投资仍在加速，中国云厂商转向以算力支撑企业生产力。"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "ai-infra",
+      "title": "九章云极开放 Physical AI Infra API，标准化接入异构算力",
+      "url": "https://finance.sina.com.cn/stock/t/2026-11-26/doc-inizyqvt9282136.shtml",
+      "source": "新浪财经",
+      "summary": "九章云极开放面向物理 AI 的智算基础设施与开发工具接口，提供异构算力接入、管理与调度。"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "ai-infra",
+      "title": "尼得科加码液冷：将推 3.2MW 机组与 6.4MW 双撬装版本",
+      "url": "https://datacenternews.asia/story/nidec-expands-liquid-cooling-push-as-ai-demand-rises",
+      "source": "DataCenterNews Asia",
+      "summary": "尼得科扩大液冷布局，准备 3.2MW CDU 与 6.4MW 双撬装版本，冷却能力成 AI 机房竞争焦点。"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "ai-infra",
+      "title": "摩根大通：2027–2031 年建成 151GW AI 数据中心，耗资 7 万亿美元",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-sees-450-billion-ai-211721263.html",
+      "source": "Yahoo Finance",
+      "summary": "摩根大通预计 2027–2031 年 AI 行业建成 151GW 数据中心、总投入 7 万亿美元，2027 年发债 4500 亿美元。"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "ai-infra",
+      "title": "Apollo：2028 年底全球 AI 算力或达 100GW，需 2 万亿美元收入支撑",
+      "url": "https://www.apollo.com/insights-news/insights/2026/11/ais-path-to-2-trillion-in-revenue",
+      "source": "Apollo",
+      "summary": "Apollo 测算已部署 AI 算力 2028 年底或近 100GW，需约 2 万亿美元收入才能覆盖建造成本。"
+    },
     {
       "date": "2026-11-27",
       "category": "memory-pool",
@@ -1488,118 +1600,6 @@
       "url": "https://www.eet-china.com/mp/a538458.html",
       "source": "EET-China",
       "summary": "整机库存走高令部分 PC OEM 调整 2027 年存储采购，四季度 PC DRAM 合约价预计仍季增 13%–18%。"
-    },
-    {
-      "date": "2026-11-12",
-      "category": "storage",
-      "title": "SK 海力士 HBM4 已量产出货，预计 AI 数据中心建设 2030 年前年增约 40%",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MU/pressreleases/8785706/sk-hynix-rides-the-ai-data-center-boom-and-hbm4-ramp-up/",
-      "source": "Globe and Mail",
-      "summary": "SK 海力士三季度启动 HBM4 量产出货，预计 AI 数据中心建设到 2030 年前保持约 40% 年增速。"
-    },
-    {
-      "date": "2026-11-12",
-      "category": "ai-infra",
-      "title": "台达在 SC26 展出「从电网到芯片」冷却方案，覆盖 800VDC 与 ±400VDC 架构",
-      "url": "https://www.prnewswire.com/news-releases/delta-unveils-from-grid-to-chip-cooling-innovations-for-ai-infrastructure-and-for-new-800-vdc-400-vdc-architectures-at-sc26-302935999.html",
-      "source": "PR Newswire",
-      "summary": "台达在 SC26 发布从电网到芯片的液冷与散热方案，专为 800VDC 与 ±400VDC 新型供电架构设计。"
-    },
-    {
-      "date": "2026-11-12",
-      "category": "ai-infra",
-      "title": "超聚变：从 12 个实验室到 10 万个液冷节点，算力基础设施走向全栈自研",
-      "url": "https://www.163.com/dy/article/LBEQQ7TC0550DNB5.html",
-      "source": "网易",
-      "summary": "超聚变累计交付 10 万个液冷节点，围绕算力芯片、高速互连与整机柜承担十余项重点研发任务。"
-    },
-    {
-      "date": "2026-11-12",
-      "category": "ai-infra",
-      "title": "远景 800V 高压直流供电系统在乌兰察布 3GW 星河基地端到端贯通，为全球首套",
-      "url": "http://www.tanjiaoyi.com/article-112880-1.html",
-      "source": "碳交易网",
-      "summary": "远景一体化 800V 高压直流系统在乌兰察布 3GW 星河基地端到端贯通，绿电直连比例将超 80%。"
-    },
-    {
-      "date": "2026-11-12",
-      "category": "ai-infra",
-      "title": "中国移动明年算力投资预计逾千亿元，吉瓦级计算园区将增至 7 个",
-      "url": "https://news.qq.com/rain/a/20261106A0FGL900",
-      "source": "腾讯新闻",
-      "summary": "中国移动称明年算力投资预计逾千亿元，今年新开工 3 个吉瓦级园区，明年再建 2 个、总数达 7 个。"
-    },
-    {
-      "date": "2026-11-12",
-      "category": "ai-infra",
-      "title": "维谛：800VDC 带来电弧、保护与暂态难题，交流电经验难以直接套用",
-      "url": "https://www.vertiv.com/en-us/insights/articles/blog-posts/engineering-problems-that-stand-between-ai-and-800-vdc-power/",
-      "source": "Vertiv",
-      "summary": "维谛指出 800VDC 虽解决机柜密度问题，但电弧行为、保护配合与暂态动态远超交流电经验范围。"
-    },
-    {
-      "date": "2026-11-11",
-      "category": "memory-pool",
-      "title": "Panmnesia 设立美国子公司，押注 PCIe 6.4-CXL 3.2 Fusion Switch 内存互连",
-      "url": "https://www.businesswire.com/news/home/20261109890893/en/Panmnesia-Establishes-U.S.-Subsidiary-Appoints-Former-Microsoft-Engineering-Leader-Ellis-Wilson-as-President",
-      "source": "BusinessWire",
-      "summary": "Panmnesia 成立美国子公司并延揽前微软工程负责人，其 PCIe 6.4-CXL 3.2 融合交换机面向 AI 内存互连。"
-    },
-    {
-      "date": "2026-11-11",
-      "category": "memory-pool",
-      "title": "宜鼎国际发布企业级存储与内存矩阵，CXL 扩展模组支持内存池化",
-      "url": "https://www.163.com/dy/article/LB4S3MUH05509EKV.html",
-      "source": "网易",
-      "summary": "宜鼎推出 DDR5 12800 MRDIMM、8000 RDIMM 与 CXL 扩展模组，单条 128GB、32GB/s 并支持内存池化。"
-    },
-    {
-      "date": "2026-11-11",
-      "category": "memory-pool",
-      "title": "浙大博士团队以 3D DRAM 加近存计算破局推理内存墙，结合 KV-Cache 池化",
-      "url": "https://m.36kr.com/p/4056259307279233",
-      "source": "36氪",
-      "summary": "微珩启元以 3D DRAM 与近存计算芯片配合 KV-Cache 池化、国产 GPU 异构组网，面向大规模 MoE 推理。"
-    },
-    {
-      "date": "2026-11-11",
-      "category": "storage",
-      "title": "HBM、SSD、GPU、MLCC 产能同时告急，企业级 SSD 短期供给难跟上",
-      "url": "https://caifuhao.eastmoney.com/news/20261105134656643956940",
-      "source": "东方财富",
-      "summary": "AI 服务器大量采用大容量高耐久 SSD，而新晶圆厂投产周期长，企业级 SSD 有效供给短期难以跟上。"
-    },
-    {
-      "date": "2026-11-11",
-      "category": "storage",
-      "title": "TrendForce：三星与 SK 海力士争抢 ASML 2027–2028 年 EUV 产能，各下单 10–20 万亿韩元",
-      "url": "https://www.trendforce.com/news/2026/11/10/news-samsung-sk-hynix-reportedly-race-for-asml-euv-amid-2027-2028-shortages-orders-worth-up-to-krw-20t-each/",
-      "source": "TrendForce",
-      "summary": "三星与 SK 海力士争抢 ASML 2027 至 2028 年 EUV 稀缺产能，各自下单约 10 至 20 万亿韩元扩产先进 DRAM。"
-    },
-    {
-      "date": "2026-11-11",
-      "category": "storage",
-      "title": "TrendForce：DRAM 高价催生 reballed 内存，2027 年手机渗透率将达 7%–9%",
-      "url": "https://www.trendforce.com/presscenter/news/20261106-13297.html",
-      "source": "TrendForce",
-      "summary": "原厂 DRAM 价格居高不下，手机厂转向 reballed 复用内存，渗透率 2026 年 3%–4%、2027 年升至 7%–9%。"
-    },
-    {
-      "date": "2026-11-11",
-      "category": "storage",
-      "title": "华为新型存储系统即将启动试商用，国产企业级 SSD 链条加速补位",
-      "url": "https://www.163.com/dy/article/LBDQVPP10519DDQ2.html",
-      "source": "网易",
-      "summary": "华为新型存储系统即将试商用，长江存储与国内企业级 SSD 厂商持续投入控制器、固件算法与模组。"
-    },
-    {
-      "date": "2026-11-11",
-      "category": "ai-infra",
-      "title": "36 氪：超节点走向规模交付，中信判断 2026 年是国产超节点落地元年",
-      "url": "https://www.36kr.com/p/4062351932085382",
-      "source": "36氪",
-      "summary": "超节点从样机走向规模交付，中信研报称 2026 年为国产落地元年，昇腾 960 面向十万亿参数模型。"
     }
   ]
 }
